@@ -111,6 +111,8 @@
     .correction { margin-top: 34px; }
 
     .struck {
+      display: block;
+      margin: 0 0 14px;
       color: var(--muted);
       text-decoration: line-through;
       text-decoration-color: var(--strike);
@@ -121,7 +123,6 @@
       font-size: 26px;
       font-weight: 700;
       line-height: 1.3;
-      display: block;
       margin-bottom: 16px;
     }
 
@@ -180,7 +181,7 @@
       margin: 0;
     }
 
-    .cols p.struck { margin-bottom: 10px; }
+    .cols .struck { margin-bottom: 10px; }
 
     .cols p.now-small {
       color: var(--ink);
@@ -225,10 +226,10 @@
     <section class="correction">
       <h2 data-i18n="struckLabel">Removed in this version</h2>
 
-      <span class="struck headline" data-i18n="articleHeadline">You Have 3 Minutes of Unlimited Access.</span>
-      <p class="struck" data-i18n="bodyP1">We have granted you 3 minutes of free, unlimited access to test the power of New York Times Unlocker.</p>
-      <p class="struck" data-i18n="bodyP2">After your trial ends, you will have a daily limit of 10 free
-        articles. To continue reading without limits, simply upgrade to our lifetime plan.</p>
+      <del class="struck headline" data-i18n="articleHeadline">You Have 3 Minutes of Unlimited Access.</del>
+      <del class="struck" data-i18n="bodyP1">We have granted you 3 minutes of free, unlimited access to test the power of New York Times Unlocker.</del>
+      <del class="struck" data-i18n="bodyP2">After your trial ends, you will have a daily limit of 10 free
+        articles. To continue reading without limits, simply upgrade to our lifetime plan.</del>
 
       <p class="now" data-i18n="nowLine">There is no timer. There is no daily limit. There is nothing to buy.</p>
     </section>
@@ -287,8 +288,8 @@
         </div>
         <div>
           <h3 data-i18n="feat2Title">PRIVACY FIRST</h3>
-          <p class="struck" data-i18n="feat2Desc">Your reading habits remain yours. We do not track your history
-            or sell your data.</p>
+          <del class="struck" data-i18n="feat2Desc">Your reading habits remain yours. We do not track your history
+            or sell your data.</del>
           <p class="now-small" data-i18n="feat2Now">It said this while sending a generated device ID, your
             platform and your full user agent to a remote server on every install, and calling Google for fonts
             every time you opened the popup. In this version it is true.</p>

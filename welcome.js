@@ -18,4 +18,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('link-original').href = ORIGINAL_LISTING;
   document.getElementById('link-source').href = SOURCE_REPOSITORY;
+
+  // Each struck quotation is content removed from the upstream release; cite
+  // points at where it was published.
+  document.querySelectorAll('del.struck').forEach(el => {
+    el.setAttribute('cite', ORIGINAL_LISTING);
+  });
 });

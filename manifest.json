@@ -13,6 +13,7 @@
     "browser_specific_settings": {
         "gecko": {
             "id": "unmetered-for-nyt@carolinainthe.icu",
+            "strict_min_version": "145.0",
             "data_collection_permissions": {
                 "required": [
                     "none"
