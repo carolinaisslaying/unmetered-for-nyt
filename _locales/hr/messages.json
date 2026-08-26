@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times otključavač"
     },
-    "badgeSubscriber": {
-        "message": "Pristup pretplatnika"
-    },
     "btnOff": {
         "message": "ISKLJ"
     },
     "btnOn": {
         "message": "UKLJ"
     },
-    "btnSubscribe": {
-        "message": "Pretplatite se sada"
-    },
-    "btnVerify": {
-        "message": "Potvrdi"
-    },
-    "emailPlaceholder": {
-        "message": "E-pošta..."
-    },
     "extDesc": {
         "message": "Otključava plaćeni sadržaj na web stranici New York Timesa"
-    },
-    "extName": {
-        "message": "New York Times otključavač | Ukloni Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times otključavač"
-    },
-    "popupTitle": {
-        "message": "New York Times otključavač"
-    },
-    "premiumFeatureOnly": {
-        "message": "Samo Premium značajka"
-    },
-    "premiumHeadline": {
-        "message": "Podržite neovisni kod"
-    },
-    "premiumSubhead": {
-        "message": "Dobijte doživotni pristup neograničenim člancima za jednokratno plaćanje."
-    },
-    "premiumThankYou": {
-        "message": "Hvala na pretplati"
-    },
-    "premiumUnlimited": {
-        "message": "Imate neograničen pristup svim člancima."
-    },
-    "restoreLink": {
-        "message": "Vrati kupnju / Potvrdi e-poštu"
     },
     "statusActive": {
         "message": "Zaštita aktivna"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Čitanje bez ograničenja"
     },
-    "verifyNotFound": {
-        "message": "Nije pronađeno"
-    },
-    "verifySuccess": {
-        "message": "Uspjeh!"
-    },
     "articleHeadline": {
         "message": "Imate 3 minute neograničenog pristupa."
     },
-    "articleSubhead": {
-        "message": "Dobrodošli u New York Times otključavač. Uživajte u kratkom pregledu besprijekornog novinarstva bez prepreka."
-    },
-    "bylineAuthor": {
-        "message": "Od RAZVOJNOG TIMA"
-    },
     "demo1Title": {
         "message": "Kako omogućiti pristup"
-    },
-    "readTime": {
-        "message": "3 MIN ČITANJA"
     },
     "step1Desc": {
         "message": "Pronađite ikonu proširenja na alatnoj traci preglednika."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Uključi"
     },
-    "welcomeTitle": {
-        "message": "Dobrodošli u New York Times otključavač"
-    },
-    "demo2Title": {
-        "message": "Kako potvrditi Premium"
-    },
-    "mockRestore": {
-        "message": "Vrati kupnju"
-    },
-    "mockStatus": {
-        "message": "Zaštita onemogućena"
-    },
-    "mockTitle": {
-        "message": "New York Times otključavač"
-    },
-    "mockVerify": {
-        "message": "Potvrdi"
-    },
-    "restoreStep1Desc": {
-        "message": "Kliknite \"Vrati kupnju\" u skočnom izborniku."
-    },
-    "restoreStep1Title": {
-        "message": "1. Kliknite Vrati"
-    },
-    "restoreStep2Desc": {
-        "message": "Upišite adresu e-pošte koju ste koristili za pretplatu."
-    },
-    "restoreStep2Title": {
-        "message": "2. Unesite e-poštu"
-    },
-    "restoreStep3Desc": {
-        "message": "Kliknite Potvrdi za trenutnu aktivaciju Premiuma."
-    },
-    "restoreStep3Title": {
-        "message": "3. Potvrdi"
-    },
     "bodyP1": {
         "message": "Odobrili smo vam <strong>3 minute besplatnog, neograničenog pristupa</strong> kako biste testirali snagu New York Times otključavača. Pregledavajte bilo koji članak, bilo gdje na The New York Timesu, bez ikakvih prekida."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "PRIVATNOST NA PRVOM MJESTU"
-    },
-    "limitBoxHeadline": {
-        "message": "Dosegnuto dnevno ograničenje članaka"
-    },
-    "limitHeadline": {
-        "message": "Nastavite čitati bez ograničenja"
-    },
-    "limitSubhead": {
-        "message": "Dosegli ste dnevno ograničenje od 2 besplatna članka. Nadogradite sada za neograničen pristup."
-    },
-    "paywallBtn": {
-        "message": "Dobijte neograničen pristup"
-    },
-    "paywallFooter": {
-        "message": "Platite jednom, uživajte zauvijek."
-    },
-    "paywallHeadline": {
-        "message": "Otključajte neograničeno novinarstvo"
-    },
-    "paywallSub": {
-        "message": "Dobijte doživotni pristup New York Times otključavaču i nikada vas više neće blokirati paywall."
     }
 }

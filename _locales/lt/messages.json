@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times atrakintojas"
     },
-    "badgeSubscriber": {
-        "message": "Prenumeratoriaus prieiga"
-    },
     "btnOff": {
         "message": "IŠJUNGTA"
     },
     "btnOn": {
         "message": "ĮJUNGTA"
     },
-    "btnSubscribe": {
-        "message": "Prenumeruoti dabar"
-    },
-    "btnVerify": {
-        "message": "Patvirtinti"
-    },
-    "emailPlaceholder": {
-        "message": "El. paštas..."
-    },
     "extDesc": {
         "message": "Atrakina mokamą turinį „New York Times“ svetainėje"
-    },
-    "extName": {
-        "message": "New York Times atrakintojas | Pašalinti mokėjimo sieną"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times atrakintojas"
-    },
-    "popupTitle": {
-        "message": "New York Times atrakintojas"
-    },
-    "premiumFeatureOnly": {
-        "message": "Tik Premium funkcija"
-    },
-    "premiumHeadline": {
-        "message": "Palaikykite nepriklausomą kodą"
-    },
-    "premiumSubhead": {
-        "message": "Gaukite visą gyvenimą trunkančią prieigą prie neribotų straipsnių už vienkartinį mokėjimą."
-    },
-    "premiumThankYou": {
-        "message": "Ačiū, kad prenumeruojate"
-    },
-    "premiumUnlimited": {
-        "message": "Turite neribotą prieigą prie visų straipsnių."
-    },
-    "restoreLink": {
-        "message": "Atkurti pirkimą / Patvirtinti el. paštą"
     },
     "statusActive": {
         "message": "Apsauga aktyvi"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Skaitymas be apribojimų"
     },
-    "verifyNotFound": {
-        "message": "Nerasta"
-    },
-    "verifySuccess": {
-        "message": "Sėkmė!"
-    },
     "articleHeadline": {
         "message": "Turite 3 minutes neribotos prieigos."
     },
-    "articleSubhead": {
-        "message": "Sveiki atvykę į New York Times atrakintoją. Mėgaukitės trumpa sklandžios žurnalistikos be kliūčių peržiūra."
-    },
-    "bylineAuthor": {
-        "message": "KŪRIMO KOMANDA"
-    },
     "demo1Title": {
         "message": "Kaip įjungti prieigą"
-    },
-    "readTime": {
-        "message": "3 MIN SKAITYMAS"
     },
     "step1Desc": {
         "message": "Raskite plėtinio piktogramą naršyklės įrankių juostoje."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Įjungti"
     },
-    "welcomeTitle": {
-        "message": "Sveiki atvykę į New York Times atrakintoją"
-    },
-    "demo2Title": {
-        "message": "Kaip patvirtinti Premium"
-    },
-    "mockRestore": {
-        "message": "Atkurti pirkimą"
-    },
-    "mockStatus": {
-        "message": "Apsauga išjungta"
-    },
-    "mockTitle": {
-        "message": "New York Times atrakintojas"
-    },
-    "mockVerify": {
-        "message": "Patvirtinti"
-    },
-    "restoreStep1Desc": {
-        "message": "Iššokančiajame meniu spustelėkite „Atkurti pirkimą“."
-    },
-    "restoreStep1Title": {
-        "message": "1. Spustelėkite Atkurti"
-    },
-    "restoreStep2Desc": {
-        "message": "Įveskite el. pašto adresą, kurį naudojote prenumeruodami."
-    },
-    "restoreStep2Title": {
-        "message": "2. Įveskite el. paštą"
-    },
-    "restoreStep3Desc": {
-        "message": "Spustelėkite Patvirtinti, kad akimirksniu suaktyvintumėte Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Patvirtinti"
-    },
     "bodyP1": {
         "message": "Suteikėme jums <strong>3 minutes nemokamos, neribotos prieigos</strong>, kad išbandytumėte New York Times atrakintojo galią. Naršykite bet kurį straipsnį bet kurioje „New York Times“ vietoje be jokių trikdžių."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "PRIVATUMAS PIRMA"
-    },
-    "limitBoxHeadline": {
-        "message": "Pasiekta dienos straipsnių riba"
-    },
-    "limitHeadline": {
-        "message": "Skaitykite toliau be apribojimų"
-    },
-    "limitSubhead": {
-        "message": "Pasiekėte 2 nemokamų straipsnių dienos limitą. Atnaujinkite dabar, kad gautumėte neribotą prieigą."
-    },
-    "paywallBtn": {
-        "message": "Gaukite neribotą prieigą"
-    },
-    "paywallFooter": {
-        "message": "Mokėkite vieną kartą, mėgaukitės amžinai."
-    },
-    "paywallHeadline": {
-        "message": "Atrakinkite neribotą žurnalistiką"
-    },
-    "paywallSub": {
-        "message": "Gaukite visą gyvenimą trunkančią prieigą prie New York Times atrakintojo ir niekada daugiau nebūkite užblokuoti mokėjimo sienos."
     }
 }

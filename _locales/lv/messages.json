@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times atbloķētājs"
     },
-    "badgeSubscriber": {
-        "message": "Abonenta piekļuve"
-    },
     "btnOff": {
         "message": "IZSLĒGTS"
     },
     "btnOn": {
         "message": "IESLĒGTS"
     },
-    "btnSubscribe": {
-        "message": "Abonēt tagad"
-    },
-    "btnVerify": {
-        "message": "Pārbaudīt"
-    },
-    "emailPlaceholder": {
-        "message": "E-pasts..."
-    },
     "extDesc": {
         "message": "Atbloķē maksas saturu New York Times vietnē"
-    },
-    "extName": {
-        "message": "New York Times atbloķētājs | Noņemt Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times atbloķētājs"
-    },
-    "popupTitle": {
-        "message": "New York Times atbloķētājs"
-    },
-    "premiumFeatureOnly": {
-        "message": "Tikai Premium funkcija"
-    },
-    "premiumHeadline": {
-        "message": "Atbalstiet neatkarīgu kodu"
-    },
-    "premiumSubhead": {
-        "message": "Iegūstiet mūža piekļuvi neierobežotiem rakstiem par vienreizēju maksājumu."
-    },
-    "premiumThankYou": {
-        "message": "Paldies, ka abonējāt"
-    },
-    "premiumUnlimited": {
-        "message": "Jums ir neierobežota piekļuve visiem rakstiem."
-    },
-    "restoreLink": {
-        "message": "Atjaunot pirkumu / Pārbaudīt e-pastu"
     },
     "statusActive": {
         "message": "Aizsardzība aktīva"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Lasīšana bez ierobežojumiem"
     },
-    "verifyNotFound": {
-        "message": "Nav atrasts"
-    },
-    "verifySuccess": {
-        "message": "Panākumi!"
-    },
     "articleHeadline": {
         "message": "Jums ir 3 minūtes neierobežotas piekļuves."
     },
-    "articleSubhead": {
-        "message": "Laipni lūdzam New York Times atbloķētājā. Izbaudiet īsu priekšskatījumu nevainojamai žurnālistikai bez šķēršļiem."
-    },
-    "bylineAuthor": {
-        "message": "No IZSTRĀDES KOMANDAS"
-    },
     "demo1Title": {
         "message": "Kā iespējot piekļuvi"
-    },
-    "readTime": {
-        "message": "3 MIN LASĪŠANA"
     },
     "step1Desc": {
         "message": "Atrodiet paplašinājuma ikonu pārlūkprogrammas rīkjoslā."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Ieslēgt"
     },
-    "welcomeTitle": {
-        "message": "Laipni lūdzam New York Times atbloķētājā"
-    },
-    "demo2Title": {
-        "message": "Kā pārbaudīt Premium"
-    },
-    "mockRestore": {
-        "message": "Atjaunot pirkumu"
-    },
-    "mockStatus": {
-        "message": "Aizsardzība atspējota"
-    },
-    "mockTitle": {
-        "message": "New York Times atbloķētājs"
-    },
-    "mockVerify": {
-        "message": "Pārbaudīt"
-    },
-    "restoreStep1Desc": {
-        "message": "Uznirstošajā izvēlnē noklikšķiniet uz \"Atjaunot pirkumu\"."
-    },
-    "restoreStep1Title": {
-        "message": "1. Noklikšķiniet uz Atjaunot"
-    },
-    "restoreStep2Desc": {
-        "message": "Ievadiet e-pasta adresi, kuru izmantojāt abonēšanai."
-    },
-    "restoreStep2Title": {
-        "message": "2. Ievadiet e-pastu"
-    },
-    "restoreStep3Desc": {
-        "message": "Noklikšķiniet uz Pārbaudīt, lai nekavējoties aktivizētu Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Pārbaudīt"
-    },
     "bodyP1": {
         "message": "Mēs esam piešķīruši jums <strong>3 minūtes bezmaksas, neierobežotas piekļuves</strong>, lai pārbaudītu New York Times atbloķētāja jaudu. Pārlūkojiet jebkuru rakstu jebkurā vietā New York Times bez pārtraukumiem."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "PRIVĀTUMS PIRMAJĀ VIETĀ"
-    },
-    "limitBoxHeadline": {
-        "message": "Sasniegts dienas rakstu limits"
-    },
-    "limitHeadline": {
-        "message": "Turpiniet lasīt bez ierobežojumiem"
-    },
-    "limitSubhead": {
-        "message": "Esat sasniedzis savu dienas limitu — 2 bezmaksas rakstus. Jauniniet tūlīt, lai iegūtu neierobežotu piekļuvi."
-    },
-    "paywallBtn": {
-        "message": "Iegūstiet neierobežotu piekļuvi"
-    },
-    "paywallFooter": {
-        "message": "Maksājiet vienreiz, izbaudiet mūžīgi."
-    },
-    "paywallHeadline": {
-        "message": "Atbloķējiet neierobežotu žurnālistiku"
-    },
-    "paywallSub": {
-        "message": "Iegūstiet mūža piekļuvi New York Times atbloķētājam un nekad vairs netieciet bloķēts ar maksas sienu."
     }
 }

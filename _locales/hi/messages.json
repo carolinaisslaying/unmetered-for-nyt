@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times अनलॉकर"
     },
-    "badgeSubscriber": {
-        "message": "ग्राहक पहुंच"
-    },
     "btnOff": {
         "message": "बंद"
     },
     "btnOn": {
         "message": "चालू"
     },
-    "btnSubscribe": {
-        "message": "अभी सदस्यता लें"
-    },
-    "btnVerify": {
-        "message": "सत्यापित करें"
-    },
-    "emailPlaceholder": {
-        "message": "ईमेल..."
-    },
     "extDesc": {
         "message": "न्यूयॉर्क टाइम्स वेबसाइट पर पेवॉल सामग्री को अनलॉक करता है"
-    },
-    "extName": {
-        "message": "New York Times अनलॉकर | पेवॉल हटाएं"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times अनलॉकर"
-    },
-    "popupTitle": {
-        "message": "New York Times अनलॉकर"
-    },
-    "premiumFeatureOnly": {
-        "message": "केवल प्रीमियम सुविधा"
-    },
-    "premiumHeadline": {
-        "message": "स्वतंत्र कोड का समर्थन करें"
-    },
-    "premiumSubhead": {
-        "message": "एकमुश्त भुगतान के लिए असीमित लेखों तक आजीवन पहुंच प्राप्त करें।"
-    },
-    "premiumThankYou": {
-        "message": "सदस्यता लेने के लिए धन्यवाद"
-    },
-    "premiumUnlimited": {
-        "message": "आपके पास सभी लेखों तक असीमित पहुंच है।"
-    },
-    "restoreLink": {
-        "message": "खरीद बहाल करें / ईमेल सत्यापित करें"
     },
     "statusActive": {
         "message": "सुरक्षा सक्रिय"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "बिना किसी सीमा के पढ़ना"
     },
-    "verifyNotFound": {
-        "message": "नहीं मिला"
-    },
-    "verifySuccess": {
-        "message": "सफलता!"
-    },
     "articleHeadline": {
         "message": "आपके पास असीमित पहुंच के 3 मिनट हैं।"
     },
-    "articleSubhead": {
-        "message": "New York Times अनलॉकर में आपका स्वागत है। निर्बाध, बाधा-मुक्त पत्रकारिता के संक्षिप्त पूर्वावलोकन का आनंद लें।"
-    },
-    "bylineAuthor": {
-        "message": "विकास दल द्वारा"
-    },
     "demo1Title": {
         "message": "पहुंच कैसे सक्षम करें"
-    },
-    "readTime": {
-        "message": "3 मिनट पढ़ें"
     },
     "step1Desc": {
         "message": "अपने ब्राउज़र टूलबार में एक्सटेंशन आइकन ढूंढें।"
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. चालू करें"
     },
-    "welcomeTitle": {
-        "message": "New York Times अनलॉकर में आपका स्वागत है"
-    },
-    "demo2Title": {
-        "message": "प्रीमियम कैसे सत्यापित करें"
-    },
-    "mockRestore": {
-        "message": "खरीद बहाल करें"
-    },
-    "mockStatus": {
-        "message": "सुरक्षा अक्षम"
-    },
-    "mockTitle": {
-        "message": "New York Times अनलॉकर"
-    },
-    "mockVerify": {
-        "message": "सत्यापित करें"
-    },
-    "restoreStep1Desc": {
-        "message": "पॉपअप मेनू में \"खरीद बहाल करें\" पर क्लिक करें।"
-    },
-    "restoreStep1Title": {
-        "message": "1. पुनर्स्थापना पर क्लिक करें"
-    },
-    "restoreStep2Desc": {
-        "message": "वह ईमेल पता टाइप करें जिसका उपयोग आपने सदस्यता लेने के लिए किया था।"
-    },
-    "restoreStep2Title": {
-        "message": "2. ईमेल दर्ज करें"
-    },
-    "restoreStep3Desc": {
-        "message": "प्रीमियम को तुरंत सक्रिय करने के लिए सत्यापित करें पर क्लिक करें।"
-    },
-    "restoreStep3Title": {
-        "message": "3. सत्यापित करें"
-    },
     "bodyP1": {
         "message": "हमने आपको New York Times अनलॉकर की शक्ति का परीक्षण करने के लिए <strong>3 मिनट की मुफ्त, असीमित पहुंच</strong> प्रदान की है। द न्यूयॉर्क टाइम्स पर कहीं भी, बिना किसी रुकावट के कोई भी लेख ब्राउज़ करें।"
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "गोपनीयता पहले"
-    },
-    "limitBoxHeadline": {
-        "message": "दैनिक लेख सीमा पूरी हो गई"
-    },
-    "limitHeadline": {
-        "message": "बिना किसी सीमा के पढ़ना जारी रखें"
-    },
-    "limitSubhead": {
-        "message": "आप 2 मुफ्त लेखों की अपनी दैनिक सीमा तक पहुँच चुके हैं। असीमित पहुँच के लिए अभी अपग्रेड करें।"
-    },
-    "paywallBtn": {
-        "message": "असीमित पहुंच प्राप्त करें"
-    },
-    "paywallFooter": {
-        "message": "एक बार भुगतान करें, हमेशा आनंद लें।"
-    },
-    "paywallHeadline": {
-        "message": "असीमित पत्रकारिता को अनलॉक करें"
-    },
-    "paywallSub": {
-        "message": "New York Times अनलॉकर के लिए आजीवन पहुंच प्राप्त करें और फिर कभी पेवॉल द्वारा अवरुद्ध न हों।"
     }
 }

@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Timesアンロッカー"
     },
-    "badgeSubscriber": {
-        "message": "購読者アクセス"
-    },
     "btnOff": {
         "message": "オフ"
     },
     "btnOn": {
         "message": "オン"
     },
-    "btnSubscribe": {
-        "message": "今すぐ購読"
-    },
-    "btnVerify": {
-        "message": "確認"
-    },
-    "emailPlaceholder": {
-        "message": "メール..."
-    },
     "extDesc": {
         "message": "ニューヨークタイムズのウェブサイト上の有料コンテンツのロックを解除します"
-    },
-    "extName": {
-        "message": "New York Timesアンロッカー | ペイウォールを削除"
-    },
-    "footerText": {
-        "message": "© 2025 New York Timesアンロッカー"
-    },
-    "popupTitle": {
-        "message": "New York Timesアンロッカー"
-    },
-    "premiumFeatureOnly": {
-        "message": "プレミアム機能のみ"
-    },
-    "premiumHeadline": {
-        "message": "独立したコードをサポート"
-    },
-    "premiumSubhead": {
-        "message": "1回の支払いで無制限の記事に生涯アクセスできます。"
-    },
-    "premiumThankYou": {
-        "message": "購読ありがとうございます"
-    },
-    "premiumUnlimited": {
-        "message": "すべての記事に無制限にアクセスできます。"
-    },
-    "restoreLink": {
-        "message": "購入を復元 / メールを確認"
     },
     "statusActive": {
         "message": "保護有効"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "制限なしで読む"
     },
-    "verifyNotFound": {
-        "message": "見つかりません"
-    },
-    "verifySuccess": {
-        "message": "成功！"
-    },
     "articleHeadline": {
         "message": "3分間の無制限アクセスがあります。"
     },
-    "articleSubhead": {
-        "message": "New York Timesアンロッカーへようこそ。シームレスでバリアフリーなジャーナリズムの簡単なプレビューをお楽しみください。"
-    },
-    "bylineAuthor": {
-        "message": "開発チームによる"
-    },
     "demo1Title": {
         "message": "アクセスを有効にする方法"
-    },
-    "readTime": {
-        "message": "3分で読めます"
     },
     "step1Desc": {
         "message": "ブラウザのツールバーで拡張機能アイコンを見つけます。"
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. オンにする"
     },
-    "welcomeTitle": {
-        "message": "New York Timesアンロッカーへようこそ"
-    },
-    "demo2Title": {
-        "message": "プレミアムを確認する方法"
-    },
-    "mockRestore": {
-        "message": "購入を復元"
-    },
-    "mockStatus": {
-        "message": "保護無効"
-    },
-    "mockTitle": {
-        "message": "New York Timesアンロッカー"
-    },
-    "mockVerify": {
-        "message": "確認"
-    },
-    "restoreStep1Desc": {
-        "message": "ポップアップメニューの「購入を復元」をクリックします。"
-    },
-    "restoreStep1Title": {
-        "message": "1. 復元をクリック"
-    },
-    "restoreStep2Desc": {
-        "message": "購読に使用したメールアドレスを入力します。"
-    },
-    "restoreStep2Title": {
-        "message": "2. メールを入力"
-    },
-    "restoreStep3Desc": {
-        "message": "確認をクリックして、すぐにプレミアムを有効にします。"
-    },
-    "restoreStep3Title": {
-        "message": "3. 確認"
-    },
     "bodyP1": {
         "message": "New York Timesアンロッカーの威力を試していただくために、<strong>3分間の無料無制限アクセス</strong>を付与しました。ニューヨークタイムズのどこにある記事でも、中断することなく閲覧できます。"
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "プライバシー第一"
-    },
-    "limitBoxHeadline": {
-        "message": "1日の記事制限に達しました"
-    },
-    "limitHeadline": {
-        "message": "制限なしで読み続ける"
-    },
-    "limitSubhead": {
-        "message": "1日あたりの無料記事2つの制限に達しました。無制限アクセスのために今すぐアップグレードしてください。"
-    },
-    "paywallBtn": {
-        "message": "無制限アクセスを取得"
-    },
-    "paywallFooter": {
-        "message": "一度支払えば、永遠に楽しめます。"
-    },
-    "paywallHeadline": {
-        "message": "無制限のジャーナリズムをロック解除"
-    },
-    "paywallSub": {
-        "message": "New York Timesアンロッカーへの生涯アクセスを取得し、二度とペイウォールにブロックされないようにしましょう。"
     }
 }

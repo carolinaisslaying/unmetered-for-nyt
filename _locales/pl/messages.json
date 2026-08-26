@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "Odblokowywacz New York Times"
     },
-    "badgeSubscriber": {
-        "message": "Dostęp subskrybenta"
-    },
     "btnOff": {
         "message": "WYŁ"
     },
     "btnOn": {
         "message": "WŁ"
     },
-    "btnSubscribe": {
-        "message": "Subskrybuj teraz"
-    },
-    "btnVerify": {
-        "message": "Weryfikuj"
-    },
-    "emailPlaceholder": {
-        "message": "E-mail..."
-    },
     "extDesc": {
         "message": "Odblokowuje płatne treści na stronie New York Times"
-    },
-    "extName": {
-        "message": "Odblokowywacz New York Times | Usuń Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 Odblokowywacz New York Times"
-    },
-    "popupTitle": {
-        "message": "Odblokowywacz New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "Tylko funkcja Premium"
-    },
-    "premiumHeadline": {
-        "message": "Wspieraj niezależny kod"
-    },
-    "premiumSubhead": {
-        "message": "Uzyskaj dożywotni dostęp do nieograniczonej liczby artykułów za jednorazową opłatą."
-    },
-    "premiumThankYou": {
-        "message": "Dziękujemy za subskrypcję"
-    },
-    "premiumUnlimited": {
-        "message": "Masz nieograniczony dostęp do wszystkich artykułów."
-    },
-    "restoreLink": {
-        "message": "Przywróć zakup / Weryfikuj e-mail"
     },
     "statusActive": {
         "message": "Ochrona aktywna"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Czytanie bez ograniczeń"
     },
-    "verifyNotFound": {
-        "message": "Nie znaleziono"
-    },
-    "verifySuccess": {
-        "message": "Sukces!"
-    },
     "articleHeadline": {
         "message": "Masz 3 minuty nieograniczonego dostępu."
     },
-    "articleSubhead": {
-        "message": "Witamy w Odblokowywaczu New York Times. Ciesz się krótkim podglądem płynnego dziennikarstwa bez barier."
-    },
-    "bylineAuthor": {
-        "message": "Przez ZESPÓŁ DEWELOPERSKI"
-    },
     "demo1Title": {
         "message": "Jak włączyć dostęp"
-    },
-    "readTime": {
-        "message": "3 MIN CZYTANIA"
     },
     "step1Desc": {
         "message": "Znajdź ikonę rozszerzenia na pasku narzędzi przeglądarki."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Włącz"
     },
-    "welcomeTitle": {
-        "message": "Witamy w Odblokowywaczu New York Times"
-    },
-    "demo2Title": {
-        "message": "Jak zweryfikować Premium"
-    },
-    "mockRestore": {
-        "message": "Przywróć zakup"
-    },
-    "mockStatus": {
-        "message": "Ochrona wyłączona"
-    },
-    "mockTitle": {
-        "message": "Odblokowywacz New York Times"
-    },
-    "mockVerify": {
-        "message": "Weryfikuj"
-    },
-    "restoreStep1Desc": {
-        "message": "Kliknij „Przywróć zakup” w menu podręcznym."
-    },
-    "restoreStep1Title": {
-        "message": "1. Kliknij Przywróć"
-    },
-    "restoreStep2Desc": {
-        "message": "Wpisz adres e-mail użyty do subskrypcji."
-    },
-    "restoreStep2Title": {
-        "message": "2. Wpisz e-mail"
-    },
-    "restoreStep3Desc": {
-        "message": "Kliknij Weryfikuj, aby natychmiast aktywować Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Weryfikuj"
-    },
     "bodyP1": {
         "message": "Przyznaliśmy Ci <strong>3 minuty bezpłatnego, nieograniczonego dostępu</strong>, aby przetestować moc Odblokowywacza New York Times. Przeglądaj dowolny artykuł w dowolnym miejscu w The New York Times bez żadnych przerw."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "PRYWATNOŚĆ PRZEDE WSZYSTKIM"
-    },
-    "limitBoxHeadline": {
-        "message": "Osiągnięto dzienny limit artykułów"
-    },
-    "limitHeadline": {
-        "message": "Kontynuuj czytanie bez ograniczeń"
-    },
-    "limitSubhead": {
-        "message": "Osiągnąłeś dzienny limit 2 bezpłatnych artykułów. Uaktualnij teraz, aby uzyskać nieograniczony dostęp."
-    },
-    "paywallBtn": {
-        "message": "Uzyskaj nieograniczony dostęp"
-    },
-    "paywallFooter": {
-        "message": "Zapłać raz, ciesz się na zawsze."
-    },
-    "paywallHeadline": {
-        "message": "Odblokuj nieograniczone dziennikarstwo"
-    },
-    "paywallSub": {
-        "message": "Uzyskaj dożywotni dostęp do Odblokowywacza New York Times i nigdy więcej nie daj się zablokować przez paywall."
     }
 }

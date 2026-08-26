@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times Unlocker"
     },
-    "badgeSubscriber": {
-        "message": "Prenumerantåtkomst"
-    },
     "btnOff": {
         "message": "AV"
     },
     "btnOn": {
         "message": "PÅ"
     },
-    "btnSubscribe": {
-        "message": "Prenumerera nu"
-    },
-    "btnVerify": {
-        "message": "Verifiera"
-    },
-    "emailPlaceholder": {
-        "message": "E-post..."
-    },
     "extDesc": {
         "message": "Låser upp betalinnehåll på New York Times webbplats"
-    },
-    "extName": {
-        "message": "New York Times Unlocker | Ta bort betalvägg"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times Unlocker"
-    },
-    "popupTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "premiumFeatureOnly": {
-        "message": "Endast Premium-funktion"
-    },
-    "premiumHeadline": {
-        "message": "Stöd oberoende kod"
-    },
-    "premiumSubhead": {
-        "message": "Få livstids tillgång till obegränsade artiklar för en engångsbetalning."
-    },
-    "premiumThankYou": {
-        "message": "Tack för att du prenumererar"
-    },
-    "premiumUnlimited": {
-        "message": "Du har obegränsad tillgång till alla artiklar."
-    },
-    "restoreLink": {
-        "message": "Återställ köp / Verifiera e-post"
     },
     "statusActive": {
         "message": "Skydd aktivt"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Läsning utan gränser"
     },
-    "verifyNotFound": {
-        "message": "Hittades inte"
-    },
-    "verifySuccess": {
-        "message": "Framgång!"
-    },
     "articleHeadline": {
         "message": "Du har 3 minuters obegränsad tillgång."
     },
-    "articleSubhead": {
-        "message": "Välkommen till New York Times Unlocker. Njut av en kort förhandsvisning av sömlös, barriärfri journalistik."
-    },
-    "bylineAuthor": {
-        "message": "Av UTVECKLINGSTEAMET"
-    },
     "demo1Title": {
         "message": "Hur man aktiverar åtkomst"
-    },
-    "readTime": {
-        "message": "3 MIN LÄSNING"
     },
     "step1Desc": {
         "message": "Hitta tilläggsikonen i webbläsarens verktygsfält."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Slå PÅ"
     },
-    "welcomeTitle": {
-        "message": "Välkommen till New York Times Unlocker"
-    },
-    "demo2Title": {
-        "message": "Hur man verifierar Premium"
-    },
-    "mockRestore": {
-        "message": "Återställ köp"
-    },
-    "mockStatus": {
-        "message": "Skydd inaktiverat"
-    },
-    "mockTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "mockVerify": {
-        "message": "Verifiera"
-    },
-    "restoreStep1Desc": {
-        "message": "Klicka på \"Återställ köp\" i popup-menyn."
-    },
-    "restoreStep1Title": {
-        "message": "1. Klicka på Återställ"
-    },
-    "restoreStep2Desc": {
-        "message": "Skriv in e-postadressen du använde för att prenumerera."
-    },
-    "restoreStep2Title": {
-        "message": "2. Ange e-post"
-    },
-    "restoreStep3Desc": {
-        "message": "Klicka på Verifiera för att omedelbart aktivera Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Verifiera"
-    },
     "bodyP1": {
         "message": "Vi har gett dig <strong>3 minuters gratis, obegränsad tillgång</strong> för att testa kraften i New York Times Unlocker. Bläddra i vilken artikel som helst, var som helst på The New York Times, utan avbrott."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "INTEGRITET FÖRST"
-    },
-    "limitBoxHeadline": {
-        "message": "Daglig artikelgräns nådd"
-    },
-    "limitHeadline": {
-        "message": "Fortsätt läsa utan gränser"
-    },
-    "limitSubhead": {
-        "message": "Du har nått din dagliga gräns på 2 gratisartiklar. Uppgradera nu för obegränsad tillgang."
-    },
-    "paywallBtn": {
-        "message": "Få obegränsad tillgång"
-    },
-    "paywallFooter": {
-        "message": "Betala en gång, njut för alltid."
-    },
-    "paywallHeadline": {
-        "message": "Lås upp obegränsad journalistik"
-    },
-    "paywallSub": {
-        "message": "Få livstidstillgång till New York Times Unlocker och bli aldrig blockerad av en betalvägg igen."
     }
 }

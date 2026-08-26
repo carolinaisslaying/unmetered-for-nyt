@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times Ontgrendelaar"
     },
-    "badgeSubscriber": {
-        "message": "Abonneetoegang"
-    },
     "btnOff": {
         "message": "UIT"
     },
     "btnOn": {
         "message": "AAN"
     },
-    "btnSubscribe": {
-        "message": "Abonneer nu"
-    },
-    "btnVerify": {
-        "message": "Verifiëren"
-    },
-    "emailPlaceholder": {
-        "message": "E-mail..."
-    },
     "extDesc": {
         "message": "Ontgrendelt betaalde inhoud op de website van de New York Times"
-    },
-    "extName": {
-        "message": "New York Times Ontgrendelaar | Paywall verwijderen"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times Ontgrendelaar"
-    },
-    "popupTitle": {
-        "message": "New York Times Ontgrendelaar"
-    },
-    "premiumFeatureOnly": {
-        "message": "Alleen Premium-functie"
-    },
-    "premiumHeadline": {
-        "message": "Steun onafhankelijke code"
-    },
-    "premiumSubhead": {
-        "message": "Krijg levenslang toegang tot onbeperkte artikelen voor een eenmalige betaling."
-    },
-    "premiumThankYou": {
-        "message": "Bedankt voor het abonneren"
-    },
-    "premiumUnlimited": {
-        "message": "U heeft onbeperkte toegang tot alle artikelen."
-    },
-    "restoreLink": {
-        "message": "Aankoop herstellen / E-mail verifiëren"
     },
     "statusActive": {
         "message": "Bescherming actief"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Lezen zonder grenzen"
     },
-    "verifyNotFound": {
-        "message": "Niet gevonden"
-    },
-    "verifySuccess": {
-        "message": "Succes!"
-    },
     "articleHeadline": {
         "message": "U heeft 3 minuten onbeperkte toegang."
     },
-    "articleSubhead": {
-        "message": "Welkom bij New York Times Ontgrendelaar. Geniet van een korte preview van naadloze, barrièrevrije journalistiek."
-    },
-    "bylineAuthor": {
-        "message": "Door HET ONTWIKKELTEAM"
-    },
     "demo1Title": {
         "message": "Toegang inschakelen"
-    },
-    "readTime": {
-        "message": "3 MIN LEZEN"
     },
     "step1Desc": {
         "message": "Zoek het extensiepictogram in de werkbalk van uw browser."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Aanzetten"
     },
-    "welcomeTitle": {
-        "message": "Welkom bij New York Times Ontgrendelaar"
-    },
-    "demo2Title": {
-        "message": "Premium verifiëren"
-    },
-    "mockRestore": {
-        "message": "Aankoop herstellen"
-    },
-    "mockStatus": {
-        "message": "Bescherming uitgeschakeld"
-    },
-    "mockTitle": {
-        "message": "New York Times Ontgrendelaar"
-    },
-    "mockVerify": {
-        "message": "Verifiëren"
-    },
-    "restoreStep1Desc": {
-        "message": "Klik op \"Aankoop herstellen\" in het pop-upmenu."
-    },
-    "restoreStep1Title": {
-        "message": "1. Klik op Herstellen"
-    },
-    "restoreStep2Desc": {
-        "message": "Typ het e-mailadres dat u hebt gebruikt om u te abonneren."
-    },
-    "restoreStep2Title": {
-        "message": "2. Voer e-mail in"
-    },
-    "restoreStep3Desc": {
-        "message": "Klik op Verifiëren om Premium direct te activeren."
-    },
-    "restoreStep3Title": {
-        "message": "3. Verifiëren"
-    },
     "bodyP1": {
         "message": "We hebben u <strong>3 minuten gratis, onbeperkte toegang</strong> gegeven om de kracht van New York Times Ontgrendelaar te testen. Blader door elk artikel, overal op The New York Times, zonder onderbrekingen."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "PRIVACY EERST"
-    },
-    "limitBoxHeadline": {
-        "message": "Dagelijkse artikellimiet bereikt"
-    },
-    "limitHeadline": {
-        "message": "Blijf lezen zonder beperkingen"
-    },
-    "limitSubhead": {
-        "message": "U heeft uw dagelijkse limiet van 2 gratis artikelen bereikt. Upgrade nu voor onbeperkte toegang."
-    },
-    "paywallBtn": {
-        "message": "Krijg onbeperkte toegang"
-    },
-    "paywallFooter": {
-        "message": "Betaal één keer, geniet voor altijd."
-    },
-    "paywallHeadline": {
-        "message": "Ontgrendel onbeperkte journalistiek"
-    },
-    "paywallSub": {
-        "message": "Krijg levenslange toegang tot New York Times Ontgrendelaar en word nooit meer geblokkeerd door een paywall."
     }
 }

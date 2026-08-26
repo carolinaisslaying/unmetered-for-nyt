@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "ตัวปลดล็อก New York Times"
     },
-    "badgeSubscriber": {
-        "message": "การเข้าถึงสำหรับสมาชิก"
-    },
     "btnOff": {
         "message": "ปิด"
     },
     "btnOn": {
         "message": "เปิด"
     },
-    "btnSubscribe": {
-        "message": "สมัครสมาชิกตอนนี้"
-    },
-    "btnVerify": {
-        "message": "ตรวจสอบ"
-    },
-    "emailPlaceholder": {
-        "message": "อีเมล..."
-    },
     "extDesc": {
         "message": "ปลดล็อกเนื้อหาที่ต้องชำระเงินบนเว็บไซต์ New York Times"
-    },
-    "extName": {
-        "message": "ตัวปลดล็อก New York Times | ลบ Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 ตัวปลดล็อก New York Times"
-    },
-    "popupTitle": {
-        "message": "ตัวปลดล็อก New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "ฟีเจอร์พรีเมียมเท่านั้น"
-    },
-    "premiumHeadline": {
-        "message": "สนับสนุนโค้ดอิสระ"
-    },
-    "premiumSubhead": {
-        "message": "รับสิทธิ์เข้าถึงบทความไม่จำกัดตลอดชีพด้วยการชำระเงินเพียงครั้งเดียว"
-    },
-    "premiumThankYou": {
-        "message": "ขอบคุณสำหรับการสมัครสมาชิก"
-    },
-    "premiumUnlimited": {
-        "message": "คุณมีสิทธิ์เข้าถึงบทความทั้งหมดได้ไม่จำกัด"
-    },
-    "restoreLink": {
-        "message": "กู้คืนการซื้อ / ตรวจสอบอีเมล"
     },
     "statusActive": {
         "message": "การป้องกันเปิดใช้งาน"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "อ่านได้ไม่จำกัด"
     },
-    "verifyNotFound": {
-        "message": "ไม่พบ"
-    },
-    "verifySuccess": {
-        "message": "สำเร็จ!"
-    },
     "articleHeadline": {
         "message": "คุณมีเวลาเข้าถึงไม่จำกัด 3 นาที"
     },
-    "articleSubhead": {
-        "message": "ยินดีต้อนรับสู่ตัวปลดล็อก New York Times เพลิดเพลินกับการแสดงตัวอย่างสั้นๆ ของการทำข่าวที่ราบรื่นและไร้สิ่งกีดขวาง"
-    },
-    "bylineAuthor": {
-        "message": "โดยทีมพัฒนา"
-    },
     "demo1Title": {
         "message": "วิธีเปิดใช้งานการเข้าถึง"
-    },
-    "readTime": {
-        "message": "อ่าน 3 นาที"
     },
     "step1Desc": {
         "message": "ค้นหาไอคอนส่วนขยายในแถบเครื่องมือเบราว์เซอร์ของคุณ"
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. เปิดใช้งาน"
     },
-    "welcomeTitle": {
-        "message": "ยินดีต้อนรับสู่ตัวปลดล็อก New York Times"
-    },
-    "demo2Title": {
-        "message": "วิธีตรวจสอบพรีเมียม"
-    },
-    "mockRestore": {
-        "message": "กู้คืนการซื้อ"
-    },
-    "mockStatus": {
-        "message": "การป้องกันปิดใช้งาน"
-    },
-    "mockTitle": {
-        "message": "ตัวปลดล็อก New York Times"
-    },
-    "mockVerify": {
-        "message": "ตรวจสอบ"
-    },
-    "restoreStep1Desc": {
-        "message": "คลิก \"กู้คืนการซื้อ\" ในเมนูป๊อปอัป"
-    },
-    "restoreStep1Title": {
-        "message": "1. คลิกกู้คืน"
-    },
-    "restoreStep2Desc": {
-        "message": "พิมพ์ที่อยู่อีเมลที่คุณใช้สมัครสมาชิก"
-    },
-    "restoreStep2Title": {
-        "message": "2. ป้อนอีเมล"
-    },
-    "restoreStep3Desc": {
-        "message": "คลิกตรวจสอบเพื่อเปิดใช้งานพรีเมียมทันที"
-    },
-    "restoreStep3Title": {
-        "message": "3. ตรวจสอบ"
-    },
     "bodyP1": {
         "message": "เราได้มอบ <strong>สิทธิ์เข้าถึงฟรีไม่จำกัด 3 นาที</strong> ให้คุณเพื่อทดสอบประสิทธิภาพของตัวปลดล็อก New York Times เรียกดูบทความใดก็ได้ ทุกที่ใน The New York Times โดยไม่มีการหยุดชะงัก"
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "ความเป็นส่วนตัวต้องมาก่อน"
-    },
-    "limitBoxHeadline": {
-        "message": "ถึงขีดจำกัดบทความรายวันแล้ว"
-    },
-    "limitHeadline": {
-        "message": "อ่านต่อโดยไม่จำกัด"
-    },
-    "limitSubhead": {
-        "message": "คุณถึงขีดจำกัดรายวันของบทความฟรี 2 บทความแล้ว อัปเกรดทันทีเพื่อเข้าถึงไม่จำกัด"
-    },
-    "paywallBtn": {
-        "message": "รับสิทธิ์เข้าถึงไม่จำกัด"
-    },
-    "paywallFooter": {
-        "message": "จ่ายครั้งเดียว เพลิดเพลินได้ตลอดไป"
-    },
-    "paywallHeadline": {
-        "message": "ปลดล็อกการทำข่าวแบบไม่จำกัด"
-    },
-    "paywallSub": {
-        "message": "รับสิทธิ์เข้าถึงตัวปลดล็อก New York Times ตลอดชีพและจะไม่ถูกบล็อกโดย Paywall อีกต่อไป"
     }
 }

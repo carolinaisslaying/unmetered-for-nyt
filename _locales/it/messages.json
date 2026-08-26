@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "Sblocco New York Times"
     },
-    "badgeSubscriber": {
-        "message": "Accesso abbonato"
-    },
     "btnOff": {
         "message": "OFF"
     },
     "btnOn": {
         "message": "ON"
     },
-    "btnSubscribe": {
-        "message": "Abbonati ora"
-    },
-    "btnVerify": {
-        "message": "Verifica"
-    },
-    "emailPlaceholder": {
-        "message": "Email..."
-    },
     "extDesc": {
         "message": "Sblocca i contenuti a pagamento sul sito web del New York Times"
-    },
-    "extName": {
-        "message": "Sblocco New York Times | Rimuovi Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 Sblocco New York Times"
-    },
-    "popupTitle": {
-        "message": "Sblocco New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "Solo funzionalità Premium"
-    },
-    "premiumHeadline": {
-        "message": "Supporta il codice indipendente"
-    },
-    "premiumSubhead": {
-        "message": "Ottieni l'accesso a vita ad articoli illimitati con un pagamento unico."
-    },
-    "premiumThankYou": {
-        "message": "Grazie per esserti abbonato"
-    },
-    "premiumUnlimited": {
-        "message": "Hai accesso illimitato a tutti gli articoli."
-    },
-    "restoreLink": {
-        "message": "Ripristina acquisto / Verifica email"
     },
     "statusActive": {
         "message": "Protezione attiva"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Lettura senza limiti"
     },
-    "verifyNotFound": {
-        "message": "Non trovato."
-    },
-    "verifySuccess": {
-        "message": "Successo!"
-    },
     "articleHeadline": {
         "message": "Hai 3 minuti di accesso illimitato."
     },
-    "articleSubhead": {
-        "message": "Benvenuto in Sblocco New York Times. Goditi una breve anteprima di un giornalismo fluido e senza barriere."
-    },
-    "bylineAuthor": {
-        "message": "Dal TEAM DI SVILUPPO"
-    },
     "demo1Title": {
         "message": "Come abilitare l'accesso"
-    },
-    "readTime": {
-        "message": "LETTURA DI 3 MIN"
     },
     "step1Desc": {
         "message": "Trova l'icona dell'estensione nella barra degli strumenti del browser."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Attiva"
     },
-    "welcomeTitle": {
-        "message": "Benvenuto in Sblocco New York Times"
-    },
-    "demo2Title": {
-        "message": "Come verificare Premium"
-    },
-    "mockRestore": {
-        "message": "Ripristina acquisto"
-    },
-    "mockStatus": {
-        "message": "Protezione disabilitata"
-    },
-    "mockTitle": {
-        "message": "Sblocco New York Times"
-    },
-    "mockVerify": {
-        "message": "Verifica"
-    },
-    "restoreStep1Desc": {
-        "message": "Fai clic su \"Ripristina acquisto\" nel menu a comparsa."
-    },
-    "restoreStep1Title": {
-        "message": "1. Clicca su Ripristina"
-    },
-    "restoreStep2Desc": {
-        "message": "Digita l'indirizzo email che hai utilizzato per abbonarti."
-    },
-    "restoreStep2Title": {
-        "message": "2. Inserisci email"
-    },
-    "restoreStep3Desc": {
-        "message": "Clicca su Verifica per attivare istantaneamente Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Verifica"
-    },
     "bodyP1": {
         "message": "Ti abbiamo concesso <strong>3 minuti di accesso gratuito e illimitato</strong> per testare la potenza di Sblocco New York Times. Sfoglia qualsiasi articolo, ovunque sul New York Times, senza interruzioni."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "PRIVACY PRIMA DI TUTTO"
-    },
-    "limitBoxHeadline": {
-        "message": "Limite giornaliero di articoli raggiunto"
-    },
-    "limitHeadline": {
-        "message": "Continua a leggere senza limiti"
-    },
-    "limitSubhead": {
-        "message": "Hai raggiunto il limite giornaliero di 2 articoli gratuiti. Esegui l'upgrade ora per un accesso illimitato."
-    },
-    "paywallBtn": {
-        "message": "Ottieni accesso illimitato"
-    },
-    "paywallFooter": {
-        "message": "Paga una volta, goditi per sempre."
-    },
-    "paywallHeadline": {
-        "message": "Sblocca giornalismo illimitato"
-    },
-    "paywallSub": {
-        "message": "Ottieni l'accesso a vita a Sblocco New York Times e non essere mai più bloccato da un paywall."
     }
 }

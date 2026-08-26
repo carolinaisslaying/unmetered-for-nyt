@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "פותח New York Times"
     },
-    "badgeSubscriber": {
-        "message": "גישת מנוי"
-    },
     "btnOff": {
         "message": "כבוי"
     },
     "btnOn": {
         "message": "פעיל"
     },
-    "btnSubscribe": {
-        "message": "הירשם עכשיו"
-    },
-    "btnVerify": {
-        "message": "אמת"
-    },
-    "emailPlaceholder": {
-        "message": "אימייל..."
-    },
     "extDesc": {
         "message": "פותח תוכן בתשלום באתר הניו יורק טיימס"
-    },
-    "extName": {
-        "message": "פותח New York Times | הסר חומת תשלום"
-    },
-    "footerText": {
-        "message": "© 2025 פותח New York Times"
-    },
-    "popupTitle": {
-        "message": "פותח New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "תכונת פרימיום בלבד"
-    },
-    "premiumHeadline": {
-        "message": "תמכו בקוד עצמאי"
-    },
-    "premiumSubhead": {
-        "message": "קבל גישה לכל החיים למאמרים ללא הגבלה תמורת תשלום חד פעמי."
-    },
-    "premiumThankYou": {
-        "message": "תודה שנרשמת"
-    },
-    "premiumUnlimited": {
-        "message": "יש לך גישה ללא הגבלה לכל המאמרים."
-    },
-    "restoreLink": {
-        "message": "שחזר רכישה / אמת אימייל"
     },
     "statusActive": {
         "message": "הגנה פעילה"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "קריאה ללא גבולות"
     },
-    "verifyNotFound": {
-        "message": "לא נמצא"
-    },
-    "verifySuccess": {
-        "message": "הצלחה!"
-    },
     "articleHeadline": {
         "message": "יש לך 3 דקות של גישה ללא הגבלה."
     },
-    "articleSubhead": {
-        "message": "ברוכים הבאים לפותח New York Times. תהנה מתצוגה מקדימה קצרה של עיתונות חלקה ונטולת מחסומים."
-    },
-    "bylineAuthor": {
-        "message": "מאת צוות הפיתוח"
-    },
     "demo1Title": {
         "message": "כיצד לאפשר גישה"
-    },
-    "readTime": {
-        "message": "3 דקות קריאה"
     },
     "step1Desc": {
         "message": "מצא את סמל התוסף בסרגל הכלים של הדפדפן שלך."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. הפעל"
     },
-    "welcomeTitle": {
-        "message": "ברוכים הבאים לפותח New York Times"
-    },
-    "demo2Title": {
-        "message": "כיצד לאמת פרימיום"
-    },
-    "mockRestore": {
-        "message": "שחזר רכישה"
-    },
-    "mockStatus": {
-        "message": "הגנה מושבתת"
-    },
-    "mockTitle": {
-        "message": "פותח New York Times"
-    },
-    "mockVerify": {
-        "message": "אמת"
-    },
-    "restoreStep1Desc": {
-        "message": "לחץ על \"שחזר רכישה\" בתפריט הקופץ."
-    },
-    "restoreStep1Title": {
-        "message": "1. לחץ על שחזר"
-    },
-    "restoreStep2Desc": {
-        "message": "הקלד את כתובת האימייל שבה השתמשת כדי להירשם."
-    },
-    "restoreStep2Title": {
-        "message": "2. הזן אימייל"
-    },
-    "restoreStep3Desc": {
-        "message": "לחץ על אמת כדי להפעיל את הפרימיום באופן מיידי."
-    },
-    "restoreStep3Title": {
-        "message": "3. אמת"
-    },
     "bodyP1": {
         "message": "הענקנו לך <strong>3 דקות של גישה חינם וללא הגבלה</strong> כדי לבדוק את הכוח של פותח New York Times. דפדף בכל מאמר, בכל מקום בניו יורק טיימס, ללא הפרעות."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "פרטיות קודם"
-    },
-    "limitBoxHeadline": {
-        "message": "הגעת למגבלת המאמרים היומית"
-    },
-    "limitHeadline": {
-        "message": "המשך לקרוא ללא הגבלה"
-    },
-    "limitSubhead": {
-        "message": "הגעת למגבלה היומית שלך של 2 מאמרים בחינם. שדרג כעת לגישה בלתי מוגבלת."
-    },
-    "paywallBtn": {
-        "message": "קבל גישה ללא הגבלה"
-    },
-    "paywallFooter": {
-        "message": "שלם פעם אחת, תהנה לנצח."
-    },
-    "paywallHeadline": {
-        "message": "פתח עיתונות ללא הגבלה"
-    },
-    "paywallSub": {
-        "message": "קבל גישה לכל החיים לפותח New York Times ולעולם אל תיחסם שוב על ידי חומת תשלום."
     }
 }

@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times అన్‌లాకర్"
     },
-    "badgeSubscriber": {
-        "message": "చందాదారుల ప్రాప్యత"
-    },
     "btnOff": {
         "message": "ఆఫ్"
     },
     "btnOn": {
         "message": "ఆన్"
     },
-    "btnSubscribe": {
-        "message": "ఇప్పుడే చందా పొందండి"
-    },
-    "btnVerify": {
-        "message": "ధృవీకరించండి"
-    },
-    "emailPlaceholder": {
-        "message": "ఇమెయిల్..."
-    },
     "extDesc": {
         "message": "న్యూయార్క్ టైమ్స్ వెబ్‌సైట్‌లో చెల్లింపు కంటెంట్‌ను అನ್‌లాక్ చేస్తుంది"
-    },
-    "extName": {
-        "message": "New York Times అన్‌లాకర్ | పేవాల్ తొలగించు"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times అన్‌లాకర్"
-    },
-    "popupTitle": {
-        "message": "New York Times అన్‌లాకర్"
-    },
-    "premiumFeatureOnly": {
-        "message": "ప్రీమియం ఫీచర్ మాత్రమే"
-    },
-    "premiumHeadline": {
-        "message": "స్వతంత్ర కోడ్‌కు మద్దతు ఇవ్వండి"
-    },
-    "premiumSubhead": {
-        "message": "ఒక్కసారి చెల్లింపు కోసం అపరిమిత కథనాలకు జీవితకాల ప్రాప్యతను పొందండి."
-    },
-    "premiumThankYou": {
-        "message": "చందా పొందినందుకు ధన్యవాదాలు"
-    },
-    "premiumUnlimited": {
-        "message": "మీకు అన్ని కథనాలకు అపరిమిత ప్రాప్యత ఉంది."
-    },
-    "restoreLink": {
-        "message": "కొనుగోలును పునరుద్ధరించండి / ఇమెయిల్‌ను ధృవీకరించండి"
     },
     "statusActive": {
         "message": "రక్షణ సక్రియ"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "పరిమితులు లేకుండా చదవడం"
     },
-    "verifyNotFound": {
-        "message": "కనుగొనబడలేదు"
-    },
-    "verifySuccess": {
-        "message": "విజయం!"
-    },
     "articleHeadline": {
         "message": "మీకు 3 నిమిషాల అపరిమిత ప్రాప్యత ఉంది."
     },
-    "articleSubhead": {
-        "message": "New York Times అన్‌లాకర్‌కు స్వాగతం. అతుకులు లేని, అడ్డంకులు లేని జర్నలిజం యొక్క సంక్షిప్త ప్రివ్యూను ఆస్వాదించండి."
-    },
-    "bylineAuthor": {
-        "message": "అభివృద్ధి బృందం ద్వారా"
-    },
     "demo1Title": {
         "message": "యాక్సెస్‌ని ఎలా ప్రారంభించాలి"
-    },
-    "readTime": {
-        "message": "3 నిమిషాల పఠనం"
     },
     "step1Desc": {
         "message": "మీ బ్రౌజర్ టూల్‌బార్‌లో పొడిగింపు చిహ్నాన్ని కనుగొనండి."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. ఆన్ చేయండి"
     },
-    "welcomeTitle": {
-        "message": "New York Times అన్‌లాకర్‌కు స్వాగతం"
-    },
-    "demo2Title": {
-        "message": "ప్రీమియంను ఎలా ధృవీకరించాలి"
-    },
-    "mockRestore": {
-        "message": "కొనుగోలును పునరుద్ధరించండి"
-    },
-    "mockStatus": {
-        "message": "రక్షణ నిలిపివేయబడింది"
-    },
-    "mockTitle": {
-        "message": "New York Times అన్‌లాకర్"
-    },
-    "mockVerify": {
-        "message": "ధృవీకరించండి"
-    },
-    "restoreStep1Desc": {
-        "message": "పాప్‌అప్ మెనులో \"కొనుగోలును పునరుద్ధరించు\" క్లిక్ చేయండి."
-    },
-    "restoreStep1Title": {
-        "message": "1. పునరుద్ధరించు క్లిక్ చేయండి"
-    },
-    "restoreStep2Desc": {
-        "message": "మీరు చందా పొందడానికి ఉపయోగించిన ఇమెయిల్ చిరునామాను టైప్ చేయండి."
-    },
-    "restoreStep2Title": {
-        "message": "2. ఇమెయిల్ నమోదు చేయండి"
-    },
-    "restoreStep3Desc": {
-        "message": "ప్రీమియంను తక్షణమే యాక్టివేట్ చేయడానికి ధృవీకరించు క్లిక్ చేయండి."
-    },
-    "restoreStep3Title": {
-        "message": "3. ధృవీకరించండి"
-    },
     "bodyP1": {
         "message": "New York Times అన్‌లాకర్ శక్తిని పరీక్షించడానికి మేము మీకు <strong>3 నిమిషాల ఉచిత, అపరిమిత ప్రాప్యతను</strong> మంజూరు చేసాము. న్యూయార్క్ టైమ్స్‌లో ఎక్కడైనా, ఎటువంటి అంతరాయాలు లేకుండా ఏదైనా కథనాన్ని బ్రౌజ్ చేయండి."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "గోప్యత మొదట"
-    },
-    "limitBoxHeadline": {
-        "message": "రోజువారీ కథనాల పరిమితి చేరుకుంది"
-    },
-    "limitHeadline": {
-        "message": "పరిమితులు లేకుండా చదవడం కొనసాగించండి"
-    },
-    "limitSubhead": {
-        "message": "మీరు రోజువారీ 2 ఉచిత కథనాల పరిమితిని చేరుకున్నారు. అపరిమిత ప్రాప్యత కోసం ఇప్పుడే అప్‌గ్రేడ్ చేయండి."
-    },
-    "paywallBtn": {
-        "message": "అపరిమిత ప్రాప్యతను పొందండి"
-    },
-    "paywallFooter": {
-        "message": "ఒకసారి చెల్లించండి, ఎప్పటికీ ఆనందించండి."
-    },
-    "paywallHeadline": {
-        "message": "అపరిమిత జర్నలిజం అన్‌లాక్ చేయండి"
-    },
-    "paywallSub": {
-        "message": "New York Times అన్‌లాకర్‌కి జీవితకాల యాక్సెస్‌ని పొందండి మరియు మళ్లీ పేవాల్ ద్వారా బ్లాక్ చేయబడకండి."
     }
 }

@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times আনলকার"
     },
-    "badgeSubscriber": {
-        "message": "গ্রাহক অ্যাক্সেস"
-    },
     "btnOff": {
         "message": "বন্ধ"
     },
     "btnOn": {
         "message": "চালু"
     },
-    "btnSubscribe": {
-        "message": "এখন সাবস্ক্রাইব করুন"
-    },
-    "btnVerify": {
-        "message": "যাচাই করুন"
-    },
-    "emailPlaceholder": {
-        "message": "ইমেল..."
-    },
     "extDesc": {
         "message": "নিউ ইয়র্ক টাইমস ওয়েবসাইটে পেওয়াল করা সামগ্রী আনলক করে"
-    },
-    "extName": {
-        "message": "New York Times আনলকার | পেওয়াল সরান"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times আনলকার"
-    },
-    "popupTitle": {
-        "message": "New York Times আনলকার"
-    },
-    "premiumFeatureOnly": {
-        "message": "শুধুমাত্র প্রিমিয়াম বৈশিষ্ট্য"
-    },
-    "premiumHeadline": {
-        "message": "স্বাধীন কোড সমর্থন করুন"
-    },
-    "premiumSubhead": {
-        "message": "এককালীন অর্থপ্রদানের জন্য সীমাহীন নিবন্ধগুলিতে আজীবন অ্যাক্সেস পান।"
-    },
-    "premiumThankYou": {
-        "message": "সাবস্ক্রাইব করার জন্য ধন্যবাদ"
-    },
-    "premiumUnlimited": {
-        "message": "আপনার সমস্ত নিবন্ধে সীমাহীন অ্যাক্সেস আছে।"
-    },
-    "restoreLink": {
-        "message": "ক্রয় পুনরুদ্ধার / ইমেল যাচাই করুন"
     },
     "statusActive": {
         "message": "সুরক্ষা সক্রিয়"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "সীমাহীন পড়া"
     },
-    "verifyNotFound": {
-        "message": "পাওয়া যায়নি"
-    },
-    "verifySuccess": {
-        "message": "সাফল্য!"
-    },
     "articleHeadline": {
         "message": "আপনার কাছে 3 মিনিটের সীমাহীন অ্যাক্সেস আছে।"
     },
-    "articleSubhead": {
-        "message": "New York Times আনলকারে স্বাগতম। নিরবচ্ছিন্ন, বাধা-মুক্ত সাংবাদিকতার একটি সংক্ষিপ্ত পূর্বরূপ উপভোগ করুন।"
-    },
-    "bylineAuthor": {
-        "message": "উন্নয়ন দল দ্বারা"
-    },
     "demo1Title": {
         "message": "কিভাবে অ্যাক্সেস সক্ষম করবেন"
-    },
-    "readTime": {
-        "message": "3 মিনিট পড়া"
     },
     "step1Desc": {
         "message": "আপনার ব্রাউজার টুলবারে এক্সটেনশন আইকন খুঁজুন।"
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. চালু করুন"
     },
-    "welcomeTitle": {
-        "message": "New York Times আনলকারে স্বাগতম"
-    },
-    "demo2Title": {
-        "message": "কিভাবে প্রিমিয়াম যাচাই করবেন"
-    },
-    "mockRestore": {
-        "message": "ক্রয় পুনরুদ্ধার"
-    },
-    "mockStatus": {
-        "message": "সুরক্ষা নিষ্ক্রিয়"
-    },
-    "mockTitle": {
-        "message": "New York Times আনলকার"
-    },
-    "mockVerify": {
-        "message": "যাচাই করুন"
-    },
-    "restoreStep1Desc": {
-        "message": "পপআপ মেনুতে \"ক্রয় পুনরুদ্ধার করুন\" এ ক্লিক করুন।"
-    },
-    "restoreStep1Title": {
-        "message": "1. পুনরুদ্ধারে ক্লিক করুন"
-    },
-    "restoreStep2Desc": {
-        "message": "আপনি সাবস্ক্রাইব করতে যে ইমেল ঠিকানাটি ব্যবহার করেছিলেন সেটি টাইপ করুন।"
-    },
-    "restoreStep2Title": {
-        "message": "2. ইমেল লিখুন"
-    },
-    "restoreStep3Desc": {
-        "message": "অবিলম্বে প্রিমিয়াম সক্রিয় করতে যাচাই করুন ক্লিক করুন।"
-    },
-    "restoreStep3Title": {
-        "message": "3. যাচাই করুন"
-    },
     "bodyP1": {
         "message": "New York Times আনলকারের শক্তি পরীক্ষা করার জন্য আমরা আপনাকে <strong>3 মিনিটের বিনামূল্যে, সীমাহীন অ্যাক্সেস</strong> দিয়েছি। নিউ ইয়র্ক টাইমসের যেকোনো জায়গায়, কোনো বাধা ছাড়াই যেকোনো নিবন্ধ ব্রাউজ করুন।"
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "গোপনীয়তা প্রথম"
-    },
-    "limitBoxHeadline": {
-        "message": "দৈনিক নিবন্ধের সীমা পৌঁছেছে"
-    },
-    "limitHeadline": {
-        "message": "সীমা ছাড়াই পড়া চালিয়ে যান"
-    },
-    "limitSubhead": {
-        "message": "আপনি আপনার দৈনিক 2টি বিনামূল্যের নিবন্ধের সীমায় পৌঁছেছেন৷ সীমাহীন অ্যাক্সেসের জন্য এখনই আপগ্রেড করুন।"
-    },
-    "paywallBtn": {
-        "message": "সীমাহীন অ্যাক্সেস পান"
-    },
-    "paywallFooter": {
-        "message": "একবার পেমেন্ট করুন, চিরকাল উপভোগ করুন।"
-    },
-    "paywallHeadline": {
-        "message": "সীমাহীন সাংবাদিকতা আনলক করুন"
-    },
-    "paywallSub": {
-        "message": "New York Times আনলকারে আজীবন অ্যাক্সেস পান এবং আর কখনও পেওয়াল দ্বারা অবরুদ্ধ হবেন না।"
     }
 }

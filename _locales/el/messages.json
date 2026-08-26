@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "Ξεκλείδωμα New York Times"
     },
-    "badgeSubscriber": {
-        "message": "Πρόσβαση συνδρομητή"
-    },
     "btnOff": {
         "message": "ΟΧΙ"
     },
     "btnOn": {
         "message": "ΝΑΙ"
     },
-    "btnSubscribe": {
-        "message": "Εγγραφείτε τώρα"
-    },
-    "btnVerify": {
-        "message": "Επαλήθευση"
-    },
-    "emailPlaceholder": {
-        "message": "Email..."
-    },
     "extDesc": {
         "message": "Ξεκλειδώνει περιεχόμενο με πληρωμή στον ιστότοπο των New York Times"
-    },
-    "extName": {
-        "message": "Ξεκλείδωμα New York Times | Κατάργηση Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 Ξεκλείδωμα New York Times"
-    },
-    "popupTitle": {
-        "message": "Ξεκλείδωμα New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "Μόνο δυνατότητα Premium"
-    },
-    "premiumHeadline": {
-        "message": "Υποστηρίξτε τον ανεξάρτητο κώδικα"
-    },
-    "premiumSubhead": {
-        "message": "Αποκτήστε δια βίου πρόσβαση σε απεριόριστα άρθρα με εφάπαξ πληρωμή."
-    },
-    "premiumThankYou": {
-        "message": "Ευχαριστούμε για την εγγραφή"
-    },
-    "premiumUnlimited": {
-        "message": "Έχετε απεριόριστη πρόσβαση σε όλα τα άρθρα."
-    },
-    "restoreLink": {
-        "message": "Επαναφορά αγοράς / Επαλήθευση email"
     },
     "statusActive": {
         "message": "Προστασία ενεργή"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Ανάγνωση χωρίς όρια"
     },
-    "verifyNotFound": {
-        "message": "Δεν βρέθηκε"
-    },
-    "verifySuccess": {
-        "message": "Επιτυχία!"
-    },
     "articleHeadline": {
         "message": "Έχετε 3 λεπτά απεριόριστης πρόσβασης."
     },
-    "articleSubhead": {
-        "message": "Καλώς ήρθατε στο Ξεκλείδωμα New York Times. Απολαύστε μια σύντομη προεπισκόπηση απρόσκοπτης δημοσιογραφίας χωρίς εμπόδια."
-    },
-    "bylineAuthor": {
-        "message": "Από ΤΗΝ ΟΜΑΔΑ ΑΝΑΠΤΥΞΗΣ"
-    },
     "demo1Title": {
         "message": "Πώς να ενεργοποιήσετε την πρόσβαση"
-    },
-    "readTime": {
-        "message": "3 ΛΕΠΤΑ ΑΝΑΓΝΩΣΗ"
     },
     "step1Desc": {
         "message": "Βρείτε το εικονίδιο επέκτασης στη γραμμή εργαλείων του προγράμματος περιήγησής σας."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Ενεργοποίηση"
     },
-    "welcomeTitle": {
-        "message": "Καλώς ήρθατε στο Ξεκλείδωμα New York Times"
-    },
-    "demo2Title": {
-        "message": "Πώς να επαληθεύσετε το Premium"
-    },
-    "mockRestore": {
-        "message": "Επαναφορά αγοράς"
-    },
-    "mockStatus": {
-        "message": "Προστασία απενεργοποιημένη"
-    },
-    "mockTitle": {
-        "message": "Ξεκλείδωμα New York Times"
-    },
-    "mockVerify": {
-        "message": "Επαλήθευση"
-    },
-    "restoreStep1Desc": {
-        "message": "Κάντε κλικ στο \"Επαναφορά αγοράς\" στο αναδυόμενο μενού."
-    },
-    "restoreStep1Title": {
-        "message": "1. Κάντε κλικ στο Επαναφορά"
-    },
-    "restoreStep2Desc": {
-        "message": "Πληκτρολογήστε τη διεύθυνση email που χρησιμοποιήσατε για την εγγραφή."
-    },
-    "restoreStep2Title": {
-        "message": "2. Εισαγάγετε Email"
-    },
-    "restoreStep3Desc": {
-        "message": "Κάντε κλικ στο Επαλήθευση για να ενεργοποιήσετε άμεσα το Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Επαλήθευση"
-    },
     "bodyP1": {
         "message": "Σας παραχωρήσαμε <strong>3 λεπτά δωρεάν, απεριόριστης πρόσβασης</strong> για να δοκιμάσετε τη δύναμη του Ξεκλείδωμα New York Times. Περιηγηθείτε σε οποιοδήποτε άρθρο, οπουδήποτε στους New York Times, χωρίς διακοπές."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "ΠΡΩΤΑ Η ΙΔΙΩΤΙΚΟΤΗΤΑ"
-    },
-    "limitBoxHeadline": {
-        "message": "Συμπληρώθηκε το ημερήσιο όριο άρθρων"
-    },
-    "limitHeadline": {
-        "message": "Συνεχίστε να διαβάζετε χωρίς όρια"
-    },
-    "limitSubhead": {
-        "message": "Έχετε φτάσει το ημερήσιο όριο των 2 δωρεάν άρθρων. Αναβαθμίστε τώρα για απεριόριστη πρόσβαση."
-    },
-    "paywallBtn": {
-        "message": "Αποκτήστε απεριόριστη πρόσβαση"
-    },
-    "paywallFooter": {
-        "message": "Πληρώστε μία φορά, απολαύστε για πάντα."
-    },
-    "paywallHeadline": {
-        "message": "Ξεκλειδώστε απεριόριστη δημοσιογραφία"
-    },
-    "paywallSub": {
-        "message": "Αποκτήστε ισόβια πρόσβαση στο Ξεκλείδωμα New York Times και μην αποκλειστείτε ποτέ ξανά από paywall."
     }
 }

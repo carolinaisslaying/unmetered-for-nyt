@@ -2,53 +2,20 @@
     "actionTitle": {
         "message": "New York Times Unlocker"
     },
-    "badgeSubscriber": {
-        "message": "Subscriber Access"
-    },
     "btnOff": {
         "message": "OFF"
     },
     "btnOn": {
         "message": "ON"
     },
-    "btnSubscribe": {
-        "message": "Subscribe Now"
-    },
-    "btnVerify": {
-        "message": "Verify"
-    },
-    "emailPlaceholder": {
-        "message": "Email..."
-    },
     "extDesc": {
-        "message": "Unlocks paywalled content on the New York Times website"
+        "message": "Removes the paywall and article limit on the New York Times website. Free and open source."
     },
     "extName": {
-        "message": "NewYorkTimes Unlocker | Remove Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times Unlocker"
+        "message": "Unmetered for NYT"
     },
     "popupTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "premiumFeatureOnly": {
-        "message": "Premium feature only"
-    },
-    "premiumHeadline": {
-        "message": "Support Independent Code"
-    },
-    "premiumSubhead": {
-        "message": "Get lifetime access to unlimited articles for a one-time payment."
-    },
-    "premiumThankYou": {
-        "message": "Thank you for subscribing"
-    },
-    "premiumUnlimited": {
-        "message": "You have unlimited access to all articles."
-    },
-    "restoreLink": {
-        "message": "Restore Purchase / Verify Email"
+        "message": "Unmetered for NYT"
     },
     "statusActive": {
         "message": "Protection Active"
@@ -62,26 +29,11 @@
     "statusSub": {
         "message": "Reading without limits"
     },
-    "verifyNotFound": {
-        "message": "Not found."
-    },
-    "verifySuccess": {
-        "message": "Success!"
-    },
     "articleHeadline": {
         "message": "You Have 3 Minutes of Unlimited Access."
     },
-    "articleSubhead": {
-        "message": "Welcome to New York Times Unlocker. Enjoy a brief preview of seamless, barrier-free journalism."
-    },
-    "bylineAuthor": {
-        "message": "By THE DEVELOPMENT TEAM"
-    },
     "demo1Title": {
         "message": "How to Enable Access"
-    },
-    "readTime": {
-        "message": "3 MIN READ"
     },
     "step1Desc": {
         "message": "Find the extension icon in your browser toolbar."
@@ -102,40 +54,7 @@
         "message": "3. Toggle ON"
     },
     "welcomeTitle": {
-        "message": "Welcome to New York Times Unlocker"
-    },
-    "demo2Title": {
-        "message": "How to Verify Premium"
-    },
-    "mockRestore": {
-        "message": "Restore Purchase"
-    },
-    "mockStatus": {
-        "message": "Protection Disabled"
-    },
-    "mockTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "mockVerify": {
-        "message": "Verify"
-    },
-    "restoreStep1Desc": {
-        "message": "Click \"Restore Purchase\" in the popup menu."
-    },
-    "restoreStep1Title": {
-        "message": "1. Click Restore"
-    },
-    "restoreStep2Desc": {
-        "message": "Type the email address you used to subscribe."
-    },
-    "restoreStep2Title": {
-        "message": "2. Enter Email"
-    },
-    "restoreStep3Desc": {
-        "message": "Click Verify to instantly activate Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Verify"
+        "message": "Unmetered for NYT"
     },
     "bodyP1": {
         "message": "We have granted you <strong>3 minutes of free, unlimited access</strong> to test the power of New York Times Unlocker. Browse any article, anywhere on The New York Times, with zero interruptions."
@@ -155,25 +74,73 @@
     "feat2Title": {
         "message": "PRIVACY FIRST"
     },
-    "limitBoxHeadline": {
-        "message": "Daily Article Limit Reached"
+    "noteLabel": {
+        "message": "Editors' Note"
     },
-    "limitHeadline": {
-        "message": "Continue Reading Without Limits"
+    "noteBody1": {
+        "message": "An earlier version of this extension removed the New York Times paywall, then added one of its own: three minutes of unrestricted use, then a cap of ten articles a day, then a payment to lift the cap."
     },
-    "limitSubhead": {
-        "message": "You've reached your daily limit of 10 free articles. Upgrade now for unlimited access."
+    "noteBody2": {
+        "message": "That version was published under the Mozilla Public License, whose section 3.2 requires that source code be made available to anyone who receives the software. It was not. This version removes the cap, removes the payment, and publishes the source the licence always required."
     },
-    "paywallBtn": {
-        "message": "Get Unlimited Access"
+    "noteLinkOriginal": {
+        "message": "The original listing →"
     },
-    "paywallFooter": {
-        "message": "Pay once, enjoy forever."
+    "noteLinkSource": {
+        "message": "Source for this version →"
     },
-    "paywallHeadline": {
-        "message": "Unlock Unlimited Journalism"
+    "struckLabel": {
+        "message": "Removed in this version"
     },
-    "paywallSub": {
-        "message": "Get lifetime access to New York Times Unlocker and never be blocked by a paywall again."
+    "nowLine": {
+        "message": "There is no timer. There is no daily limit. There is nothing to buy."
+    },
+    "alsoRemovedLabel": {
+        "message": "Also removed"
+    },
+    "ev1What": {
+        "message": "A call to a remote server on every install"
+    },
+    "ev1Detail": {
+        "message": "It sent a generated device ID, your platform and your full user agent, and returned the flag that decided whether you had to pay."
+    },
+    "ev2What": {
+        "message": "A request to Google on every popup open"
+    },
+    "ev2Detail": {
+        "message": "Both extension pages loaded remote webfonts. This version uses fonts already on your computer and makes no network requests of its own."
+    },
+    "ev3What": {
+        "message": "391 KB of unused libraries"
+    },
+    "ev3Detail": {
+        "message": "Including a 78 KB component bundle that was loaded on every popup and never called once."
+    },
+    "featuresLabel": {
+        "message": "What it does"
+    },
+    "footerLicence": {
+        "message": "Free software under the Mozilla Public License 2.0."
+    },
+    "footerFree": {
+        "message": "Free, unmetered, and open source."
+    },
+    "footerNote": {
+        "message": "Why this fork exists"
+    },
+    "statusSignedIn": {
+        "message": "Signed In"
+    },
+    "statusSignedInSub": {
+        "message": "You have a New York Times session — standing down."
+    },
+    "statusDisabledSub": {
+        "message": "The paywall is not being blocked."
+    },
+    "ev4What": {
+        "message": "A daily limit nobody kept track of"
+    },
+    "ev4Detail": {
+        "message": "In 49 of its 54 languages the extension promised two free articles a day. Its code allowed ten. The translations had not been re-read in a long time."
     }
 }

@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "Розблокувальник New York Times"
     },
-    "badgeSubscriber": {
-        "message": "Доступ передплатника"
-    },
     "btnOff": {
         "message": "ВИМК"
     },
     "btnOn": {
         "message": "УВІМК"
     },
-    "btnSubscribe": {
-        "message": "Підписатися зараз"
-    },
-    "btnVerify": {
-        "message": "Перевірити"
-    },
-    "emailPlaceholder": {
-        "message": "Електронна пошта..."
-    },
     "extDesc": {
         "message": "Розблокує платний контент на веб-сайті New York Times"
-    },
-    "extName": {
-        "message": "Розблокувальник New York Times | Видалити Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 Розблокувальник New York Times"
-    },
-    "popupTitle": {
-        "message": "Розблокувальник New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "Тільки Premium функція"
-    },
-    "premiumHeadline": {
-        "message": "Підтримайте незалежний код"
-    },
-    "premiumSubhead": {
-        "message": "Отримайте довічний доступ до необмеженої кількості статей за одноразовий платіж."
-    },
-    "premiumThankYou": {
-        "message": "Дякуємо за підписку"
-    },
-    "premiumUnlimited": {
-        "message": "У вас є необмежений доступ до всіх статей."
-    },
-    "restoreLink": {
-        "message": "Відновити покупку / Перевірити email"
     },
     "statusActive": {
         "message": "Захист активний"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Читання без обмежень"
     },
-    "verifyNotFound": {
-        "message": "Не знайдено"
-    },
-    "verifySuccess": {
-        "message": "Успіх!"
-    },
     "articleHeadline": {
         "message": "У вас є 3 хвилини необмеженого доступу."
     },
-    "articleSubhead": {
-        "message": "Ласкаво просимо до Розблокувальника New York Times. Насолоджуйтесь коротким попереднім переглядом бездоганної журналістики без бар'єрів."
-    },
-    "bylineAuthor": {
-        "message": "ВІД КОМАНДИ РОЗРОБНИКІВ"
-    },
     "demo1Title": {
         "message": "Як увімкнути доступ"
-    },
-    "readTime": {
-        "message": "3 ХВ ЧИТАННЯ"
     },
     "step1Desc": {
         "message": "Знайдіть значок розширення на панелі інструментів браузера."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Увімкнути"
     },
-    "welcomeTitle": {
-        "message": "Ласкаво просимо до Розблокувальника New York Times"
-    },
-    "demo2Title": {
-        "message": "Як перевірити Premium"
-    },
-    "mockRestore": {
-        "message": "Відновити покупку"
-    },
-    "mockStatus": {
-        "message": "Захист вимкнено"
-    },
-    "mockTitle": {
-        "message": "Розблокувальник New York Times"
-    },
-    "mockVerify": {
-        "message": "Перевірити"
-    },
-    "restoreStep1Desc": {
-        "message": "Натисніть «Відновити покупку» у спливаючому меню."
-    },
-    "restoreStep1Title": {
-        "message": "1. Натисніть Відновити"
-    },
-    "restoreStep2Desc": {
-        "message": "Введіть адресу електронної пошти, яку ви використовували для підписки."
-    },
-    "restoreStep2Title": {
-        "message": "2. Введіть Email"
-    },
-    "restoreStep3Desc": {
-        "message": "Натисніть Перевірити, щоб миттєво активувати Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Перевірити"
-    },
     "bodyP1": {
         "message": "Ми надали вам <strong>3 хвилини безкоштовного необмеженого доступу</strong>, щоб перевірити можливості Розблокувальника New York Times. Переглядайте будь-яку статтю будь-де на The New York Times без перерв."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "КОНФІДЕНЦІЙНІСТЬ НАСАМПЕРЕД"
-    },
-    "limitBoxHeadline": {
-        "message": "Досягнуто денного ліміту статей"
-    },
-    "limitHeadline": {
-        "message": "Продовжуйте читати без обмежень"
-    },
-    "limitSubhead": {
-        "message": "Ви досягли денного ліміту в 2 безкоштовні статті. Оновіться зараз для необмеженого доступу."
-    },
-    "paywallBtn": {
-        "message": "Отримати необмежений доступ"
-    },
-    "paywallFooter": {
-        "message": "Платіть один раз, насолоджуйтесь назавжди."
-    },
-    "paywallHeadline": {
-        "message": "Розблокуйте необмежену журналістику"
-    },
-    "paywallSub": {
-        "message": "Отримайте довічний доступ до Розблокувальника New York Times і більше ніколи не блокуйтеся платною стіною."
     }
 }

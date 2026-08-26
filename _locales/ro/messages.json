@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "Deblocare New York Times"
     },
-    "badgeSubscriber": {
-        "message": "Acces abonat"
-    },
     "btnOff": {
         "message": "OPRIT"
     },
     "btnOn": {
         "message": "PORNIT"
     },
-    "btnSubscribe": {
-        "message": "Abonează-te acum"
-    },
-    "btnVerify": {
-        "message": "Verifică"
-    },
-    "emailPlaceholder": {
-        "message": "Email..."
-    },
     "extDesc": {
         "message": "Deblochează conținutul cu plată de pe site-ul New York Times"
-    },
-    "extName": {
-        "message": "Deblocare New York Times | Elimină Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 Deblocare New York Times"
-    },
-    "popupTitle": {
-        "message": "Deblocare New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "Doar funcție Premium"
-    },
-    "premiumHeadline": {
-        "message": "Susține codul independent"
-    },
-    "premiumSubhead": {
-        "message": "Obține acces pe viață la articole nelimitate pentru o plată unică."
-    },
-    "premiumThankYou": {
-        "message": "Mulțumim pentru abonare"
-    },
-    "premiumUnlimited": {
-        "message": "Ai acces nelimitat la toate articolele."
-    },
-    "restoreLink": {
-        "message": "Restaurează achiziția / Verifică email"
     },
     "statusActive": {
         "message": "Protecție activă"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Citire fără limite"
     },
-    "verifyNotFound": {
-        "message": "Nu a fost găsit"
-    },
-    "verifySuccess": {
-        "message": "Succes!"
-    },
     "articleHeadline": {
         "message": "Ai 3 minute de acces nelimitat."
     },
-    "articleSubhead": {
-        "message": "Bun venit la Deblocare New York Times. Bucură-te de o scurtă previzualizare a jurnalismului fluid și fără bariere."
-    },
-    "bylineAuthor": {
-        "message": "De ECHIPA DE DEZVOLTARE"
-    },
     "demo1Title": {
         "message": "Cum să activezi accesul"
-    },
-    "readTime": {
-        "message": "3 MIN CITIRE"
     },
     "step1Desc": {
         "message": "Găsește pictograma extensiei în bara de instrumente a browserului."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Comută pe PORNIT"
     },
-    "welcomeTitle": {
-        "message": "Bun venit la Deblocare New York Times"
-    },
-    "demo2Title": {
-        "message": "Cum să verifici Premium"
-    },
-    "mockRestore": {
-        "message": "Restaurează achiziția"
-    },
-    "mockStatus": {
-        "message": "Protecție dezactivată"
-    },
-    "mockTitle": {
-        "message": "Deblocare New York Times"
-    },
-    "mockVerify": {
-        "message": "Verifică"
-    },
-    "restoreStep1Desc": {
-        "message": "Dă clic pe „Restaurează achiziția” în meniul pop-up."
-    },
-    "restoreStep1Title": {
-        "message": "1. Dă clic pe Restaurează"
-    },
-    "restoreStep2Desc": {
-        "message": "Introdu adresa de email pe care ai folosit-o pentru a te abona."
-    },
-    "restoreStep2Title": {
-        "message": "2. Introdu emailul"
-    },
-    "restoreStep3Desc": {
-        "message": "Dă clic pe Verifică pentru a activa instantaneu Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Verifică"
-    },
     "bodyP1": {
         "message": "Ți-am acordat <strong>3 minute de acces gratuit și nelimitat</strong> pentru a testa puterea Deblocare New York Times. Răsfoiește orice articol, oriunde pe The New York Times, fără întreruperi."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "CONFIDENȚIALITATE ÎNAINTE DE TOATE"
-    },
-    "limitBoxHeadline": {
-        "message": "Limita zilnică de articole atinsă"
-    },
-    "limitHeadline": {
-        "message": "Continuă să citești fără limite"
-    },
-    "limitSubhead": {
-        "message": "Ai atins limita zilnică de 2 articole gratuite. Fă upgrade acum pentru acces nelimitat."
-    },
-    "paywallBtn": {
-        "message": "Obține acces nelimitat"
-    },
-    "paywallFooter": {
-        "message": "Plătește o dată, bucură-te pentru totdeauna."
-    },
-    "paywallHeadline": {
-        "message": "Deblochează jurnalism nelimitat"
-    },
-    "paywallSub": {
-        "message": "Obține acces pe viață la Deblocare New York Times și nu mai fi niciodată blocat de un paywall."
     }
 }

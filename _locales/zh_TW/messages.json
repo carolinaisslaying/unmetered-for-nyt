@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times 解鎖器"
     },
-    "badgeSubscriber": {
-        "message": "訂閱者存取"
-    },
     "btnOff": {
         "message": "關"
     },
     "btnOn": {
         "message": "開"
     },
-    "btnSubscribe": {
-        "message": "立即訂閱"
-    },
-    "btnVerify": {
-        "message": "驗證"
-    },
-    "emailPlaceholder": {
-        "message": "電子郵件..."
-    },
     "extDesc": {
         "message": "解鎖紐約時報網站上的付費內容"
-    },
-    "extName": {
-        "message": "New York Times 解鎖器 | 移除付費牆"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times 解鎖器"
-    },
-    "popupTitle": {
-        "message": "New York Times 解鎖器"
-    },
-    "premiumFeatureOnly": {
-        "message": "僅限高級功能"
-    },
-    "premiumHeadline": {
-        "message": "支持獨立代碼"
-    },
-    "premiumSubhead": {
-        "message": "一次性付款即可終身存取無限文章。"
-    },
-    "premiumThankYou": {
-        "message": "感謝您的訂閱"
-    },
-    "premiumUnlimited": {
-        "message": "您可以無限制地存取所有文章。"
-    },
-    "restoreLink": {
-        "message": "恢復購買 / 驗證電子郵件"
     },
     "statusActive": {
         "message": "保護已啟用"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "無限制閱讀"
     },
-    "verifyNotFound": {
-        "message": "未找到"
-    },
-    "verifySuccess": {
-        "message": "成功！"
-    },
     "articleHeadline": {
         "message": "您有 3 分鐘的無限存取權限。"
     },
-    "articleSubhead": {
-        "message": "歡迎使用 New York Times 解鎖器。享受無縫、無障礙新聞的簡短預覽。"
-    },
-    "bylineAuthor": {
-        "message": "由開發團隊"
-    },
     "demo1Title": {
         "message": "如何啟用存取"
-    },
-    "readTime": {
-        "message": "3 分鐘閱讀"
     },
     "step1Desc": {
         "message": "在瀏覽器工具列中找到擴充功能圖示。"
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. 開啟"
     },
-    "welcomeTitle": {
-        "message": "歡迎使用 New York Times 解鎖器"
-    },
-    "demo2Title": {
-        "message": "如何驗證高級版"
-    },
-    "mockRestore": {
-        "message": "恢復購買"
-    },
-    "mockStatus": {
-        "message": "保護已停用"
-    },
-    "mockTitle": {
-        "message": "New York Times 解鎖器"
-    },
-    "mockVerify": {
-        "message": "驗證"
-    },
-    "restoreStep1Desc": {
-        "message": "點擊彈出選單中的「恢復購買」。"
-    },
-    "restoreStep1Title": {
-        "message": "1. 點擊恢復"
-    },
-    "restoreStep2Desc": {
-        "message": "輸入您用於訂閱的電子郵件地址。"
-    },
-    "restoreStep2Title": {
-        "message": "2. 輸入電子郵件"
-    },
-    "restoreStep3Desc": {
-        "message": "點擊驗證以立即啟用高級版。"
-    },
-    "restoreStep3Title": {
-        "message": "3. 驗證"
-    },
     "bodyP1": {
         "message": "我們為您提供了 <strong>3 分鐘的免費無限存取權限</strong>，以測試 New York Times 解鎖器的強大功能。在《紐約時報》的任何地方瀏覽任何文章，零干擾。"
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "隱私至上"
-    },
-    "limitBoxHeadline": {
-        "message": "已達到每日文章限制"
-    },
-    "limitHeadline": {
-        "message": "繼續無限制閱讀"
-    },
-    "limitSubhead": {
-        "message": "您已達到每日 2 篇免費文章的限制。立即升級以獲得無限存取權限。"
-    },
-    "paywallBtn": {
-        "message": "獲取無限存取權限"
-    },
-    "paywallFooter": {
-        "message": "一次付費，終身享受。"
-    },
-    "paywallHeadline": {
-        "message": "解鎖無限新聞"
-    },
-    "paywallSub": {
-        "message": "獲取 New York Times 解鎖器的終身存取權限，再也不會被付費牆阻止。"
     }
 }

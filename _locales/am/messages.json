@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times መክፈቻ"
     },
-    "badgeSubscriber": {
-        "message": "የደንበኝነት ተመዝጋቢ መዳረሻ"
-    },
     "btnOff": {
         "message": "ጠፍቷል"
     },
     "btnOn": {
         "message": "በርቷል"
     },
-    "btnSubscribe": {
-        "message": "አሁን ይመዝገቡ"
-    },
-    "btnVerify": {
-        "message": "አረጋግጥ"
-    },
-    "emailPlaceholder": {
-        "message": "ኢሜይል..."
-    },
     "extDesc": {
         "message": "በኒው ዮርክ ታይምስ ድረ-ገጽ ላይ የሚከፈልበትን ይዘት ይከፍታል"
-    },
-    "extName": {
-        "message": "New York Times መክፈቻ | የክፍያ ግድግዳን ያስወግዱ"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times መክፈቻ"
-    },
-    "popupTitle": {
-        "message": "New York Times መክፈቻ"
-    },
-    "premiumFeatureOnly": {
-        "message": "ፕሪሚየም ባህሪ ብቻ"
-    },
-    "premiumHeadline": {
-        "message": "ገለልተኛ ኮድን ይደግፉ"
-    },
-    "premiumSubhead": {
-        "message": "ለአንድ ጊዜ ክፍያ ያልተገደበ ጽሑፎችን የህይወት ዘመን መዳረሻ ያግኙ።"
-    },
-    "premiumThankYou": {
-        "message": "ስለተመዘገቡ እናመሰግናለን"
-    },
-    "premiumUnlimited": {
-        "message": "ለሁሉም ጽሑፎች ያልተገደበ መዳረሻ አለዎት።"
-    },
-    "restoreLink": {
-        "message": "ግዢን ወደነበረበት መልስ / ኢሜይል አረጋግጥ"
     },
     "statusActive": {
         "message": "ጥበቃ ገቢር"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "ያለ ገደብ ማንበብ"
     },
-    "verifyNotFound": {
-        "message": "አልተገኘም"
-    },
-    "verifySuccess": {
-        "message": "ተሳክቷል!"
-    },
     "articleHeadline": {
         "message": "የ3 ደቂቃ ያልተገደበ መዳረሻ አለህ።"
     },
-    "articleSubhead": {
-        "message": "ወደ New York Times መክፈቻ እንኳን በደህና መጡ። እንከን የለሽ፣ ከእንቅፋት ነፃ የሆነ ጋዜጠኝነት አጭር ቅድመ እይታ ይደሰቱ።"
-    },
-    "bylineAuthor": {
-        "message": "በልማት ቡድኑ"
-    },
     "demo1Title": {
         "message": "መዳረሻን እንዴት ማንቃት እንደሚቻል"
-    },
-    "readTime": {
-        "message": "የ3 ደቂቃ ንባብ"
     },
     "step1Desc": {
         "message": "በአሳሽዎ የመሳሪያ አሞሌ ውስጥ የቅጥያ አዶውን ያግኙ።"
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. አብራ"
     },
-    "welcomeTitle": {
-        "message": "ወደ New York Times መክፈቻ እንኳን በደህና መጡ"
-    },
-    "demo2Title": {
-        "message": "ፕሪሚየምን እንዴት ማረጋገጥ እንደሚቻል"
-    },
-    "mockRestore": {
-        "message": "ግዢን ወደነበረበት መልስ"
-    },
-    "mockStatus": {
-        "message": "ጥበቃ ተሰናክሏል"
-    },
-    "mockTitle": {
-        "message": "New York Times መክፈቻ"
-    },
-    "mockVerify": {
-        "message": "አረጋግጥ"
-    },
-    "restoreStep1Desc": {
-        "message": "በብቅ ባዩ ምናሌ ውስጥ \"ግዢን ወደነበረበት መልስ\" የሚለውን ጠቅ ያድርጉ።"
-    },
-    "restoreStep1Title": {
-        "message": "1. እነበረበት መልስን ጠቅ ያድርጉ"
-    },
-    "restoreStep2Desc": {
-        "message": "ለመመዝገብ የተጠቀሙበትን የኢሜይል አድራሻ ይተይቡ።"
-    },
-    "restoreStep2Title": {
-        "message": "2. ኢሜይል አስገባ"
-    },
-    "restoreStep3Desc": {
-        "message": "ፕሪሚየምን ወዲያውኑ ለማግበር አረጋግጥን ጠቅ ያድርጉ።"
-    },
-    "restoreStep3Title": {
-        "message": "3. አረጋግጥ"
-    },
     "bodyP1": {
         "message": "የNew York Times መክፈቻን ኃይል ለመፈተሽ <strong>የ3 ደቂቃ ነጻ እና ያልተገደበ መዳረሻ</strong> ሰጥተንዎታል። ማንኛውንም ጽሑፍ፣ በኒው ዮርክ ታይምስ ላይ የትም ቦታ፣ ያለ ምንም መቆራረጥ ያስሱ።"
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "ግላዊነት መጀመሪያ"
-    },
-    "limitBoxHeadline": {
-        "message": "የዕለታዊ መጣጥፍ ገደብ ደርሷል"
-    },
-    "limitHeadline": {
-        "message": "ያለ ገደብ ማንበብ ይቀጥሉ"
-    },
-    "limitSubhead": {
-        "message": "የዕለታዊ የ2 ነጻ ጽሑፎች ገደብዎ ላይ ደርሰዋል። ያልተገደበ መዳረሻ ለማግኘት አሁን ያሻሽሉ።"
-    },
-    "paywallBtn": {
-        "message": "ያልተገደበ መዳረሻ ያግኙ"
-    },
-    "paywallFooter": {
-        "message": "አንድ ጊዜ ይክፈሉ፣ ለዘላለም ይደሰቱ።"
-    },
-    "paywallHeadline": {
-        "message": "ያልተገደበ ጋዜጠኝነትን ይክፈቱ"
-    },
-    "paywallSub": {
-        "message": "ለ New York Times መክፈቻ የህይወት ዘመን መዳረሻ ያግኙ እና እንደገና በክፍያ ግድግዳ አይታገዱ።"
     }
 }

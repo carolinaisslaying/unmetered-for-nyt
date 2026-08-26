@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times Unlocker"
     },
-    "badgeSubscriber": {
-        "message": "Tilaajan käyttöoikeus"
-    },
     "btnOff": {
         "message": "POIS"
     },
     "btnOn": {
         "message": "PÄÄLLÄ"
     },
-    "btnSubscribe": {
-        "message": "Tilaa New York Times"
-    },
-    "btnVerify": {
-        "message": "Vahvista"
-    },
-    "emailPlaceholder": {
-        "message": "Sähköposti..."
-    },
     "extDesc": {
         "message": "Avaa maksumuurin takana olevan sisällön New York Timesin verkkosivustolla"
-    },
-    "extName": {
-        "message": "New York Times Unlocker | Poista maksumuuri"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times Unlocker"
-    },
-    "popupTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "premiumFeatureOnly": {
-        "message": "Vain Premium-ominaisuus"
-    },
-    "premiumHeadline": {
-        "message": "Tue itsenäistä koodia"
-    },
-    "premiumSubhead": {
-        "message": "Hanki elinikäinen käyttöoikeus rajoittamattomiin artikkeleihin kertamaksulla."
-    },
-    "premiumThankYou": {
-        "message": "Kiitos tilauksesta"
-    },
-    "premiumUnlimited": {
-        "message": "Sinulla on rajoittamaton pääsy kaikkiin artikkeleihin."
-    },
-    "restoreLink": {
-        "message": "Palauta ostos / Vahvista sähköposti"
     },
     "statusActive": {
         "message": "Suojaus aktiivinen"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Lukeminen ilman rajoituksia"
     },
-    "verifyNotFound": {
-        "message": "Ei löytyNew York Times"
-    },
-    "verifySuccess": {
-        "message": "Onnistui!"
-    },
     "articleHeadline": {
         "message": "Sinulla on 3 minuuttia rajoittamatonta käyttöaikaa."
     },
-    "articleSubhead": {
-        "message": "Tervetuloa New York Times Unlockeriin. Nauti lyhyestä esikatselusta saumattomasta ja esteettömästä journalismista."
-    },
-    "bylineAuthor": {
-        "message": "KEHITYSTIIMILTÄ"
-    },
     "demo1Title": {
         "message": "Kuinka ottaa käyttöoikeus käyttöön"
-    },
-    "readTime": {
-        "message": "3 MIN LUKEMINEN"
     },
     "step1Desc": {
         "message": "Etsi laajennuskuvake selaimen työkalupalkista."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Kytke PÄÄLLE"
     },
-    "welcomeTitle": {
-        "message": "Tervetuloa New York Times Unlockeriin"
-    },
-    "demo2Title": {
-        "message": "Kuinka vahvistaa Premium"
-    },
-    "mockRestore": {
-        "message": "Palauta ostos"
-    },
-    "mockStatus": {
-        "message": "Suojaus pois käytöstä"
-    },
-    "mockTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "mockVerify": {
-        "message": "Vahvista"
-    },
-    "restoreStep1Desc": {
-        "message": "Napsauta ponnahdusvalikosta \"Palauta ostos\"."
-    },
-    "restoreStep1Title": {
-        "message": "1. Napsauta Palauta"
-    },
-    "restoreStep2Desc": {
-        "message": "Kirjoita sähköpostiosoite, jota käytit tilaamiseen."
-    },
-    "restoreStep2Title": {
-        "message": "2. Anna sähköpostiosoite"
-    },
-    "restoreStep3Desc": {
-        "message": "Napsauta Vahvista aktivoidaksesi Premiumin välittömästi."
-    },
-    "restoreStep3Title": {
-        "message": "3. Vahvista"
-    },
     "bodyP1": {
         "message": "Olemme myöntäneet sinulle <strong>3 minuuttia ilmaista, rajoittamatonta käyttöaikaa</strong> testataksesi New York Times Unlockerin tehoa. Selaa mitä tahansa artikkelia missä tahansa New York Timesissa ilman keskeytyksiä."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "YKSITYISYYS ENSIN"
-    },
-    "limitBoxHeadline": {
-        "message": "Päivittäinen artikkeliraja saavutettu"
-    },
-    "limitHeadline": {
-        "message": "Jatka lukemista ilman rajoituksia"
-    },
-    "limitSubhead": {
-        "message": "Olet saavuttanut 2 ilmaisen artikkelin päivittäisen rajasi. Päivitä New York Times saadaksesi rajoittamattoman käyttöoikeuden."
-    },
-    "paywallBtn": {
-        "message": "Hanki rajoittamaton käyttöoikeus"
-    },
-    "paywallFooter": {
-        "message": "Maksa kerran, nauti ikuisesti."
-    },
-    "paywallHeadline": {
-        "message": "Avaa rajoittamaton journalismi"
-    },
-    "paywallSub": {
-        "message": "Hanki elinikäinen käyttöoikeus New York Times Unlockeriin, äläkä koskaan enää jää maksumuurin taakse."
     }
 }

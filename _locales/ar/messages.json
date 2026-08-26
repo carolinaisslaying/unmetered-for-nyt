@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times Unlocker"
     },
-    "badgeSubscriber": {
-        "message": "وصول المشترك"
-    },
     "btnOff": {
         "message": "إيقاف"
     },
     "btnOn": {
         "message": "تشغيل"
     },
-    "btnSubscribe": {
-        "message": "اشترك الآن"
-    },
-    "btnVerify": {
-        "message": "تحقق"
-    },
-    "emailPlaceholder": {
-        "message": "البريد الإلكتروني..."
-    },
     "extDesc": {
         "message": "يفتح المحتوى المدفوع على موقع نيويورك تايمز"
-    },
-    "extName": {
-        "message": "New York Times Unlocker | إزالة جدار الدفع"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times Unlocker"
-    },
-    "popupTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "premiumFeatureOnly": {
-        "message": "ميزة مميزة فقط"
-    },
-    "premiumHeadline": {
-        "message": "دعم الكود المستقل"
-    },
-    "premiumSubhead": {
-        "message": "احصل على وصول مدى الحياة لمقالات غير محدودة مقابل دفعة لمرة واحدة."
-    },
-    "premiumThankYou": {
-        "message": "شكرا لاشتراكك"
-    },
-    "premiumUnlimited": {
-        "message": "لديك وصول غير محدود لجميع المقالات."
-    },
-    "restoreLink": {
-        "message": "استعادة الشراء / التحقق من البريد الإلكتروني"
     },
     "statusActive": {
         "message": "الحماية نشطة"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "القراءة بلا حدود"
     },
-    "verifyNotFound": {
-        "message": "غير موجود"
-    },
-    "verifySuccess": {
-        "message": "نجاح!"
-    },
     "articleHeadline": {
         "message": "لديك 3 دقائق من الوصول غير المحدود."
     },
-    "articleSubhead": {
-        "message": "مرحبًا بك في New York Times Unlocker. استمتع بمعاينة موجزة لصحافة سلسة وخالية من العوائق."
-    },
-    "bylineAuthor": {
-        "message": "بواسطة فريق التطوير"
-    },
     "demo1Title": {
         "message": "كيفية تمكين الوصول"
-    },
-    "readTime": {
-        "message": "3 دقائق للقراءة"
     },
     "step1Desc": {
         "message": "ابحث عن أيقونة الامتداد في شريط أدوات المتصفح."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. تبديل التشغيل"
     },
-    "welcomeTitle": {
-        "message": "مرحبًا بك في New York Times Unlocker"
-    },
-    "demo2Title": {
-        "message": "كيفية التحقق من الاشتراك المميز"
-    },
-    "mockRestore": {
-        "message": "استعادة الشراء"
-    },
-    "mockStatus": {
-        "message": "الحماية معطلة"
-    },
-    "mockTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "mockVerify": {
-        "message": "تحقق"
-    },
-    "restoreStep1Desc": {
-        "message": "انقر فوق \"استعادة الشراء\" في القائمة المنبثقة."
-    },
-    "restoreStep1Title": {
-        "message": "1. انقر فوق استعادة"
-    },
-    "restoreStep2Desc": {
-        "message": "اكتب عنوان البريد الإلكتروني الذي استخدمته للاشتراك."
-    },
-    "restoreStep2Title": {
-        "message": "2. أدخل البريد الإلكتروني"
-    },
-    "restoreStep3Desc": {
-        "message": "انقر فوق تحقق لتنشيط Premium على الفور."
-    },
-    "restoreStep3Title": {
-        "message": "3. تحقق"
-    },
     "bodyP1": {
         "message": "لقد منحناك <strong>3 دقائق من الوصول المجاني وغير المحدود</strong> لاختبار قوة New York Times Unlocker. تصفح أي مقال، في أي مكان على صحيفة نيويورك تايمز، دون أي انقطاع."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "الخصوصية أولاً"
-    },
-    "limitBoxHeadline": {
-        "message": "تم الوصول إلى حد المقالات اليومية"
-    },
-    "limitHeadline": {
-        "message": "استمر في القراءة بلا حدود"
-    },
-    "limitSubhead": {
-        "message": "لقد وصلت إلى الحد اليومي البالغ مقالين مجانيين. قم بالترقية الآن للوصول غير المحدود."
-    },
-    "paywallBtn": {
-        "message": "احصل على وصول غير محدود"
-    },
-    "paywallFooter": {
-        "message": "ادفع مرة واحدة، واستمتع إلى الأبد."
-    },
-    "paywallHeadline": {
-        "message": "افتح صحافة غير محدودة"
-    },
-    "paywallSub": {
-        "message": "احصل على وصول مدى الحياة لـ New York Times Unlocker ولن يتم حظرك بواسطة جدار الدفع مرة أخرى."
     }
 }

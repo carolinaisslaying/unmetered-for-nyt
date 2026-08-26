@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times Unlocker"
     },
-    "badgeSubscriber": {
-        "message": "Přístup pro předplatitele"
-    },
     "btnOff": {
         "message": "VYP"
     },
     "btnOn": {
         "message": "ZAP"
     },
-    "btnSubscribe": {
-        "message": "Předplatit nyní"
-    },
-    "btnVerify": {
-        "message": "Ověřit"
-    },
-    "emailPlaceholder": {
-        "message": "E-mail..."
-    },
     "extDesc": {
         "message": "Odemkne placený obsah na webu New York Times"
-    },
-    "extName": {
-        "message": "New York Times Unlocker | Odstranit Paywall"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times Unlocker"
-    },
-    "popupTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "premiumFeatureOnly": {
-        "message": "Pouze prémiová funkce"
-    },
-    "premiumHeadline": {
-        "message": "Podpořte nezávislý kód"
-    },
-    "premiumSubhead": {
-        "message": "Získejte doživotní přístup k neomezeným článkům za jednorázovou platbu."
-    },
-    "premiumThankYou": {
-        "message": "Děkujeme za předplatné"
-    },
-    "premiumUnlimited": {
-        "message": "Máte neomezený přístup ke všem článkům."
-    },
-    "restoreLink": {
-        "message": "Obnovit nákup / Ověřit e-mail"
     },
     "statusActive": {
         "message": "Ochrana aktivní"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Čtení bez omezení"
     },
-    "verifyNotFound": {
-        "message": "Nenalezeno"
-    },
-    "verifySuccess": {
-        "message": "Úspěch!"
-    },
     "articleHeadline": {
         "message": "Máte 3 minuty neomezeného přístupu."
     },
-    "articleSubhead": {
-        "message": "Vítejte v New York Times Unlocker. Užijte si krátký náhled bezproblémové žurnalistiky bez bariér."
-    },
-    "bylineAuthor": {
-        "message": "Od VÝVOJOVÉHO TÝMU"
-    },
     "demo1Title": {
         "message": "Jak povolit přístup"
-    },
-    "readTime": {
-        "message": "3 MIN ČTENÍ"
     },
     "step1Desc": {
         "message": "Najděte ikonu rozšíření na panelu nástrojů prohlížeče."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Zapnout"
     },
-    "welcomeTitle": {
-        "message": "Vítejte v New York Times Unlocker"
-    },
-    "demo2Title": {
-        "message": "Jak ověřit Premium"
-    },
-    "mockRestore": {
-        "message": "Obnovit nákup"
-    },
-    "mockStatus": {
-        "message": "Ochrana vypnuta"
-    },
-    "mockTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "mockVerify": {
-        "message": "Ověřit"
-    },
-    "restoreStep1Desc": {
-        "message": "V rozbalovací nabídce klikněte na „Obnovit nákup“."
-    },
-    "restoreStep1Title": {
-        "message": "1. Klikněte na Obnovit"
-    },
-    "restoreStep2Desc": {
-        "message": "Zadejte e-mailovou adresu, kterou jste použili k předplatnému."
-    },
-    "restoreStep2Title": {
-        "message": "2. Zadejte e-mail"
-    },
-    "restoreStep3Desc": {
-        "message": "Kliknutím na Ověřit okamžitě aktivujete Premium."
-    },
-    "restoreStep3Title": {
-        "message": "3. Ověřit"
-    },
     "bodyP1": {
         "message": "Udělili jsme vám <strong>3 minuty bezplatného a neomezeného přístupu</strong>, abyste mohli otestovat sílu New York Times Unlocker. Procházejte jakýkoli článek kdekoli na The New York Times bez jakéhokoli přerušení."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "SOUKROMÍ NA PRVNÍM MÍSTĚ"
-    },
-    "limitBoxHeadline": {
-        "message": "Dosažen denní limit článků"
-    },
-    "limitHeadline": {
-        "message": "Pokračujte ve čtení bez omezení"
-    },
-    "limitSubhead": {
-        "message": "Dosáhli jste denního limitu 2 bezplatných článků. Upgradujte nyní pro neomezený přístup."
-    },
-    "paywallBtn": {
-        "message": "Získejte neomezený přístup"
-    },
-    "paywallFooter": {
-        "message": "Zaplaťte jednou, užívejte si navždy."
-    },
-    "paywallHeadline": {
-        "message": "Odemkněte neomezenou žurnalistiku"
-    },
-    "paywallSub": {
-        "message": "Získejte doživotní přístup k New York Times Unlocker a už nikdy nebudete blokováni paywallem."
     }
 }

@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times திறப்பான்"
     },
-    "badgeSubscriber": {
-        "message": "சந்தாதாரர் அணுகல்"
-    },
     "btnOff": {
         "message": "ஆஃப்"
     },
     "btnOn": {
         "message": "ஆன்"
     },
-    "btnSubscribe": {
-        "message": "இப்போது குழுசேரவும்"
-    },
-    "btnVerify": {
-        "message": "சரிபார்"
-    },
-    "emailPlaceholder": {
-        "message": "மின்னஞ்சல்..."
-    },
     "extDesc": {
         "message": "நியூயார்க் டைம்ஸ் இணையதளத்தில் கட்டண உள்ளடக்கத்தை திறக்கிறது"
-    },
-    "extName": {
-        "message": "New York Times திறப்பான் | கட்டணச் சுவரை அகற்று"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times திறப்பான்"
-    },
-    "popupTitle": {
-        "message": "New York Times திறப்பான்"
-    },
-    "premiumFeatureOnly": {
-        "message": "பிரீமியம் அம்சம் மட்டும்"
-    },
-    "premiumHeadline": {
-        "message": "சுயாதீன குறியீட்டை ஆதரிக்கவும்"
-    },
-    "premiumSubhead": {
-        "message": "ஒரு முறை கட்டணத்திற்கு வரம்பற்ற கட்டுரைகளுக்கு வாழ்நாள் அணுகலைப் பெறுங்கள்."
-    },
-    "premiumThankYou": {
-        "message": "குழுசேர்ந்ததற்கு நன்றி"
-    },
-    "premiumUnlimited": {
-        "message": "அனைத்து கட்டுரைகளுக்கும் உங்களுக்கு வரம்பற்ற அணுகல் உள்ளது."
-    },
-    "restoreLink": {
-        "message": "கொள்முதலை மீட்டமை / மின்னஞ்சலை சரிபார்"
     },
     "statusActive": {
         "message": "பாதுகாப்பு செயலில்"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "வரம்புகள் இல்லாமல் வாசிப்பு"
     },
-    "verifyNotFound": {
-        "message": "காணப்படவில்லை"
-    },
-    "verifySuccess": {
-        "message": "வெற்றி!"
-    },
     "articleHeadline": {
         "message": "உங்களுக்கு 3 நிமிட வரம்பற்ற அணுகல் உள்ளது."
     },
-    "articleSubhead": {
-        "message": "New York Times திறப்பானுக்கு வரவேற்கிறோம். தடையற்ற, தடையற்ற இதழியலின் சுருக்கமான முன்னோட்டத்தை அனுபவிக்கவும்."
-    },
-    "bylineAuthor": {
-        "message": "மேம்பாட்டுக் குழுவால்"
-    },
     "demo1Title": {
         "message": "அணுகலை இயக்குவது எப்படி"
-    },
-    "readTime": {
-        "message": "3 நிமிடம் வாசிப்பு"
     },
     "step1Desc": {
         "message": "உங்கள் உலாவி கருவிப்பட்டியில் நீட்டிப்பு ஐகானைக் கண்டறியவும்."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. ஆன் செய்யவும்"
     },
-    "welcomeTitle": {
-        "message": "New York Times திறப்பானுக்கு வரவேற்கிறோம்"
-    },
-    "demo2Title": {
-        "message": "பிரீமியத்தை எவ்வாறு சரிபார்ப்பது"
-    },
-    "mockRestore": {
-        "message": "கொள்முதலை மீட்டமை"
-    },
-    "mockStatus": {
-        "message": "பாதுகாப்பு முடக்கப்பட்டது"
-    },
-    "mockTitle": {
-        "message": "New York Times திறப்பான்"
-    },
-    "mockVerify": {
-        "message": "சரிபார்"
-    },
-    "restoreStep1Desc": {
-        "message": "பாப்அப் மெனுவில் \"கொள்முதலை மீட்டமை\" என்பதைக் கிளிக் செய்யவும்."
-    },
-    "restoreStep1Title": {
-        "message": "1. மீட்டமை என்பதைக் கிளிக் செய்யவும்"
-    },
-    "restoreStep2Desc": {
-        "message": "நீங்கள் குழுசேரப் பயன்படுத்திய மின்னஞ்சல் முகவரியைத் தட்டச்சு செய்யவும்."
-    },
-    "restoreStep2Title": {
-        "message": "2. மின்னஞ்சலை உள்ளிடவும்"
-    },
-    "restoreStep3Desc": {
-        "message": "பிரீமியத்தை உடனடியாகச் செயல்படுத்த சரிபார் என்பதைக் கிளிக் செய்யவும்."
-    },
-    "restoreStep3Title": {
-        "message": "3. சரிபார்"
-    },
     "bodyP1": {
         "message": "New York Times திறப்பானின் ஆற்றலைச் சோதிக்க, <strong>3 நிமிட இலவச, வரம்பற்ற அணுகலை</strong> உங்களுக்கு வழங்கியுள்ளோம். நியூயார்க் டைம்ஸில் எங்கும், எந்த இடையூறும் இல்லாமல் எந்தக்க்கட்டுரையையும் உலாவவும்."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "தனியுரிமை முதலில்"
-    },
-    "limitBoxHeadline": {
-        "message": "தினசரி கட்டுரை வரம்பு எட்டப்பட்டது"
-    },
-    "limitHeadline": {
-        "message": "வரம்புகள் இல்லாமல் தொடர்ந்து படிக்கவும்"
-    },
-    "limitSubhead": {
-        "message": "தினசரி 2 இலவசக் கட்டுரைகள் என்ற வரம்பை அடைந்துவிட்டீர்கள். வரம்பற்ற அணுகலுக்கு இப்போதே மேம்படுத்தவும்."
-    },
-    "paywallBtn": {
-        "message": "வரம்பற்ற அணுகலைப் பெறுங்கள்"
-    },
-    "paywallFooter": {
-        "message": "ஒருமுறை செலுத்துங்கள், எப்போதும் மகிழுங்கள்."
-    },
-    "paywallHeadline": {
-        "message": "வரம்பற்ற இதழியலைத் திறக்கவும்"
-    },
-    "paywallSub": {
-        "message": "New York Times திறப்பானுக்கான வாழ்நாள் அணுகலைப் பெறுங்கள், இனி ஒருபோதும் பேவாலால் தடுக்கப்பட மாட்டீர்கள்."
     }
 }

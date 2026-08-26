@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times ಅನ್‌ಲಾಕರ್"
     },
-    "badgeSubscriber": {
-        "message": "ಚಂದಾದಾರರ ಪ್ರವೇಶ"
-    },
     "btnOff": {
         "message": "ಆಫ್"
     },
     "btnOn": {
         "message": "ಆನ್"
     },
-    "btnSubscribe": {
-        "message": "ಈಗ ಚಂದಾದಾರರಾಗಿ"
-    },
-    "btnVerify": {
-        "message": "ಪರಿಶೀಲಿಸಿ"
-    },
-    "emailPlaceholder": {
-        "message": "ಇಮೇಲ್..."
-    },
     "extDesc": {
         "message": "ನ್ಯೂಯಾರ್ಕ್ ಟೈಮ್ಸ್ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪಾವತಿಸಿದ ವಿಷಯವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ"
-    },
-    "extName": {
-        "message": "New York Times ಅನ್‌ಲಾಕರ್ | ಪೇವಾಲ್ ತೆಗೆದುಹಾಕಿ"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times ಅನ್‌ಲಾಕರ್"
-    },
-    "popupTitle": {
-        "message": "New York Times ಅನ್‌ಲಾಕರ್"
-    },
-    "premiumFeatureOnly": {
-        "message": "ಪ್ರೀಮಿಯಂ ವೈಶಿಷ್ಟ್ಯ ಮಾತ್ರ"
-    },
-    "premiumHeadline": {
-        "message": "ಸ್ವತಂತ್ರ ಕೋಡ್ ಅನ್ನು ಬೆಂಬಲಿಸಿ"
-    },
-    "premiumSubhead": {
-        "message": "ಒಂದು ಬಾರಿಯ ಪಾವತಿಗೆ ಅನಿಯಮಿತ ಲೇಖನಗಳಿಗೆ ಜೀವಮಾನದ ಪ್ರವೇಶವನ್ನು ಪಡೆಯಿರಿ."
-    },
-    "premiumThankYou": {
-        "message": "ಚಂದಾದಾರರಾಗಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು"
-    },
-    "premiumUnlimited": {
-        "message": "ನೀವು ಎಲ್ಲಾ ಲೇಖನಗಳಿಗೆ ಅನಿಯಮಿತ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿದ್ದೀರಿ."
-    },
-    "restoreLink": {
-        "message": "ಖರೀದಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಿ / ಇಮೇಲ್ ಪರಿಶೀಲಿಸಿ"
     },
     "statusActive": {
         "message": "ರಕ್ಷಣೆ ಸಕ್ರಿಯ"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "ಮಿತಿಯಿಲ್ಲದೆ ಓದುವಿಕೆ"
     },
-    "verifyNotFound": {
-        "message": "ಕಂಡುಬಂದಿಲ್ಲ"
-    },
-    "verifySuccess": {
-        "message": "ಯಶಸ್ಸು!"
-    },
     "articleHeadline": {
         "message": "ನೀವು 3 ನಿಮಿಷಗಳ ಅನಿಯಮಿತ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿದ್ದೀರಿ."
     },
-    "articleSubhead": {
-        "message": "New York Times ಅನ್‌ಲಾಕರ್‌ಗೆ ಸುಸ್ವಾಗತ. ತಡೆರಹಿತ, ತಡೆ-ಮುಕ್ತ ಪತ್ರಿಕೋದ್ಯಮದ ಸಂಕ್ಷಿಪ್ತ ಮುನ್ನೋಟವನ್ನು ಆನಂದಿಸಿ."
-    },
-    "bylineAuthor": {
-        "message": "ಅಭಿವೃದ್ಧಿ ತಂಡದಿಂದ"
-    },
     "demo1Title": {
         "message": "ಪ್ರವೇಶವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದು ಹೇಗೆ"
-    },
-    "readTime": {
-        "message": "3 ನಿಮಿಷ ಓದಿ"
     },
     "step1Desc": {
         "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್ ಟೂಲ್‌ಬಾರ್‌ನಲ್ಲಿ ವಿಸ್ತರಣೆ ಐಕಾನ್ ಅನ್ನು ಹುಡುಕಿ."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. ಆನ್ ಮಾಡಿ"
     },
-    "welcomeTitle": {
-        "message": "New York Times ಅನ್‌ಲಾಕರ್‌ಗೆ ಸುಸ್ವಾಗತ"
-    },
-    "demo2Title": {
-        "message": "ಪ್ರೀಮಿಯಂ ಅನ್ನು ಪರಿಶೀಲಿಸುವುದು ಹೇಗೆ"
-    },
-    "mockRestore": {
-        "message": "ಖರೀದಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಿ"
-    },
-    "mockStatus": {
-        "message": "ರಕ್ಷಣೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
-    },
-    "mockTitle": {
-        "message": "New York Times ಅನ್‌ಲಾಕರ್"
-    },
-    "mockVerify": {
-        "message": "ಪರಿಶೀಲಿಸಿ"
-    },
-    "restoreStep1Desc": {
-        "message": "ಪಾಪ್‌ಅಪ್ ಮೆನುವಿನಲ್ಲಿ \"ಖರೀದಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಿ\" ಕ್ಲಿಕ್ ಮಾಡಿ."
-    },
-    "restoreStep1Title": {
-        "message": "1. ಮರುಸ್ಥಾಪಿಸು ಕ್ಲಿಕ್ ಮಾಡಿ"
-    },
-    "restoreStep2Desc": {
-        "message": "ಚಂದಾದಾರರಾಗಲು ನೀವು ಬಳಸಿದ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಟೈಪ್ ಮಾಡಿ."
-    },
-    "restoreStep2Title": {
-        "message": "2. ಇಮೇಲ್ ನಮೂದಿಸಿ"
-    },
-    "restoreStep3Desc": {
-        "message": "ಪ್ರೀಮಿಯಂ ಅನ್ನು ತಕ್ಷಣವೇ ಸಕ್ರಿಯಗೊಳಿಸಲು ಪರಿಶೀಲಿಸಿ ಕ್ಲಿಕ್ ಮಾಡಿ."
-    },
-    "restoreStep3Title": {
-        "message": "3. ಪರಿಶೀಲಿಸಿ"
-    },
     "bodyP1": {
         "message": "New York Times ಅನ್‌ಲಾಕರ್‌ನ ಶಕ್ತಿಯನ್ನು ಪರೀಕ್ಷಿಸಲು ನಾವು ನಿಮಗೆ <strong>3 ನಿಮಿಷಗಳ ಉಚಿತ, ಅನಿಯಮಿತ ಪ್ರವೇಶವನ್ನು</strong> ನೀಡಿದ್ದೇವೆ. ನ್ಯೂಯಾರ್ಕ್ ಟೈಮ್ಸ್‌ನಲ್ಲಿ ಎಲ್ಲಿಯಾದರೂ, ಯಾವುದೇ ಅಡಚಣೆಗಳಿಲ್ಲದೆ ಯಾವುದೇ ಲೇಖನವನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "ಗೌಪ್ಯತೆ ಮೊದಲು"
-    },
-    "limitBoxHeadline": {
-        "message": "ದೈನಂದಿನ ಲೇಖನ ಮಿತಿಯನ್ನು ತಲುಪಲಾಗಿದೆ"
-    },
-    "limitHeadline": {
-        "message": "ಮಿತಿಯಿಲ್ಲದೆ ಓದುವುದನ್ನು ಮುಂದುವರಿಸಿ"
-    },
-    "limitSubhead": {
-        "message": "ನಿಮ್ಮ ದೈನಂದಿನ 2 ಉಚಿತ ಲೇಖನಗಳ ಮಿತಿಯನ್ನು ನೀವು ತಲುಪಿದ್ದೀರಿ. ಅನಿಯಮಿತ ಪ್ರವೇಶಕ್ಕಾಗಿ ಈಗಲೇ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
-    },
-    "paywallBtn": {
-        "message": "ಅನಿಯಮಿತ ಪ್ರವೇಶವನ್ನು ಪಡೆಯಿರಿ"
-    },
-    "paywallFooter": {
-        "message": "ಒಮ್ಮೆ ಪಾವತಿಸಿ, ಶಾಶ್ವತವಾಗಿ ಆನಂದಿಸಿ."
-    },
-    "paywallHeadline": {
-        "message": "ಅನಿಯಮಿತ ಪತ್ರಿಕೋದ್ಯಮವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಿ"
-    },
-    "paywallSub": {
-        "message": "New York Times ಅನ್‌ಲಾಕರ್‌ಗೆ ಜೀವಮಾನದ ಪ್ರವೇಶವನ್ನು ಪಡೆಯಿರಿ ಮತ್ತು ಇನ್ನು ಮುಂದೆ ಪೇವಾಲ್‌ನಿಂದ ನಿರ್ಬಂಧಿಸಬೇಡಿ."
     }
 }

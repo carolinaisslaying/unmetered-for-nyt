@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "New York Times Unlocker"
     },
-    "badgeSubscriber": {
-        "message": "Abonnentenzugang"
-    },
     "btnOff": {
         "message": "AUS"
     },
     "btnOn": {
         "message": "EIN"
     },
-    "btnSubscribe": {
-        "message": "Jetzt abonnieren"
-    },
-    "btnVerify": {
-        "message": "Verifizieren"
-    },
-    "emailPlaceholder": {
-        "message": "E-Mail..."
-    },
     "extDesc": {
         "message": "Entsperrt kostenpflichtige Inhalte auf der New York Times Website"
-    },
-    "extName": {
-        "message": "New York Times Unlocker | Paywall entfernen"
-    },
-    "footerText": {
-        "message": "© 2025 New York Times Unlocker"
-    },
-    "popupTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "premiumFeatureOnly": {
-        "message": "Nur Premium-Funktion"
-    },
-    "premiumHeadline": {
-        "message": "Unterstützen Sie unabhängigen Code"
-    },
-    "premiumSubhead": {
-        "message": "Erhalten Sie lebenslangen Zugriff auf unbegrenzte Artikel gegen eine einmalige Zahlung."
-    },
-    "premiumThankYou": {
-        "message": "Danke fürs Abonnieren"
-    },
-    "premiumUnlimited": {
-        "message": "Sie haben unbegrenzten Zugriff auf alle Artikel."
-    },
-    "restoreLink": {
-        "message": "Kauf wiederherstellen / E-Mail verifizieren"
     },
     "statusActive": {
         "message": "Schutz aktiv"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Lesen ohne Grenzen"
     },
-    "verifyNotFound": {
-        "message": "Nicht gefunden"
-    },
-    "verifySuccess": {
-        "message": "Erfolg!"
-    },
     "articleHeadline": {
         "message": "Sie haben 3 Minuten unbegrenzten Zugriff."
     },
-    "articleSubhead": {
-        "message": "Willkommen beim New York Times Unlocker. Genießen Sie eine kurze Vorschau auf nahtlosen, barrierefreien Journalismus."
-    },
-    "bylineAuthor": {
-        "message": "Vom ENTWICKLUNGSTEAM"
-    },
     "demo1Title": {
         "message": "So aktivieren Sie den Zugriff"
-    },
-    "readTime": {
-        "message": "3 MIN LESEN"
     },
     "step1Desc": {
         "message": "Suchen Sie das Erweiterungssymbol in Ihrer Browser-Symbolleiste."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Einschalten"
     },
-    "welcomeTitle": {
-        "message": "Willkommen beim New York Times Unlocker"
-    },
-    "demo2Title": {
-        "message": "So verifizieren Sie Premium"
-    },
-    "mockRestore": {
-        "message": "Kauf wiederherstellen"
-    },
-    "mockStatus": {
-        "message": "Schutz deaktiviert"
-    },
-    "mockTitle": {
-        "message": "New York Times Unlocker"
-    },
-    "mockVerify": {
-        "message": "Verifizieren"
-    },
-    "restoreStep1Desc": {
-        "message": "Klicken Sie im Popup-Menü auf „Kauf wiederherstellen“."
-    },
-    "restoreStep1Title": {
-        "message": "1. Klicken Sie auf Wiederherstellen"
-    },
-    "restoreStep2Desc": {
-        "message": "Geben Sie die E-Mail-Adresse ein, die Sie zum Abonnieren verwendet haben."
-    },
-    "restoreStep2Title": {
-        "message": "2. E-Mail eingeben"
-    },
-    "restoreStep3Desc": {
-        "message": "Klicken Sie auf Verifizieren, um Premium sofort zu aktivieren."
-    },
-    "restoreStep3Title": {
-        "message": "3. Verifizieren"
-    },
     "bodyP1": {
         "message": "Wir haben Ihnen <strong>3 Minuten kostenlosen, unbegrenzten Zugriff</strong> gewährt, um die Leistungsfähigkeit des New York Times Unlocker zu testen. Durchsuchen Sie jeden Artikel überall auf der New York Times ohne Unterbrechungen."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "DATENSCHUTZ ZUERST"
-    },
-    "limitBoxHeadline": {
-        "message": "Tägliches Artikellimit erreicht"
-    },
-    "limitHeadline": {
-        "message": "Lesen Sie ohne Einschränkungen weiter"
-    },
-    "limitSubhead": {
-        "message": "Sie haben Ihr tägliches Limit von 2 kostenlosen Artikeln erreicht. Führen Sie jetzt ein Upgrade durch, um unbegrenzten Zugriff zu erhalten."
-    },
-    "paywallBtn": {
-        "message": "Erhalten Sie unbegrenzten Zugriff"
-    },
-    "paywallFooter": {
-        "message": "Einmal zahlen, für immer genießen."
-    },
-    "paywallHeadline": {
-        "message": "Schalten Sie unbegrenzten Journalismus frei"
-    },
-    "paywallSub": {
-        "message": "Erhalten Sie lebenslangen Zugriff auf den New York Times Unlocker und werden Sie nie wieder von einer Paywall blockiert."
     }
 }

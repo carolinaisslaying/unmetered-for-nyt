@@ -2,53 +2,14 @@
     "actionTitle": {
         "message": "Desbloqueador New York Times"
     },
-    "badgeSubscriber": {
-        "message": "Acceso de suscriptor"
-    },
     "btnOff": {
         "message": "OFF"
     },
     "btnOn": {
         "message": "ON"
     },
-    "btnSubscribe": {
-        "message": "Suscribirse ahora"
-    },
-    "btnVerify": {
-        "message": "Verificar"
-    },
-    "emailPlaceholder": {
-        "message": "Correo electrónico..."
-    },
     "extDesc": {
         "message": "Desbloquea contenido de pago en el sitio web del New York Times"
-    },
-    "extName": {
-        "message": "Desbloqueador New York Times | Eliminar muro de pago"
-    },
-    "footerText": {
-        "message": "© 2025 Desbloqueador New York Times"
-    },
-    "popupTitle": {
-        "message": "Desbloqueador New York Times"
-    },
-    "premiumFeatureOnly": {
-        "message": "Solo función Premium"
-    },
-    "premiumHeadline": {
-        "message": "Apoya el código independiente"
-    },
-    "premiumSubhead": {
-        "message": "Obtenga acceso de por vida a artículos ilimitados por un pago único."
-    },
-    "premiumThankYou": {
-        "message": "Gracias por suscribirte"
-    },
-    "premiumUnlimited": {
-        "message": "Tienes acceso ilimitado a todos los artículos."
-    },
-    "restoreLink": {
-        "message": "Restaurar compra / Verificar correo electrónico"
     },
     "statusActive": {
         "message": "Protección activa"
@@ -62,26 +23,11 @@
     "statusSub": {
         "message": "Lectura sin límites"
     },
-    "verifyNotFound": {
-        "message": "No encontrado."
-    },
-    "verifySuccess": {
-        "message": "¡Éxito!"
-    },
     "articleHeadline": {
         "message": "Tienes 3 minutos de acceso ilimitado."
     },
-    "articleSubhead": {
-        "message": "Bienvenido al Desbloqueador New York Times. Disfrute de una breve vista previa del periodismo fluido y sin barreras."
-    },
-    "bylineAuthor": {
-        "message": "Por EL EQUIPO DE DESARROLLO"
-    },
     "demo1Title": {
         "message": "Cómo habilitar el acceso"
-    },
-    "readTime": {
-        "message": "LECTURA DE 3 MIN"
     },
     "step1Desc": {
         "message": "Busque el icono de la extensión en la barra de herramientas de su navegador."
@@ -101,42 +47,6 @@
     "step3Title": {
         "message": "3. Activar"
     },
-    "welcomeTitle": {
-        "message": "Bienvenido al Desbloqueador New York Times"
-    },
-    "demo2Title": {
-        "message": "Cómo verificar Premium"
-    },
-    "mockRestore": {
-        "message": "Restaurar compra"
-    },
-    "mockStatus": {
-        "message": "Protección desactivada"
-    },
-    "mockTitle": {
-        "message": "Desbloqueador New York Times"
-    },
-    "mockVerify": {
-        "message": "Verificar"
-    },
-    "restoreStep1Desc": {
-        "message": "Haga clic en \"Restaurar compra\" en el menú emergente."
-    },
-    "restoreStep1Title": {
-        "message": "1. Haga clic en Restaurar"
-    },
-    "restoreStep2Desc": {
-        "message": "Escriba la dirección de correo electrónico que utilizó para suscribirse."
-    },
-    "restoreStep2Title": {
-        "message": "2. Ingresar correo electrónico"
-    },
-    "restoreStep3Desc": {
-        "message": "Haga clic en Verificar para activar Premium al instante."
-    },
-    "restoreStep3Title": {
-        "message": "3. Verificar"
-    },
     "bodyP1": {
         "message": "Le hemos concedido <strong>3 minutos de acceso gratuito e ilimitado</strong> para probar el poder del Desbloqueador New York Times. Navegue por cualquier artículo, en cualquier lugar del New York Times, sin interrupciones."
     },
@@ -154,26 +64,5 @@
     },
     "feat2Title": {
         "message": "PRIVACIDAD PRIMERO"
-    },
-    "limitBoxHeadline": {
-        "message": "Límite diario de artículos alcanzado"
-    },
-    "limitHeadline": {
-        "message": "Sigue leyendo sin límites"
-    },
-    "limitSubhead": {
-        "message": "Ha alcanzado su límite diario de 2 artículos gratuitos. Actualice ahora para obtener acceso ilimitado."
-    },
-    "paywallBtn": {
-        "message": "Obtener acceso ilimitado"
-    },
-    "paywallFooter": {
-        "message": "Pague una vez, disfrute para siempre."
-    },
-    "paywallHeadline": {
-        "message": "Desbloquear periodismo ilimitado"
-    },
-    "paywallSub": {
-        "message": "Obtenga acceso de por vida al Desbloqueador New York Times y nunca más sea bloqueado por un muro de pago."
     }
 }
