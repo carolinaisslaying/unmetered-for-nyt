@@ -4,6 +4,7 @@
   "description": "Removes the paywall and article limit on the New York Times website. Free and open source.",
   "license": "MPL-2.0",
   "private": true,
+  "packageManager": "pnpm@9.15.4",
   "scripts": {
     "lint": "web-ext lint",
     "start": "web-ext run",
