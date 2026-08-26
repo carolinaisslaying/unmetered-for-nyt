@@ -55,11 +55,21 @@ pnpm start     # launch a temporary Firefox profile with the extension loaded
 pnpm build     # produce an installable .xpi in web-ext-artifacts/
 ```
 
-## Before you publish
+## Releasing
 
-- Set `SOURCE_REPOSITORY` in `welcome.js` to this repository's URL.
-- `manifest.json` carries a freshly generated extension ID. Do not reuse the
-  upstream one.
+`.github/workflows/release.yml` lints and builds on every push and pull request,
+and attaches `unmetered_for_nyt.zip` to a GitHub release when a `v*` tag is
+pushed. That artefact is what gets uploaded to AMO.
+
+```sh
+git tag v4.0.0 && git push origin v4.0.0
+```
+
+The build step also asserts that no dev files reached the package and that
+`LICENSE` did, because the zip goes straight to AMO.
+
+The extension is plain, unbuilt source, so AMO does not require a separate
+source-code upload.
 
 ## Translations
 

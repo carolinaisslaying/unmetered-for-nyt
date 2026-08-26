@@ -145,5 +145,8 @@
     },
     "feat2Now": {
         "message": "It said this while sending a generated device ID, your platform and your full user agent to a remote server on every install, and calling Google for fonts every time you opened the popup. In this version it is true."
+    },
+    "noteLinkArchived": {
+        "message": "Archived copy →"
     }
 }

@@ -5,7 +5,9 @@ export default {
     'package.json',
     'web-ext-config.mjs',
     'web-ext-artifacts',
+    'dist',
     'README.md',
+    '.github',
     '.idea',
     '.git'
   ],

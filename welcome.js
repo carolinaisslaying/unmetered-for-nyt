@@ -6,8 +6,11 @@
 //
 // ORIGINAL_LISTING addresses the upstream add-on by its extension ID rather
 // than its slug, so it keeps resolving if the listing is renamed.
-const ORIGINAL_LISTING =
-  'https://addons.mozilla.org/en-US/firefox/addon/%7B49f6d1c7-8149-47dd-bc30-c79c2c2c6b86%7D/';
+const ORIGINAL_LISTING = 'https://addons.mozilla.org/en-US/firefox/addon/nyt-unlocker/';
+// A snapshot taken before this fork was published. The Editors' Note describes
+// what that listing said, so the claim stays checkable if the listing changes.
+const ARCHIVED_LISTING =
+  'https://web.archive.org/web/20260826111744/https://addons.mozilla.org/en-US/firefox/addon/nyt-unlocker/';
 const SOURCE_REPOSITORY = 'https://github.com/carolinaisslaying/unmetered-for-nyt';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -17,11 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
   document.getElementById('link-original').href = ORIGINAL_LISTING;
+  document.getElementById('link-archived').href = ARCHIVED_LISTING;
   document.getElementById('link-source').href = SOURCE_REPOSITORY;
 
   // Each struck quotation is content removed from the upstream release; cite
   // points at where it was published.
   document.querySelectorAll('del.struck').forEach(el => {
-    el.setAttribute('cite', ORIGINAL_LISTING);
+    el.setAttribute('cite', ARCHIVED_LISTING);
   });
 });

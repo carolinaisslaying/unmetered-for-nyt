@@ -1,5 +1,6 @@
+*.log
+.DS_Store
+.idea/
+dist
 node_modules/
 web-ext-artifacts/
-.idea/
-.DS_Store
-*.log
