@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to New York Times Unlocker</title>
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Libre+Franklin:wght@300;400;500;700&display=swap');
+
+    :root {
+      --nyt-black: #121212;
+      --nyt-gray: #333333;
+      --nyt-light-gray: #e2e2e2;
+      --nyt-bg: #ffffff;
+      --nyt-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+      --nyt-sans: 'Libre Franklin', Helvetica, Arial, sans-serif;
+    }
+
+    body {
+      font-family: var(--nyt-serif);
+      background-color: var(--nyt-bg);
+      color: var(--nyt-black);
+      line-height: 1.6;
+    }
+
+    .header {
+      border-bottom: 1px solid var(--nyt-light-gray);
+      padding: 20px 0;
+      margin-bottom: 40px;
+      text-align: center;
+    }
+
+    .logo {
+      font-family: var(--nyt-serif);
+      font-weight: 900;
+      font-size: 48px;
+      letter-spacing: -1px;
+      margin: 0;
+    }
+
+    .date {
+      font-family: var(--nyt-sans);
+      font-size: 11px;
+      font-weight: 700;
+      color: #666;
+      text-transform: uppercase;
+      margin-top: 8px;
+    }
+
+    .main-content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    .article-headline {
+      font-family: var(--nyt-serif);
+      font-weight: 700;
+      font-size: 42px;
+      line-height: 1.1;
+      margin-bottom: 20px;
+      font-style: italic;
+    }
+
+    .article-subhead {
+      font-family: var(--nyt-sans);
+      font-size: 18px;
+      color: #666;
+      margin-bottom: 30px;
+      font-weight: 300;
+    }
+
+    .byline {
+      font-family: var(--nyt-sans);
+      font-size: 12px;
+      font-weight: 700;
+      margin-bottom: 40px;
+      border-top: 1px solid var(--nyt-black);
+      padding-top: 10px;
+      display: inline-block;
+    }
+
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 40px;
+      margin-bottom: 60px;
+      border-top: 1px solid var(--nyt-light-gray);
+      padding-top: 40px;
+    }
+
+    .feature-item h3 {
+      font-family: var(--nyt-sans);
+      font-weight: 700;
+      font-size: 14px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+
+    .feature-item p {
+      font-family: var(--nyt-serif);
+      font-size: 16px;
+      color: #333;
+    }
+
+    .paywall-box {
+      background-color: #f7f7f7;
+      border: 1px solid var(--nyt-light-gray);
+      padding: 40px;
+      text-align: center;
+      margin: 60px 0;
+    }
+
+    /* Missing Article Styles */
+    .article-meta {
+      font-family: var(--nyt-sans);
+      font-size: 12px;
+      font-weight: 700;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between;
+      border-top: 1px solid #000;
+      padding-top: 10px;
+    }
+
+    .author {
+      text-transform: uppercase;
+    }
+
+    .time {
+      color: #666;
+    }
+
+    .article-body {
+      font-family: var(--nyt-serif);
+      font-size: 18px;
+      margin-bottom: 40px;
+    }
+
+    .drop-cap {
+      float: left;
+      font-size: 84px;
+      line-height: 0.8;
+      font-weight: 700;
+      margin-right: 10px;
+      margin-bottom: -10px;
+    }
+
+    /* Animation Demo */
+    .demo-wrapper {
+      background: #f9f9f9;
+      padding: 40px;
+      border-radius: 8px;
+      margin: 40px 0;
+      border: 1px solid #e2e2e2;
+    }
+
+    .demo-container {
+      width: 100%;
+      max-width: 500px;
+      height: 280px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background: #fff;
+      position: relative;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+    }
+
+    .browser-bar {
+      height: 40px;
+      background: #f1f1f1;
+      border-bottom: 1px solid #ccc;
+      display: flex;
+      align-items: center;
+      padding: 0 15px;
+      justify-content: flex-end;
+    }
+
+    .ext-icon {
+      width: 20px;
+      height: 20px;
+      background: #333;
+      border-radius: 4px;
+      margin-left: 15px;
+    }
+
+    .popup-mockup {
+      position: absolute;
+      top: 50px;
+      right: 15px;
+      width: 180px;
+      height: 220px;
+      background: #fff;
+      border: 1px solid #999;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+      opacity: 0;
+      transform: translateY(-10px);
+      animation: showPopup 6s infinite;
+      border-radius: 4px;
+    }
+
+    .mock-title {
+      font-family: 'Playfair Display', serif;
+      font-weight: 900;
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+
+    .mock-switch {
+      width: 50px;
+      height: 26px;
+      border: 1px solid #ccc;
+      border-radius: 13px;
+      position: relative;
+      margin-bottom: 15px;
+      background: #fff;
+      animation: toggleSwitch 6s infinite;
+    }
+
+    .mock-switch::after {
+      content: '';
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      width: 18px;
+      height: 18px;
+      background: #333;
+      border-radius: 50%;
+      transition: all 0.3s;
+      animation: moveKnob 6s infinite;
+    }
+
+    .mock-status {
+      font-size: 12px;
+      color: #666;
+      animation: changeText 6s infinite;
+    }
+
+    .cursor {
+      width: 0;
+      height: 0;
+      border-left: 12px solid transparent;
+      border-right: 12px solid transparent;
+      border-bottom: 20px solid black;
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: rotate(-45deg);
+      opacity: 0.8;
+      animation: moveCursor 6s infinite;
+      z-index: 100;
+      filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.2));
+    }
+
+    .cursor::after {
+      content: '';
+      position: absolute;
+      top: 20px;
+      left: -4px;
+      width: 8px;
+      height: 12px;
+      background: black;
+    }
+
+    @keyframes moveCursor {
+      0% {
+        top: 200px;
+        left: 40%;
+        transform: scale(1) rotate(-45deg);
+      }
+
+      20% {
+        top: 20px;
+        left: 90%;
+        transform: scale(1) rotate(-45deg);
+      }
+
+      /* Hover Icon */
+      25% {
+        transform: scale(0.9) rotate(-45deg);
+      }
+
+      /* Click Icon */
+      30% {
+        transform: scale(1) rotate(-45deg);
+      }
+
+      40% {
+        top: 100px;
+        left: 75%;
+      }
+
+      /* Move to Switch */
+      50% {
+        transform: scale(0.9) rotate(-45deg);
+      }
+
+      /* Click Switch */
+      55% {
+        transform: scale(1) rotate(-45deg);
+      }
+
+      80% {
+        top: 200px;
+        left: 40%;
+        opacity: 1;
+      }
+
+      100% {
+        top: 200px;
+        left: 40%;
+        opacity: 0;
+      }
+    }
+
+    @keyframes showPopup {
+
+      0%,
+      25% {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+
+      26% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      90% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      100% {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+    }
+
+    @keyframes toggleSwitch {
+
+      0%,
+      50% {
+        background: #fff;
+        border-color: #ccc;
+      }
+
+      51%,
+      100% {
+        background: #000;
+        border-color: #000;
+      }
+    }
+
+    @keyframes moveKnob {
+
+      0%,
+      50% {
+        left: 3px;
+        background: #333;
+      }
+
+      51%,
+      100% {
+        left: 27px;
+        background: #fff;
+      }
+    }
+
+    @keyframes changeText {
+
+      0%,
+      50% {
+        content: "OFF";
+        color: #666;
+      }
+
+      51%,
+      100% {
+        content: "Active";
+        color: #000;
+        font-weight: bold;
+      }
+    }
+
+    .paywall-box.limit-reached {
+      background-color: white;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      border: none;
+    }
+
+    .paywall-headline {
+      font-family: var(--nyt-serif);
+      font-weight: 700;
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    .btn-subscribe {
+      background-color: var(--nyt-black);
+      color: white;
+      font-family: var(--nyt-sans);
+      font-weight: 700;
+      font-size: 14px;
+      text-transform: uppercase;
+      padding: 15px 40px;
+      border: none;
+      border-radius: 3px;
+      letter-spacing: 1px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+      transition: opacity 0.2s;
+    }
+
+    .btn-subscribe:hover {
+      opacity: 0.8;
+      color: white;
+    }
+
+    /* Restore Demo Styles */
+    .restore-mockup {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 180px;
+      height: 220px;
+      background: #fff;
+      border: 1px solid #999;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+      border-radius: 4px;
+    }
+
+    .restore-link {
+      font-size: 10px;
+      color: #666;
+      text-decoration: underline;
+      margin-top: 10px;
+      animation: hideLink 8s infinite;
+    }
+
+    .restore-form {
+      width: 100%;
+      margin-top: 10px;
+      opacity: 0;
+      animation: showForm 8s infinite;
+    }
+
+    .mock-input {
+      width: 100%;
+      height: 20px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      margin-bottom: 5px;
+      font-size: 9px;
+      padding-left: 4px;
+      display: flex;
+      align-items: center;
+      color: #333;
+    }
+
+    .mock-input::after {
+      content: '';
+      animation: typeEmail 8s infinite;
+    }
+
+    .mock-btn {
+      width: 100%;
+      height: 20px;
+      background: #000;
+      color: #fff;
+      border-radius: 3px;
+      font-size: 9px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      animation: clickVerify 8s infinite;
+    }
+
+    .restore-cursor {
+      width: 0;
+      height: 0;
+      border-left: 12px solid transparent;
+      border-right: 12px solid transparent;
+      border-bottom: 20px solid black;
+      position: absolute;
+      transform: rotate(-45deg);
+      z-index: 100;
+      filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.2));
+      animation: restoreCursorMove 8s infinite;
+    }
+
+    .restore-cursor::after {
+      content: '';
+      position: absolute;
+      top: 20px;
+      left: -4px;
+      width: 8px;
+      height: 12px;
+      background: black;
+    }
+
+    @keyframes restoreCursorMove {
+      0% {
+        top: 200px;
+        left: 80%;
+        opacity: 0;
+      }
+
+      10% {
+        top: 200px;
+        left: 80%;
+        opacity: 1;
+      }
+
+      20% {
+        top: 140px;
+        left: 50%;
+        transform: translate(-50%, 0) rotate(-45deg) scale(1);
+      }
+
+      /* Hover Link */
+      25% {
+        transform: translate(-50%, 0) rotate(-45deg) scale(0.9);
+      }
+
+      /* Click Link */
+      30% {
+        transform: translate(-50%, 0) rotate(-45deg) scale(1);
+      }
+
+      40% {
+        top: 160px;
+        left: 50%;
+      }
+
+      /* Move to Input */
+      60% {
+        top: 190px;
+        left: 50%;
+        transform: translate(-50%, 0) rotate(-45deg) scale(1);
+      }
+
+      /* Move to Verify */
+      65% {
+        transform: translate(-50%, 0) rotate(-45deg) scale(0.9);
+      }
+
+      /* Click Verify */
+      70% {
+        transform: translate(-50%, 0) rotate(-45deg) scale(1);
+      }
+
+      90% {
+        top: 200px;
+        left: 80%;
+        opacity: 0;
+      }
+
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @keyframes hideLink {
+
+      0%,
+      25% {
+        opacity: 1;
+        display: block;
+      }
+
+      26%,
+      100% {
+        opacity: 0;
+        display: none;
+      }
+    }
+
+    @keyframes showForm {
+
+      0%,
+      25% {
+        opacity: 0;
+      }
+
+      26%,
+      100% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes typeEmail {
+
+      0%,
+      35% {
+        content: '';
+      }
+
+      40% {
+        content: 'user';
+      }
+
+      45% {
+        content: 'user@';
+      }
+
+      50% {
+        content: 'user@email';
+      }
+
+      55%,
+      100% {
+        content: 'user@email.com';
+      }
+    }
+
+    @keyframes clickVerify {
+
+      0%,
+      65% {
+        background: #000;
+        transform: scale(1);
+      }
+
+      66% {
+        transform: scale(0.95);
+      }
+
+      70% {
+        background: #4CAF50;
+        content: 'Success';
+        transform: scale(1);
+      }
+
+      100% {
+        background: #4CAF50;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="header">
+    <h1 class="logo" data-i18n="welcomeTitle">New York Times Unlocker</h1>
+    <div class="date" id="current-date">Saturday, December 6, 2025</div>
+  </div>
+  <div class="main-content">
+    <div class="article-meta">
+      <span class="author" data-i18n="bylineAuthor">By THE DEVELOPMENT TEAM</span>
+      <span class="time" data-i18n="readTime">3 MIN READ</span>
+    </div>
+
+    <h1 class="article-headline" data-i18n="articleHeadline">You Have 3 Minutes of Unlimited Access.</h1>
+    <h2 class="article-subhead" data-i18n="articleSubhead">Welcome to New York Times Unlocker. Enjoy a brief preview of
+      seamless,
+      barrier-free journalism.
+    </h2>
+
+    <!-- Animation Demo -->
+    <div class="demo-wrapper">
+      <h3
+        style="font-family: var(--nyt-sans); font-size: 14px; font-weight: 700; text-transform: uppercase; margin-bottom: 20px; text-align: center;"
+        data-i18n="demo1Title">
+        How to Enable Access</h3>
+
+      <div class="demo-container">
+        <div class="browser-bar">
+          <div class="ext-icon"></div>
+        </div>
+        <div class="popup-mockup">
+          <div class="mock-title" data-i18n="mockTitle">New York Times Unlocker</div>
+          <div class="mock-switch"></div>
+          <div class="mock-status" data-i18n="mockStatus">Protection Disabled</div>
+        </div>
+        <div class="cursor"></div>
+      </div>
+
+      <div class="row mt-4 text-center" style="font-family: var(--nyt-sans); font-size: 13px; color: #333;">
+        <div class="col-4">
+          <div style="font-weight: 700; margin-bottom: 5px;" data-i18n="step1Title">1. Click Icon</div>
+          <p style="color: #666; font-size: 12px; line-height: 1.4;" data-i18n="step1Desc">Find the extension icon in
+            your browser toolbar.
+          </p>
+        </div>
+        <div class="col-4">
+          <div style="font-weight: 700; margin-bottom: 5px;" data-i18n="step2Title">2. Open Menu</div>
+          <p style="color: #666; font-size: 12px; line-height: 1.4;" data-i18n="step2Desc">Click to open the New York
+            Times
+            Unlocker menu.</p>
+        </div>
+        <div class="col-4">
+          <div style="font-weight: 700; margin-bottom: 5px;" data-i18n="step3Title">3. Toggle ON</div>
+          <p style="color: #666; font-size: 12px; line-height: 1.4;" data-i18n="step3Desc">Ensure the protection switch
+            is set to Active.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Email Activation Demo -->
+    <div class="demo-wrapper">
+      <h3
+        style="font-family: var(--nyt-sans); font-size: 14px; font-weight: 700; text-transform: uppercase; margin-bottom: 20px; text-align: center;"
+        data-i18n="demo2Title">
+        How to Verify Premium</h3>
+
+      <div class="demo-container">
+        <div class="restore-mockup">
+          <div class="mock-title" data-i18n="mockTitle">New York Times Unlocker</div>
+          <div class="btn-subscribe"
+            style="padding: 8px 20px; font-size: 10px; margin-top: 5px; width: 100%; text-align: center;">SUBSCRIBE
+          </div>
+          <div class="restore-link" data-i18n="mockRestore">Restore Purchase</div>
+
+          <div class="restore-form">
+            <div class="mock-input"></div>
+            <div class="mock-btn" data-i18n="mockVerify">Verify</div>
+          </div>
+        </div>
+        <div class="restore-cursor"></div>
+      </div>
+
+      <div class="row mt-4 text-center" style="font-family: var(--nyt-sans); font-size: 13px; color: #333;">
+        <div class="col-4">
+          <div style="font-weight: 700; margin-bottom: 5px;" data-i18n="restoreStep1Title">1. Click Restore</div>
+          <p style="color: #666; font-size: 12px; line-height: 1.4;" data-i18n="restoreStep1Desc">Click "Restore
+            Purchase" in the popup menu.</p>
+        </div>
+        <div class="col-4">
+          <div style="font-weight: 700; margin-bottom: 5px;" data-i18n="restoreStep2Title">2. Enter Email</div>
+          <p style="color: #666; font-size: 12px; line-height: 1.4;" data-i18n="restoreStep2Desc">Type the email address
+            you used to subscribe.</p>
+        </div>
+        <div class="col-4">
+          <div style="font-weight: 700; margin-bottom: 5px;" data-i18n="restoreStep3Title">3. Verify</div>
+          <p style="color: #666; font-size: 12px; line-height: 1.4;" data-i18n="restoreStep3Desc">Click Verify to
+            instantly activate Premium.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="article-body">
+      <p class="drop-cap">W</p>
+      <p data-i18n="bodyP1">We have granted you <strong>3 minutes of free, unlimited access</strong> to test the power
+        of New York Times Unlocker.
+        Browse any article, anywhere on The New York Times, with zero interruptions.</p>
+
+      <p data-i18n="bodyP2">After your trial ends, you will have a daily limit of 10 free articles. To continue reading
+        without limits,
+        simply upgrade to our lifetime plan.</p>
+
+      <hr class="my-4" style="border-top: 1px solid #000;">
+
+      <div class="row">
+        <div class="col-md-6 mb-4">
+          <h5 style="font-family: var(--nyt-sans); font-weight: 700; font-size: 14px;" data-i18n="feat1Title">SEAMLESS
+            ACCESS</h5>
+          <p style="font-size: 14px;" data-i18n="feat1Desc">No more paywalls blocking your view. Articles unlock
+            automatically as you browse.
+          </p>
+        </div>
+        <div class="col-md-6 mb-4">
+          <h5 style="font-family: var(--nyt-sans); font-weight: 700; font-size: 14px;" data-i18n="feat2Title">PRIVACY
+            FIRST</h5>
+          <p style="font-size: 14px;" data-i18n="feat2Desc">Your reading habits remain yours. We do not track your
+            history or sell your data.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="paywall-box">
+      <h2 class="paywall-headline" data-i18n="paywallHeadline">Support Independent Development</h2>
+      <p style="font-family: var(--nyt-sans); color: #666;" data-i18n="paywallSub">Get lifetime access for a one-time
+        payment.</p>
+      <a href="https://www.buymeacoffee.com/trinhnv1205/membership" id="cta-button" class="btn-subscribe"
+        data-i18n="paywallBtn">Subscribe
+        Now</a>
+
+      <p style="font-size: 11px; margin-top: 15px; color: #999; font-family: var(--nyt-sans);"
+        data-i18n="paywallFooter">Secure payment • Instant
+        activation</p>
+    </div>
+  </div>
+
+  <script src="jquery.min.js"></script>
+  <script src="i18n.js"></script>
+  <script>
+    $(document).ready(function () {
+      // Set date
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+      document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', options);
+
+      // Check URL params for paywall reason
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.get('reason') === 'paywall') {
+        $('.article-headline').text('You’ve Reached Your Free Limit.');
+        $('.article-subhead').text('To continue reading unlimited articles, please upgrade your access.');
+        $('.paywall-box').addClass('limit-reached');
+        $('.paywall-headline').text('Subscribe for Unlimited Access');
+      }
+
+      // Check Premium Status
+      function checkPremium() {
+        browser.storage.local.get(['premium']).then(function (result) {
+          if (result.premium) {
+            $('.paywall-box').hide();
+            $('.article-headline').text('Premium Access Active');
+            $('.article-subhead').text('You have unlimited access to The New York Times. Enjoy reading!');
+            // Optional: Add a button to go to New York Times
+            if ($('#go-nyt-btn').length === 0) {
+              $('.main-content').append('<a href="https://www.nytimes.com" id="go-nyt-btn" class="btn btn-dark mt-3">Go to New York Times Homepage</a>');
+            }
+          }
+        });
+      }
+
+      checkPremium();
+
+      // Listen for changes (e.g. if verified in popup)
+      browser.storage.onChanged.addListener(function (changes, namespace) {
+        if (changes.premium && changes.premium.newValue) {
+          checkPremium();
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>

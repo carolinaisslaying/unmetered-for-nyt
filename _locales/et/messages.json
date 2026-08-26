@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times avaja"
+    },
+    "badgeSubscriber": {
+        "message": "Tellija juurdepääs"
+    },
+    "btnOff": {
+        "message": "VÄLJAS"
+    },
+    "btnOn": {
+        "message": "SEES"
+    },
+    "btnSubscribe": {
+        "message": "Telli kohe"
+    },
+    "btnVerify": {
+        "message": "Kinnita"
+    },
+    "emailPlaceholder": {
+        "message": "E-post..."
+    },
+    "extDesc": {
+        "message": "Avab tasulise sisu New York Timesi veebisaidil"
+    },
+    "extName": {
+        "message": "New York Times avaja | Eemalda maksumüür"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times avaja"
+    },
+    "popupTitle": {
+        "message": "New York Times avaja"
+    },
+    "premiumFeatureOnly": {
+        "message": "Ainult Premium-funktsioon"
+    },
+    "premiumHeadline": {
+        "message": "Toeta sõltumatut koodi"
+    },
+    "premiumSubhead": {
+        "message": "Saa eluaegne juurdepääs piiramatutele artiklitele ühekordse makse eest."
+    },
+    "premiumThankYou": {
+        "message": "Täname tellimast"
+    },
+    "premiumUnlimited": {
+        "message": "Teil on piiramatu juurdepääs kõigile artiklitele."
+    },
+    "restoreLink": {
+        "message": "Taasta ost / Kinnita e-post"
+    },
+    "statusActive": {
+        "message": "Kaitse aktiivne"
+    },
+    "statusDisabled": {
+        "message": "Kaitse keelatud"
+    },
+    "statusLabel": {
+        "message": "Olek"
+    },
+    "statusSub": {
+        "message": "Lugemine piiranguteta"
+    },
+    "verifyNotFound": {
+        "message": "Ei leitud"
+    },
+    "verifySuccess": {
+        "message": "Edu!"
+    },
+    "articleHeadline": {
+        "message": "Teil on 3 minutit piiramatut juurdepääsu."
+    },
+    "articleSubhead": {
+        "message": "Tere tulemast New York Times avajasse. Nautige lühikest eelvaadet sujuvast ja tõketeta ajakirjandusest."
+    },
+    "bylineAuthor": {
+        "message": "ARENDUSMEESKONNA poolt"
+    },
+    "demo1Title": {
+        "message": "Kuidas juurdepääsu lubada"
+    },
+    "readTime": {
+        "message": "3 MIN LUGEMINE"
+    },
+    "step1Desc": {
+        "message": "Leidke brauseri tööriistaribalt laienduse ikoon."
+    },
+    "step1Title": {
+        "message": "1. Klõpsake ikoonil"
+    },
+    "step2Desc": {
+        "message": "Klõpsake New York Times avaja menüü avamiseks."
+    },
+    "step2Title": {
+        "message": "2. Ava menüü"
+    },
+    "step3Desc": {
+        "message": "Veenduge, et kaitselüliti on seatud asendisse Aktiivne."
+    },
+    "step3Title": {
+        "message": "3. Lülita SISSE"
+    },
+    "welcomeTitle": {
+        "message": "Tere tulemast New York Times avajasse"
+    },
+    "demo2Title": {
+        "message": "Kuidas Premiumit kinnitada"
+    },
+    "mockRestore": {
+        "message": "Taasta ost"
+    },
+    "mockStatus": {
+        "message": "Kaitse keelatud"
+    },
+    "mockTitle": {
+        "message": "New York Times avaja"
+    },
+    "mockVerify": {
+        "message": "Kinnita"
+    },
+    "restoreStep1Desc": {
+        "message": "Klõpsake hüpikmenüüs nuppu \"Taasta ost\"."
+    },
+    "restoreStep1Title": {
+        "message": "1. Klõpsake nuppu Taasta"
+    },
+    "restoreStep2Desc": {
+        "message": "Sisestage e-posti aadress, mida kasutasite tellimiseks."
+    },
+    "restoreStep2Title": {
+        "message": "2. Sisestage e-post"
+    },
+    "restoreStep3Desc": {
+        "message": "Klõpsake nuppu Kinnita, et Premium kohe aktiveerida."
+    },
+    "restoreStep3Title": {
+        "message": "3. Kinnita"
+    },
+    "bodyP1": {
+        "message": "Oleme andnud teile <strong>3 minutit tasuta ja piiramatut juurdepääsu</strong>, et testida New York Times avaja võimsust. Sirvige mis tahes artiklit New York Timesis ilma katkestusteta."
+    },
+    "bodyP2": {
+        "message": "Pärast prooviperioodi lõppu on teil päevane limiit 2 tasuta artiklit. Piiranguteta lugemise jätkamiseks minge lihtsalt üle meie eluaegsele plaanile."
+    },
+    "feat1Desc": {
+        "message": "Enam pole maksumüüre, mis teie vaadet blokeeriksid. Artiklid avanevad sirvimise ajal automaatselt."
+    },
+    "feat1Title": {
+        "message": "SUJUV JUURDEPÄÄS"
+    },
+    "feat2Desc": {
+        "message": "Teie lugemisharjumused jäävad teie omaks. Me ei jälgi teie ajalugu ega müü teie andmeid."
+    },
+    "feat2Title": {
+        "message": "PRIVAATSUS ESIMENE"
+    },
+    "limitBoxHeadline": {
+        "message": "Päevane artiklite limiit on täis"
+    },
+    "limitHeadline": {
+        "message": "Jätkake lugemist piiranguteta"
+    },
+    "limitSubhead": {
+        "message": "Olete jõudnud oma päevase 2 tasuta artikli limiidini. Piiramatu juurdepääsu saamiseks minge kohe üle."
+    },
+    "paywallBtn": {
+        "message": "Hankige piiramatu juurdepääs"
+    },
+    "paywallFooter": {
+        "message": "Makske üks kord, nautige igavesti."
+    },
+    "paywallHeadline": {
+        "message": "Avage piiramatu ajakirjandus"
+    },
+    "paywallSub": {
+        "message": "Hankige eluaegne juurdepääs New York Times avajale ja teid ei blokeerita enam kunagi maksumüüriga."
+    }
+}

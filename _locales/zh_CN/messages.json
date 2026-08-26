@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times 解锁器"
+    },
+    "badgeSubscriber": {
+        "message": "订阅者访问"
+    },
+    "btnOff": {
+        "message": "关"
+    },
+    "btnOn": {
+        "message": "开"
+    },
+    "btnSubscribe": {
+        "message": "立即订阅"
+    },
+    "btnVerify": {
+        "message": "验证"
+    },
+    "emailPlaceholder": {
+        "message": "电子邮件..."
+    },
+    "extDesc": {
+        "message": "解锁纽约时报网站上的付费内容"
+    },
+    "extName": {
+        "message": "New York Times 解锁器 | 移除付费墙"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times 解锁器"
+    },
+    "popupTitle": {
+        "message": "New York Times 解锁器"
+    },
+    "premiumFeatureOnly": {
+        "message": "仅限高级功能"
+    },
+    "premiumHeadline": {
+        "message": "支持独立代码"
+    },
+    "premiumSubhead": {
+        "message": "一次性付款即可终身访问无限文章。"
+    },
+    "premiumThankYou": {
+        "message": "感谢您的订阅"
+    },
+    "premiumUnlimited": {
+        "message": "您可以无限制地访问所有文章。"
+    },
+    "restoreLink": {
+        "message": "恢复购买 / 验证电子邮件"
+    },
+    "statusActive": {
+        "message": "保护已激活"
+    },
+    "statusDisabled": {
+        "message": "保护已禁用"
+    },
+    "statusLabel": {
+        "message": "状态"
+    },
+    "statusSub": {
+        "message": "无限制阅读"
+    },
+    "verifyNotFound": {
+        "message": "未找到"
+    },
+    "verifySuccess": {
+        "message": "成功！"
+    },
+    "articleHeadline": {
+        "message": "您有 3 分钟的无限访问权限。"
+    },
+    "articleSubhead": {
+        "message": "欢迎使用 New York Times 解锁器。享受无缝、无障碍新闻的简短预览。"
+    },
+    "bylineAuthor": {
+        "message": "由开发团队"
+    },
+    "demo1Title": {
+        "message": "如何启用访问"
+    },
+    "readTime": {
+        "message": "3 分钟阅读"
+    },
+    "step1Desc": {
+        "message": "在浏览器工具栏中找到扩展图标。"
+    },
+    "step1Title": {
+        "message": "1. 点击图标"
+    },
+    "step2Desc": {
+        "message": "点击打开 New York Times 解锁器菜单。"
+    },
+    "step2Title": {
+        "message": "2. 打开菜单"
+    },
+    "step3Desc": {
+        "message": "确保保护开关设置为激活。"
+    },
+    "step3Title": {
+        "message": "3. 开启"
+    },
+    "welcomeTitle": {
+        "message": "欢迎使用 New York Times 解锁器"
+    },
+    "demo2Title": {
+        "message": "如何验证高级版"
+    },
+    "mockRestore": {
+        "message": "恢复购买"
+    },
+    "mockStatus": {
+        "message": "保护已禁用"
+    },
+    "mockTitle": {
+        "message": "New York Times 解锁器"
+    },
+    "mockVerify": {
+        "message": "验证"
+    },
+    "restoreStep1Desc": {
+        "message": "点击弹出菜单中的“恢复购买”。"
+    },
+    "restoreStep1Title": {
+        "message": "1. 点击恢复"
+    },
+    "restoreStep2Desc": {
+        "message": "输入您用于订阅的电子邮件地址。"
+    },
+    "restoreStep2Title": {
+        "message": "2. 输入电子邮件"
+    },
+    "restoreStep3Desc": {
+        "message": "点击验证以立即激活高级版。"
+    },
+    "restoreStep3Title": {
+        "message": "3. 验证"
+    },
+    "bodyP1": {
+        "message": "我们为您提供了 <strong>3 分钟的免费无限访问权限</strong>，以测试 New York Times 解锁器的强大功能。在《纽约时报》的任何地方浏览任何文章，零干扰。"
+    },
+    "bodyP2": {
+        "message": "试用期结束后，您每天只能阅读 2 篇免费文章。要继续无限制阅读，只需升级到我们的终身计划。"
+    },
+    "feat1Desc": {
+        "message": "不再有付费墙阻挡您的视线。文章在您浏览时自动解锁。"
+    },
+    "feat1Title": {
+        "message": "无缝访问"
+    },
+    "feat2Desc": {
+        "message": "您的阅读习惯仍然属于您。我们不会跟踪您的历史记录或出售您的数据。"
+    },
+    "feat2Title": {
+        "message": "隐私至上"
+    },
+    "limitBoxHeadline": {
+        "message": "已达到每日文章限制"
+    },
+    "limitHeadline": {
+        "message": "继续无限制阅读"
+    },
+    "limitSubhead": {
+        "message": "您已达到每日 2 篇免费文章的限制。立即升级以获得无限访问权限。"
+    },
+    "paywallBtn": {
+        "message": "获取无限访问权限"
+    },
+    "paywallFooter": {
+        "message": "一次付费，终身享受。"
+    },
+    "paywallHeadline": {
+        "message": "解锁无限新闻"
+    },
+    "paywallSub": {
+        "message": "获得 New York Times 解锁器的终身访问权限，再也不会被付费墙阻止。"
+    }
+}

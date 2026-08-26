@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "Pembuka New York Times"
+    },
+    "badgeSubscriber": {
+        "message": "Akses Pelanggan"
+    },
+    "btnOff": {
+        "message": "MATI"
+    },
+    "btnOn": {
+        "message": "NYALA"
+    },
+    "btnSubscribe": {
+        "message": "Berlangganan Sekarang"
+    },
+    "btnVerify": {
+        "message": "Verifikasi"
+    },
+    "emailPlaceholder": {
+        "message": "Email..."
+    },
+    "extDesc": {
+        "message": "Membuka konten berbayar di situs web New York Times"
+    },
+    "extName": {
+        "message": "Pembuka New York Times | Hapus Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 Pembuka New York Times"
+    },
+    "popupTitle": {
+        "message": "Pembuka New York Times"
+    },
+    "premiumFeatureOnly": {
+        "message": "Hanya fitur Premium"
+    },
+    "premiumHeadline": {
+        "message": "Dukung Kode Independen"
+    },
+    "premiumSubhead": {
+        "message": "Dapatkan akses seumur hidup ke artikel tanpa batas dengan pembayaran satu kali."
+    },
+    "premiumThankYou": {
+        "message": "Terima kasih telah berlangganan"
+    },
+    "premiumUnlimited": {
+        "message": "Anda memiliki akses tak terbatas ke semua artikel."
+    },
+    "restoreLink": {
+        "message": "Pulihkan Pembelian / Verifikasi Email"
+    },
+    "statusActive": {
+        "message": "Perlindungan Aktif"
+    },
+    "statusDisabled": {
+        "message": "Perlindungan Nonaktif"
+    },
+    "statusLabel": {
+        "message": "Status"
+    },
+    "statusSub": {
+        "message": "Membaca tanpa batas"
+    },
+    "verifyNotFound": {
+        "message": "Tidak ditemukan"
+    },
+    "verifySuccess": {
+        "message": "Berhasil!"
+    },
+    "articleHeadline": {
+        "message": "Anda Memiliki 3 Menit Akses Tanpa Batas."
+    },
+    "articleSubhead": {
+        "message": "Selamat datang di Pembuka New York Times. Nikmati pratinjau singkat jurnalisme yang mulus dan bebas hambatan."
+    },
+    "bylineAuthor": {
+        "message": "Oleh TIM PENGEMBANG"
+    },
+    "demo1Title": {
+        "message": "Cara Mengaktifkan Akses"
+    },
+    "readTime": {
+        "message": "BACA 3 MENIT"
+    },
+    "step1Desc": {
+        "message": "Temukan ikon ekstensi di bilah alat browser Anda."
+    },
+    "step1Title": {
+        "message": "1. Klik Ikon"
+    },
+    "step2Desc": {
+        "message": "Klik untuk membuka menu Pembuka New York Times."
+    },
+    "step2Title": {
+        "message": "2. Buka Menu"
+    },
+    "step3Desc": {
+        "message": "Pastikan sakelar perlindungan diatur ke Aktif."
+    },
+    "step3Title": {
+        "message": "3. Nyalakan"
+    },
+    "welcomeTitle": {
+        "message": "Selamat datang di Pembuka New York Times"
+    },
+    "demo2Title": {
+        "message": "Cara Memverifikasi Premium"
+    },
+    "mockRestore": {
+        "message": "Pulihkan Pembelian"
+    },
+    "mockStatus": {
+        "message": "Perlindungan Nonaktif"
+    },
+    "mockTitle": {
+        "message": "Pembuka New York Times"
+    },
+    "mockVerify": {
+        "message": "Verifikasi"
+    },
+    "restoreStep1Desc": {
+        "message": "Klik \"Pulihkan Pembelian\" di menu popup."
+    },
+    "restoreStep1Title": {
+        "message": "1. Klik Pulihkan"
+    },
+    "restoreStep2Desc": {
+        "message": "Ketik alamat email yang Anda gunakan untuk berlangganan."
+    },
+    "restoreStep2Title": {
+        "message": "2. Masukkan Email"
+    },
+    "restoreStep3Desc": {
+        "message": "Klik Verifikasi untuk mengaktifkan Premium secara instan."
+    },
+    "restoreStep3Title": {
+        "message": "3. Verifikasi"
+    },
+    "bodyP1": {
+        "message": "Kami telah memberi Anda <strong>3 menit akses gratis tanpa batas</strong> untuk menguji kekuatan Pembuka New York Times. Jelajahi artikel apa pun, di mana pun di The New York Times, tanpa gangguan."
+    },
+    "bodyP2": {
+        "message": "Setelah masa percobaan berakhir, Anda akan memiliki batas harian 2 artikel gratis. Untuk terus membaca tanpa batas, cukup tingkatkan ke paket seumur hidup kami."
+    },
+    "feat1Desc": {
+        "message": "Tidak ada lagi paywall yang menghalangi pandangan Anda. Artikel terbuka secara otomatis saat Anda menjelajah."
+    },
+    "feat1Title": {
+        "message": "AKSES MULUS"
+    },
+    "feat2Desc": {
+        "message": "Kebiasaan membaca Anda tetap menjadi milik Anda. Kami tidak melacak riwayat Anda atau menjual data Anda."
+    },
+    "feat2Title": {
+        "message": "PRIVASI UTAMA"
+    },
+    "limitBoxHeadline": {
+        "message": "Batas Artikel Harian Tercapai"
+    },
+    "limitHeadline": {
+        "message": "Lanjutkan Membaca Tanpa Batas"
+    },
+    "limitSubhead": {
+        "message": "Anda telah mencapai batas harian 2 artikel gratis. Tingkatkan sekarang untuk akses tanpa batas."
+    },
+    "paywallBtn": {
+        "message": "Dapatkan Akses Tanpa Batas"
+    },
+    "paywallFooter": {
+        "message": "Bayar sekali, nikmati selamanya."
+    },
+    "paywallHeadline": {
+        "message": "Buka Jurnalisme Tanpa Batas"
+    },
+    "paywallSub": {
+        "message": "Dapatkan akses seumur hidup ke Pembuka New York Times dan jangan pernah diblokir oleh paywall lagi."
+    }
+}

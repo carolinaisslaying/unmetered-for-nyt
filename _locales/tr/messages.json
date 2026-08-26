@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times Kilidini Açıcı"
+    },
+    "badgeSubscriber": {
+        "message": "Abone Erişimi"
+    },
+    "btnOff": {
+        "message": "KAPALI"
+    },
+    "btnOn": {
+        "message": "AÇIK"
+    },
+    "btnSubscribe": {
+        "message": "Şimdi Abone Ol"
+    },
+    "btnVerify": {
+        "message": "Doğrula"
+    },
+    "emailPlaceholder": {
+        "message": "E-posta..."
+    },
+    "extDesc": {
+        "message": "New York Times web sitesindeki ücretli içeriğin kilidini açar"
+    },
+    "extName": {
+        "message": "New York Times Kilidini Açıcı | Ödeme Duvarını Kaldır"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times Kilidini Açıcı"
+    },
+    "popupTitle": {
+        "message": "New York Times Kilidini Açıcı"
+    },
+    "premiumFeatureOnly": {
+        "message": "Sadece Premium özellik"
+    },
+    "premiumHeadline": {
+        "message": "Bağımsız Kodu Destekleyin"
+    },
+    "premiumSubhead": {
+        "message": "Tek seferlik ödeme ile sınırsız makaleye ömür boyu erişim elde edin."
+    },
+    "premiumThankYou": {
+        "message": "Abone olduğunuz için teşekkürler"
+    },
+    "premiumUnlimited": {
+        "message": "Tüm makalelere sınırsız erişiminiz var."
+    },
+    "restoreLink": {
+        "message": "Satın Almayı Geri Yükle / E-postayı Doğrula"
+    },
+    "statusActive": {
+        "message": "Koruma Aktif"
+    },
+    "statusDisabled": {
+        "message": "Koruma Devre Dışı"
+    },
+    "statusLabel": {
+        "message": "Durum"
+    },
+    "statusSub": {
+        "message": "Sınırsız okuma"
+    },
+    "verifyNotFound": {
+        "message": "Bulunamadı"
+    },
+    "verifySuccess": {
+        "message": "Başarı!"
+    },
+    "articleHeadline": {
+        "message": "3 Dakikalık Sınırsız Erişiminiz Var."
+    },
+    "articleSubhead": {
+        "message": "New York Times Kilidini Açıcı'ya hoş geldiniz. Kesintisiz, engelsiz gazeteciliğin kısa bir önizlemesinin keyfini çıkarın."
+    },
+    "bylineAuthor": {
+        "message": "GELİŞTİRME EKİBİ Tarafından"
+    },
+    "demo1Title": {
+        "message": "Erişim Nasıl Etkinleştirilir"
+    },
+    "readTime": {
+        "message": "3 DAKİKA OKUMA"
+    },
+    "step1Desc": {
+        "message": "Tarayıcı araç çubuğunuzda uzantı simgesini bulun."
+    },
+    "step1Title": {
+        "message": "1. Simgeye Tıklayın"
+    },
+    "step2Desc": {
+        "message": "New York Times Kilidini Açıcı menüsünü açmak için tıklayın."
+    },
+    "step2Title": {
+        "message": "2. Menüyü Aç"
+    },
+    "step3Desc": {
+        "message": "Koruma anahtarının Aktif olarak ayarlandığından emin olun."
+    },
+    "step3Title": {
+        "message": "3. AÇIK Konuma Getir"
+    },
+    "welcomeTitle": {
+        "message": "New York Times Kilidini Açıcı'ya Hoş Geldiniz"
+    },
+    "demo2Title": {
+        "message": "Premium Nasıl Doğrulanır"
+    },
+    "mockRestore": {
+        "message": "Satın Almayı Geri Yükle"
+    },
+    "mockStatus": {
+        "message": "Koruma Devre Dışı"
+    },
+    "mockTitle": {
+        "message": "New York Times Kilidini Açıcı"
+    },
+    "mockVerify": {
+        "message": "Doğrula"
+    },
+    "restoreStep1Desc": {
+        "message": "Açılır menüde \"Satın Almayı Geri Yükle\"ye tıklayın."
+    },
+    "restoreStep1Title": {
+        "message": "1. Geri Yükle'ye Tıklayın"
+    },
+    "restoreStep2Desc": {
+        "message": "Abone olmak için kullandığınız e-posta adresini yazın."
+    },
+    "restoreStep2Title": {
+        "message": "2. E-postayı Girin"
+    },
+    "restoreStep3Desc": {
+        "message": "Premium'u anında etkinleştirmek için Doğrula'ya tıklayın."
+    },
+    "restoreStep3Title": {
+        "message": "3. Doğrula"
+    },
+    "bodyP1": {
+        "message": "New York Times Kilidini Açıcı'nın gücünü test etmeniz için size <strong>3 dakikalık ücretsiz, sınırsız erişim</strong> verdik. New York Times'taki herhangi bir makaleyi, herhangi bir yerde, kesintisiz olarak inceleyin."
+    },
+    "bodyP2": {
+        "message": "Deneme süreniz sona erdikten sonra, günlük 2 ücretsiz makale sınırınız olacaktır. Sınırsız okumaya devam etmek için ömür boyu planımıza yükseltmeniz yeterlidir."
+    },
+    "feat1Desc": {
+        "message": "Görünümünüzü engelleyen ödeme duvarları yok. Siz gezinirken makaleler otomatik olarak açılır."
+    },
+    "feat1Title": {
+        "message": "KESİNTİSİZ ERİŞİM"
+    },
+    "feat2Desc": {
+        "message": "Okuma alışkanlıklarınız size kalır. Geçmişinizi izlemiyoruz veya verilerinizi satmıyoruz."
+    },
+    "feat2Title": {
+        "message": "ÖNCE GİZLİLİK"
+    },
+    "limitBoxHeadline": {
+        "message": "Günlük Makale Sınırına Ulaşıldı"
+    },
+    "limitHeadline": {
+        "message": "Sınırsız Okumaya Devam Edin"
+    },
+    "limitSubhead": {
+        "message": "Günlük 2 ücretsiz makale sınırınıza ulaştınız. Sınırsız erişim için şimdi yükseltin."
+    },
+    "paywallBtn": {
+        "message": "Sınırsız Erişim Alın"
+    },
+    "paywallFooter": {
+        "message": "Bir kez ödeyin, sonsuza kadar keyfini çıkarın."
+    },
+    "paywallHeadline": {
+        "message": "Sınırsız Gazeteciliğin Kilidini Açın"
+    },
+    "paywallSub": {
+        "message": "New York Times Kilidini Açıcı'ya ömür boyu erişim sağlayın ve bir daha asla bir ödeme duvarı tarafından engellenmeyin."
+    }
+}

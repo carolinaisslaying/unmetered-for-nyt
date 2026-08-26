@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "Разблокировщик New York Times"
+    },
+    "badgeSubscriber": {
+        "message": "Доступ подписчика"
+    },
+    "btnOff": {
+        "message": "ВЫКЛ"
+    },
+    "btnOn": {
+        "message": "ВКЛ"
+    },
+    "btnSubscribe": {
+        "message": "Подписаться сейчас"
+    },
+    "btnVerify": {
+        "message": "Проверить"
+    },
+    "emailPlaceholder": {
+        "message": "Email..."
+    },
+    "extDesc": {
+        "message": "Разблокирует платный контент на сайте New York Times"
+    },
+    "extName": {
+        "message": "Разблокировщик New York Times | Убрать Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 Разблокировщик New York Times"
+    },
+    "popupTitle": {
+        "message": "Разблокировщик New York Times"
+    },
+    "premiumFeatureOnly": {
+        "message": "Только Premium функция"
+    },
+    "premiumHeadline": {
+        "message": "Поддержите независимый код"
+    },
+    "premiumSubhead": {
+        "message": "Получите пожизненный доступ к неограниченному количеству статей за единовременный платеж."
+    },
+    "premiumThankYou": {
+        "message": "Спасибо за подписку"
+    },
+    "premiumUnlimited": {
+        "message": "У вас есть неограниченный доступ ко всем статьям."
+    },
+    "restoreLink": {
+        "message": "Восстановить покупку / Проверить email"
+    },
+    "statusActive": {
+        "message": "Защита активна"
+    },
+    "statusDisabled": {
+        "message": "Защита отключена"
+    },
+    "statusLabel": {
+        "message": "Статус"
+    },
+    "statusSub": {
+        "message": "Чтение без ограничений"
+    },
+    "verifyNotFound": {
+        "message": "Не найдено."
+    },
+    "verifySuccess": {
+        "message": "Успех!"
+    },
+    "articleHeadline": {
+        "message": "У вас есть 3 минуты неограниченного доступа."
+    },
+    "articleSubhead": {
+        "message": "Добро пожаловать в Разблокировщик New York Times. Насладитесь кратким превью безупречной журналистики без барьеров."
+    },
+    "bylineAuthor": {
+        "message": "ОТ КОМАНДЫ РАЗРАБОТЧИКОВ"
+    },
+    "demo1Title": {
+        "message": "Как включить доступ"
+    },
+    "readTime": {
+        "message": "3 МИН ЧТЕНИЯ"
+    },
+    "step1Desc": {
+        "message": "Найдите значок расширения на панели инструментов браузера."
+    },
+    "step1Title": {
+        "message": "1. Нажмите на значок"
+    },
+    "step2Desc": {
+        "message": "Нажмите, чтобы открыть меню Разблокировщика New York Times."
+    },
+    "step2Title": {
+        "message": "2. Открыть меню"
+    },
+    "step3Desc": {
+        "message": "Убедитесь, что переключатель защиты установлен в положение Активно."
+    },
+    "step3Title": {
+        "message": "3. Включить"
+    },
+    "welcomeTitle": {
+        "message": "Добро пожаловать в Разблокировщик New York Times"
+    },
+    "demo2Title": {
+        "message": "Как подтвердить Premium"
+    },
+    "mockRestore": {
+        "message": "Восстановить покупку"
+    },
+    "mockStatus": {
+        "message": "Защита отключена"
+    },
+    "mockTitle": {
+        "message": "Разблокировщик New York Times"
+    },
+    "mockVerify": {
+        "message": "Проверить"
+    },
+    "restoreStep1Desc": {
+        "message": "Нажмите «Восстановить покупку» во всплывающем меню."
+    },
+    "restoreStep1Title": {
+        "message": "1. Нажмите Восстановить"
+    },
+    "restoreStep2Desc": {
+        "message": "Введите адрес электронной почты, который вы использовали для подписки."
+    },
+    "restoreStep2Title": {
+        "message": "2. Введите Email"
+    },
+    "restoreStep3Desc": {
+        "message": "Нажмите Проверить, чтобы мгновенно активировать Premium."
+    },
+    "restoreStep3Title": {
+        "message": "3. Проверить"
+    },
+    "bodyP1": {
+        "message": "Мы предоставили вам <strong>3 минуты бесплатного неограниченного доступа</strong>, чтобы проверить возможности Разблокировщика New York Times. Просматривайте любую статью в любом месте The New York Times без перерывов."
+    },
+    "bodyP2": {
+        "message": "После окончания пробного периода у вас будет дневной лимит в 2 бесплатные статьи. Чтобы продолжить чтение без ограничений, просто перейдите на наш пожизненный план."
+    },
+    "feat1Desc": {
+        "message": "Больше никаких платных стен, закрывающих обзор. Статьи разблокируются автоматически по мере просмотра."
+    },
+    "feat1Title": {
+        "message": "БЕСПРЕПЯТСТВЕННЫЙ ДОСТУП"
+    },
+    "feat2Desc": {
+        "message": "Ваши привычки чтения остаются вашими. Мы не отслеживаем вашу историю и не продаем ваши данные."
+    },
+    "feat2Title": {
+        "message": "КОНФИДЕНЦИАЛЬНОСТЬ ПРЕЖДЕ ВСЕГО"
+    },
+    "limitBoxHeadline": {
+        "message": "Достигнут дневной лимит статей"
+    },
+    "limitHeadline": {
+        "message": "Продолжайте чтение без ограничений"
+    },
+    "limitSubhead": {
+        "message": "Вы достигли дневного лимита в 2 бесплатные статьи. Обновитесь сейчас для неограниченного доступа."
+    },
+    "paywallBtn": {
+        "message": "Получить неограниченный доступ"
+    },
+    "paywallFooter": {
+        "message": "Платите один раз, наслаждайтесь вечно."
+    },
+    "paywallHeadline": {
+        "message": "Разблокируйте неограниченную журналистику"
+    },
+    "paywallSub": {
+        "message": "Получите пожизненный доступ к Разблокировщику New York Times и никогда больше не блокируйтесь платной стеной."
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times odomykač"
+    },
+    "badgeSubscriber": {
+        "message": "Prístup predplatiteľa"
+    },
+    "btnOff": {
+        "message": "VYP"
+    },
+    "btnOn": {
+        "message": "ZAP"
+    },
+    "btnSubscribe": {
+        "message": "Predplatiť teraz"
+    },
+    "btnVerify": {
+        "message": "Overiť"
+    },
+    "emailPlaceholder": {
+        "message": "E-mail..."
+    },
+    "extDesc": {
+        "message": "Odomkne platený obsah na webovej stránke New York Times"
+    },
+    "extName": {
+        "message": "New York Times odomykač | Odstrániť Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times odomykač"
+    },
+    "popupTitle": {
+        "message": "New York Times odomykač"
+    },
+    "premiumFeatureOnly": {
+        "message": "Iba prémiová funkcia"
+    },
+    "premiumHeadline": {
+        "message": "Podporte nezávislý kód"
+    },
+    "premiumSubhead": {
+        "message": "Získajte doživotný prístup k neobmedzeným článkom za jednorazovú platbu."
+    },
+    "premiumThankYou": {
+        "message": "Ďakujeme za predplatné"
+    },
+    "premiumUnlimited": {
+        "message": "Máte neobmedzený prístup ku všetkým článkom."
+    },
+    "restoreLink": {
+        "message": "Obnoviť nákup / Overiť e-mail"
+    },
+    "statusActive": {
+        "message": "Ochrana aktívna"
+    },
+    "statusDisabled": {
+        "message": "Ochrana vypnutá"
+    },
+    "statusLabel": {
+        "message": "Stav"
+    },
+    "statusSub": {
+        "message": "Čítanie bez obmedzení"
+    },
+    "verifyNotFound": {
+        "message": "Nenájdené"
+    },
+    "verifySuccess": {
+        "message": "Úspech!"
+    },
+    "articleHeadline": {
+        "message": "Máte 3 minúty neobmedzeného prístupu."
+    },
+    "articleSubhead": {
+        "message": "Vitajte v New York Times odomykači. Užite si krátky náhľad bezproblémovej žurnalistiky bez bariér."
+    },
+    "bylineAuthor": {
+        "message": "Od VÝVOJOVÉHO TÍMU"
+    },
+    "demo1Title": {
+        "message": "Ako povoliť prístup"
+    },
+    "readTime": {
+        "message": "3 MIN ČÍTANIA"
+    },
+    "step1Desc": {
+        "message": "Nájdite ikonu rozšírenia na paneli s nástrojmi prehliadača."
+    },
+    "step1Title": {
+        "message": "1. Kliknite na ikonu"
+    },
+    "step2Desc": {
+        "message": "Kliknutím otvorte ponuku New York Times odomykača."
+    },
+    "step2Title": {
+        "message": "2. Otvoriť ponuku"
+    },
+    "step3Desc": {
+        "message": "Uistite sa, že je prepínač ochrany nastavený na Aktívny."
+    },
+    "step3Title": {
+        "message": "3. Zapnúť"
+    },
+    "welcomeTitle": {
+        "message": "Vitajte v New York Times odomykači"
+    },
+    "demo2Title": {
+        "message": "Ako overiť Premium"
+    },
+    "mockRestore": {
+        "message": "Obnoviť nákup"
+    },
+    "mockStatus": {
+        "message": "Ochrana vypnutá"
+    },
+    "mockTitle": {
+        "message": "New York Times odomykač"
+    },
+    "mockVerify": {
+        "message": "Overiť"
+    },
+    "restoreStep1Desc": {
+        "message": "V kontextovej ponuke kliknite na „Obnoviť nákup“."
+    },
+    "restoreStep1Title": {
+        "message": "1. Kliknite na Obnoviť"
+    },
+    "restoreStep2Desc": {
+        "message": "Zadajte e-mailovú adresu, ktorú ste použili na predplatné."
+    },
+    "restoreStep2Title": {
+        "message": "2. Zadajte e-mail"
+    },
+    "restoreStep3Desc": {
+        "message": "Kliknutím na Overiť okamžite aktivujete Premium."
+    },
+    "restoreStep3Title": {
+        "message": "3. Overiť"
+    },
+    "bodyP1": {
+        "message": "Udelili sme vám <strong>3 minúty bezplatného a neobmedzeného prístupu</strong> na otestovanie sily New York Times odomykača. Prehliadajte akýkoľvek článok kdekoľvek na The New York Times bez akýchkoľvek prerušení."
+    },
+    "bodyP2": {
+        "message": "Po skončení skúšobného obdobia budete mať denný limit 2 bezplatných článkov. Ak chcete pokračovať v čítaní bez obmedzení, jednoducho inovujte na náš doživotný plán."
+    },
+    "feat1Desc": {
+        "message": "Už žiadne paywally blokujúce váš výhľad. Články sa odomykajú automaticky pri prehliadaní."
+    },
+    "feat1Title": {
+        "message": "BEZPROBLÉMOVÝ PRÍSTUP"
+    },
+    "feat2Desc": {
+        "message": "Vaše čitateľské návyky zostávajú vaše. Nesledujeme vašu históriu ani nepredávame vaše údaje."
+    },
+    "feat2Title": {
+        "message": "SÚKROMIE NA PRVOM MIESTE"
+    },
+    "limitBoxHeadline": {
+        "message": "Dosiahnutý denný limit článkov"
+    },
+    "limitHeadline": {
+        "message": "Pokračujte v čítaní bez obmedzení"
+    },
+    "limitSubhead": {
+        "message": "Dosiahli ste svoj denný limit 2 bezplatných článkov. Inovujte teraz pre neobmedzený prístup."
+    },
+    "paywallBtn": {
+        "message": "Získajte neobmedzený prístup"
+    },
+    "paywallFooter": {
+        "message": "Zaplaťte raz, užívajte si navždy."
+    },
+    "paywallHeadline": {
+        "message": "Odomknite neobmedzenú žurnalistiku"
+    },
+    "paywallSub": {
+        "message": "Získajte doživotný prístup k New York Times odomykaču a už nikdy nebudete blokovaní paywallom."
+    }
+}

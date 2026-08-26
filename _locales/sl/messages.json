@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times odklepalnik"
+    },
+    "badgeSubscriber": {
+        "message": "Dostop naročnika"
+    },
+    "btnOff": {
+        "message": "IZKLOP"
+    },
+    "btnOn": {
+        "message": "VKLOP"
+    },
+    "btnSubscribe": {
+        "message": "Naročite se zdaj"
+    },
+    "btnVerify": {
+        "message": "Preveri"
+    },
+    "emailPlaceholder": {
+        "message": "E-pošta..."
+    },
+    "extDesc": {
+        "message": "Odklene plačljivo vsebino na spletnem mestu New York Times"
+    },
+    "extName": {
+        "message": "New York Times odklepalnik | Odstrani plačljivi zid"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times odklepalnik"
+    },
+    "popupTitle": {
+        "message": "New York Times odklepalnik"
+    },
+    "premiumFeatureOnly": {
+        "message": "Samo Premium funkcija"
+    },
+    "premiumHeadline": {
+        "message": "Podprite neodvisno kodo"
+    },
+    "premiumSubhead": {
+        "message": "Pridobite doživljenjski dostop do neomejenih člankov za enkratno plačilo."
+    },
+    "premiumThankYou": {
+        "message": "Hvala za naročnino"
+    },
+    "premiumUnlimited": {
+        "message": "Imate neomejen dostop do vseh člankov."
+    },
+    "restoreLink": {
+        "message": "Obnovi nakup / Preveri e-pošto"
+    },
+    "statusActive": {
+        "message": "Zaščita aktivna"
+    },
+    "statusDisabled": {
+        "message": "Zaščita onemogočena"
+    },
+    "statusLabel": {
+        "message": "Stanje"
+    },
+    "statusSub": {
+        "message": "Branje brez omejitev"
+    },
+    "verifyNotFound": {
+        "message": "Ni najdeno"
+    },
+    "verifySuccess": {
+        "message": "Uspeh!"
+    },
+    "articleHeadline": {
+        "message": "Imate 3 minute neomejenega dostopa."
+    },
+    "articleSubhead": {
+        "message": "Dobrodošli v New York Times odklepalniku. Uživajte v kratkem predogledu brezhibnega novinarstva brez ovir."
+    },
+    "bylineAuthor": {
+        "message": "Od RAZVOJNE EKIPE"
+    },
+    "demo1Title": {
+        "message": "Kako omogočiti dostop"
+    },
+    "readTime": {
+        "message": "3 MIN BRANJA"
+    },
+    "step1Desc": {
+        "message": "Poiščite ikono razširitve v orodni vrstici brskalnika."
+    },
+    "step1Title": {
+        "message": "1. Kliknite ikono"
+    },
+    "step2Desc": {
+        "message": "Kliknite, da odprete meni New York Times odklepalnika."
+    },
+    "step2Title": {
+        "message": "2. Odpri meni"
+    },
+    "step3Desc": {
+        "message": "Prepričajte se, da je stikalo za zaščito nastavljeno na Aktivno."
+    },
+    "step3Title": {
+        "message": "3. Vklopi"
+    },
+    "welcomeTitle": {
+        "message": "Dobrodošli v New York Times odklepalniku"
+    },
+    "demo2Title": {
+        "message": "Kako preveriti Premium"
+    },
+    "mockRestore": {
+        "message": "Obnovi nakup"
+    },
+    "mockStatus": {
+        "message": "Zaščita onemogočena"
+    },
+    "mockTitle": {
+        "message": "New York Times odklepalnik"
+    },
+    "mockVerify": {
+        "message": "Preveri"
+    },
+    "restoreStep1Desc": {
+        "message": "V pojavnem meniju kliknite »Obnovi nakup«."
+    },
+    "restoreStep1Title": {
+        "message": "1. Kliknite Obnovi"
+    },
+    "restoreStep2Desc": {
+        "message": "Vnesite e-poštni naslov, ki ste ga uporabili za naročnino."
+    },
+    "restoreStep2Title": {
+        "message": "2. Vnesite e-pošto"
+    },
+    "restoreStep3Desc": {
+        "message": "Kliknite Preveri za takojšnjo aktivacijo Premium."
+    },
+    "restoreStep3Title": {
+        "message": "3. Preveri"
+    },
+    "bodyP1": {
+        "message": "Podelili smo vam <strong>3 minute brezplačnega, neomejenega dostopa</strong>, da preizkusite moč New York Times odklepalnika. Brskajte po katerem koli članku kjer koli na The New York Times brez prekinitev."
+    },
+    "bodyP2": {
+        "message": "Po koncu preizkusnega obdobja boste imeli dnevno omejitev 2 brezplačnih člankov. Če želite nadaljevati z branjem brez omejitev, preprosto nadgradite na naš doživljenjski paket."
+    },
+    "feat1Desc": {
+        "message": "Nič več plačljivih zidov, ki bi vam zakrivali pogled. Članki se med brskanjem samodejno odklenejo."
+    },
+    "feat1Title": {
+        "message": "BREZHIBEN DOSTOP"
+    },
+    "feat2Desc": {
+        "message": "Vaše bralne navade ostajajo vaše. Ne sledimo vaši zgodovini in ne prodajamo vaših podatkov."
+    },
+    "feat2Title": {
+        "message": "ZASEBNOST NA PRVEM MESTU"
+    },
+    "limitBoxHeadline": {
+        "message": "Dosežena dnevna omejitev člankov"
+    },
+    "limitHeadline": {
+        "message": "Nadaljujte z branjem brez omejitev"
+    },
+    "limitSubhead": {
+        "message": "Dosegli ste dnevno omejitev 2 brezplačnih člankov. Nadgradite zdaj za neomejen dostop."
+    },
+    "paywallBtn": {
+        "message": "Pridobite neomejen dostop"
+    },
+    "paywallFooter": {
+        "message": "Plačajte enkrat, uživajte za vedno."
+    },
+    "paywallHeadline": {
+        "message": "Odklenite neomejeno novinarstvo"
+    },
+    "paywallSub": {
+        "message": "Pridobite doživljenjski dostop do New York Times odklepalnika in nikoli več vas ne bo blokiral plačljiv zid."
+    }
+}

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>New York Times Unlocker</title>
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Libre+Franklin:wght@400;700&display=swap');
+
+    :root {
+      --nyt-serif: 'Playfair Display', serif;
+      --nyt-sans: 'Libre Franklin', sans-serif;
+    }
+
+    body {
+      width: 320px;
+      font-family: var(--nyt-sans);
+      border: 1px solid #000;
+    }
+
+    h1 {
+      font-family: var(--nyt-serif);
+      letter-spacing: -0.5px;
+    }
+
+    .serif {
+      font-family: var(--nyt-serif);
+    }
+
+    .btn-toggle {
+      border: 1px solid #e2e2e2;
+      background: #fff;
+      color: #000;
+    }
+
+    .btn-toggle:hover {
+      background: #e2e2e2;
+      color: #000;
+    }
+
+    .btn-toggle.active {
+      background: #000;
+      color: #fff;
+      border-color: #000;
+    }
+
+    .btn-toggle.active:hover {
+      background: #333;
+      color: #fff;
+    }
+
+    .btn-toggle:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .btn-sub {
+      background-color: #000 !important;
+      color: #fff !important;
+      border: none;
+    }
+
+    .btn-sub:hover {
+      background-color: #444 !important;
+      color: #fff !important;
+    }
+
+    .border-b-double {
+      border-top: 1px solid #e2e2e2;
+      border-bottom: 1px solid #e2e2e2;
+      padding: 4px 0;
+    }
+  </style>
+</head>
+
+<body class="bg-white text-black p-3">
+  <div class="text-center border-bottom pb-3 mb-3">
+    <h1 class="fw-black fs-4 m-0" data-i18n="popupTitle">New York Times Unlocker</h1>
+    <div id="current-date" class="small fw-bold text-uppercase text-secondary mt-1"></div>
+  </div>
+
+  <div class="mb-4">
+    <div class="small fw-bold text-uppercase border-top border-dark d-inline-block pt-1 mb-2" data-i18n="statusLabel">
+      Status</div>
+    <div class="d-flex justify-content-between align-items-center">
+      <div>
+        <div id="status-text" class="serif fs-5 fw-bold" data-i18n="statusActive">Protection Active</div>
+        <div class="small text-secondary" id="status-sub" data-i18n="statusSub">Reading without limits</div>
+      </div>
+      <button id="toggle-button" class="btn btn-sm btn-toggle fw-bold text-uppercase px-3 active"
+        data-i18n="btnOn">ON</button>
+    </div>
+    <div id="limit-warning" class="mt-2 p-2 bg-warning bg-opacity-10 border border-warning rounded d-none">
+      <div class="small fw-bold text-warning" style="font-size: 11px;">⚠️ Limit Reached</div>
+      <div class="text-secondary" style="font-size: 10px;">Extension paused. Upgrade for unlimited access.</div>
+    </div>
+  </div>
+
+  <div id="premium-section" class="bg-light p-3 border-top">
+    <div class="serif fw-bold mb-1 premium-headline" data-i18n="premiumHeadline">Support Independent Code</div>
+    <p class="small text-secondary mb-3 lh-sm premium-subhead" data-i18n="premiumSubhead">Get lifetime access to
+      unlimited articles for a one-time
+      payment.</p>
+    <div id="upgrade-container">
+      <button id="upgrade-button" class="btn btn-sm btn-sub w-100 fw-bold text-uppercase py-2"
+        data-i18n="btnSubscribe">Subscribe Now</button>
+      <div class="text-center mt-2">
+        <a href="#" id="restore-link" class="text-secondary text-decoration-underline fw-bold" style="font-size: 11px;"
+          data-i18n="restoreLink">Restore Purchase / Verify Email</a>
+      </div>
+      <div id="restore-form" class="mt-2 d-none">
+        <input type="email" id="email-input" class="form-control form-control-sm mb-1" placeholder="Email..."
+          style="font-size: 11px;" data-i18n="emailPlaceholder">
+        <button id="verify-btn" class="btn btn-sm btn-outline-dark w-100" style="font-size: 10px;"
+          data-i18n="btnVerify">Verify</button>
+        <div id="verify-msg" class="small mt-1 fw-bold" style="font-size: 10px;"></div>
+      </div>
+    </div>
+    <div id="premium-badge-container" class="d-none text-center">
+      <span class="badge bg-dark text-white rounded-0 text-uppercase ls-1 p-2" data-i18n="badgeSubscriber">Subscriber
+        Access</span>
+    </div>
+  </div>
+
+  <div class="text-center small text-secondary mt-3 pt-2 border-top" style="font-size: 10px;" data-i18n="footerText">
+    © 2025 New York Times Unlocker
+  </div>
+
+  <script src="jquery.min.js"></script>
+  <script src="bootstrap.bundle.min.js"></script>
+  <script src="i18n.js"></script>
+  <script src="popup.js"></script>
+  <script>
+    document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "Desbloquejador New York Times"
+    },
+    "badgeSubscriber": {
+        "message": "Accés per a subscriptors"
+    },
+    "btnOff": {
+        "message": "OFF"
+    },
+    "btnOn": {
+        "message": "ON"
+    },
+    "btnSubscribe": {
+        "message": "Subscriu-te ara"
+    },
+    "btnVerify": {
+        "message": "Verifica"
+    },
+    "emailPlaceholder": {
+        "message": "Correu electrònic..."
+    },
+    "extDesc": {
+        "message": "Desbloqueja contingut de pagament al lloc web del New York Times"
+    },
+    "extName": {
+        "message": "Desbloquejador New York Times | Elimina el mur de pagament"
+    },
+    "footerText": {
+        "message": "© 2025 Desbloquejador New York Times"
+    },
+    "popupTitle": {
+        "message": "Desbloquejador New York Times"
+    },
+    "premiumFeatureOnly": {
+        "message": "Només funció Premium"
+    },
+    "premiumHeadline": {
+        "message": "Dona suport al codi independent"
+    },
+    "premiumSubhead": {
+        "message": "Aconsegueix accés de per vida a articles il·limitats per un pagament únic."
+    },
+    "premiumThankYou": {
+        "message": "Gràcies per subscriure-us"
+    },
+    "premiumUnlimited": {
+        "message": "Teniu accés il·limitat a tots els articles."
+    },
+    "restoreLink": {
+        "message": "Restaura la compra / Verifica el correu electrònic"
+    },
+    "statusActive": {
+        "message": "Protecció activa"
+    },
+    "statusDisabled": {
+        "message": "Protecció desactivada"
+    },
+    "statusLabel": {
+        "message": "Estat"
+    },
+    "statusSub": {
+        "message": "Lectura sense límits"
+    },
+    "verifyNotFound": {
+        "message": "No trobat"
+    },
+    "verifySuccess": {
+        "message": "Èxit!"
+    },
+    "articleHeadline": {
+        "message": "Teniu 3 minuts d'accés il·limitat."
+    },
+    "articleSubhead": {
+        "message": "Benvingut al Desbloquejador New York Times. Gaudiu d'una breu vista prèvia del periodisme sense barreres i sense problemes."
+    },
+    "bylineAuthor": {
+        "message": "Per L'EQUIP DE DESENVOLUPAMENT"
+    },
+    "demo1Title": {
+        "message": "Com activar l'accés"
+    },
+    "readTime": {
+        "message": "3 MIN DE LECTURA"
+    },
+    "step1Desc": {
+        "message": "Trobeu la icona de l'extensió a la barra d'eines del navegador."
+    },
+    "step1Title": {
+        "message": "1. Feu clic a la icona"
+    },
+    "step2Desc": {
+        "message": "Feu clic per obrir el menú del Desbloquejador New York Times."
+    },
+    "step2Title": {
+        "message": "2. Obre el menú"
+    },
+    "step3Desc": {
+        "message": "Assegureu-vos que l'interruptor de protecció estigui configurat com a Actiu."
+    },
+    "step3Title": {
+        "message": "3. Activa"
+    },
+    "welcomeTitle": {
+        "message": "Benvingut al Desbloquejador New York Times"
+    },
+    "demo2Title": {
+        "message": "Com verificar Premium"
+    },
+    "mockRestore": {
+        "message": "Restaura la compra"
+    },
+    "mockStatus": {
+        "message": "Protecció desactivada"
+    },
+    "mockTitle": {
+        "message": "Desbloquejador New York Times"
+    },
+    "mockVerify": {
+        "message": "Verifica"
+    },
+    "restoreStep1Desc": {
+        "message": "Feu clic a \"Restaura la compra\" al menú emergent."
+    },
+    "restoreStep1Title": {
+        "message": "1. Feu clic a Restaura"
+    },
+    "restoreStep2Desc": {
+        "message": "Escriviu l'adreça de correu electrònic que heu utilitzat per subscriure-us."
+    },
+    "restoreStep2Title": {
+        "message": "2. Introduïu el correu electrònic"
+    },
+    "restoreStep3Desc": {
+        "message": "Feu clic a Verifica per activar Premium a l'instant."
+    },
+    "restoreStep3Title": {
+        "message": "3. Verifica"
+    },
+    "bodyP1": {
+        "message": "Us hem concedit <strong>3 minuts d'accés gratuït i il·limitat</strong> per provar la potència del Desbloquejador New York Times. Navegueu per qualsevol article, a qualsevol lloc del New York Times, sense cap interrupció."
+    },
+    "bodyP2": {
+        "message": "Un cop finalitzi la prova, tindreu un límit diari de 2 articles gratuïts. Per continuar llegint sense límits, només cal que actualitzeu al nostre pla de per vida."
+    },
+    "feat1Desc": {
+        "message": "No hi ha més murs de pagament que bloquegin la vostra vista. Els articles es desbloquegen automàticament mentre navegueu."
+    },
+    "feat1Title": {
+        "message": "ACCÉS SENSE PROBLEMES"
+    },
+    "feat2Desc": {
+        "message": "Els teus hàbits de lectura segueixen sent teus. No fem un seguiment del vostre historial ni venem les vostres dades."
+    },
+    "feat2Title": {
+        "message": "PRIVACITAT PRIMER"
+    },
+    "limitBoxHeadline": {
+        "message": "S'ha arribat al límit diari d'articles"
+    },
+    "limitHeadline": {
+        "message": "Continua llegint sense límits"
+    },
+    "limitSubhead": {
+        "message": "Heu arribat al vostre límit diari de 2 articles gratuïts. Actualitzeu ara per obtenir accés il·limitat."
+    },
+    "paywallBtn": {
+        "message": "Obteniu accés il·limitat"
+    },
+    "paywallFooter": {
+        "message": "Paga una vegada, gaudeix per sempre."
+    },
+    "paywallHeadline": {
+        "message": "Desbloqueja el periodisme il·limitat"
+    },
+    "paywallSub": {
+        "message": "Obteniu accés de per vida al Desbloquejador New York Times i no us bloquegeu mai més per un mur de pagament."
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times અનલોકર"
+    },
+    "badgeSubscriber": {
+        "message": "સબ્સ્ક્રાઇબર એક્સેસ"
+    },
+    "btnOff": {
+        "message": "બંધ"
+    },
+    "btnOn": {
+        "message": "ચાલુ"
+    },
+    "btnSubscribe": {
+        "message": "હવે સબ્સ્ક્રાઇબ કરો"
+    },
+    "btnVerify": {
+        "message": "ચકાસો"
+    },
+    "emailPlaceholder": {
+        "message": "ઇમેઇલ..."
+    },
+    "extDesc": {
+        "message": "ન્યૂ યોર્ક ટાઇમ્સ વેબસાઇટ પર પેવોલ કરેલ સામગ્રીને અનલોક કરે છે"
+    },
+    "extName": {
+        "message": "New York Times અનલોકર | પેવોલ દૂર કરો"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times અનલોકર"
+    },
+    "popupTitle": {
+        "message": "New York Times અનલોકર"
+    },
+    "premiumFeatureOnly": {
+        "message": "માત્ર પ્રીમિયમ સુવિધા"
+    },
+    "premiumHeadline": {
+        "message": "સ્વતંત્ર કોડને સપોર્ટ કરો"
+    },
+    "premiumSubhead": {
+        "message": "એક-વખતની ચુકવણી માટે અમર્યાદિત લેખોની આજીવન ઍક્સેસ મેળવો."
+    },
+    "premiumThankYou": {
+        "message": "સબ્સ્ક્રાઇબ કરવા બદલ આભાર"
+    },
+    "premiumUnlimited": {
+        "message": "તમારી પાસે બધા લેખોની અમર્યાદિત ઍક્સેસ છે."
+    },
+    "restoreLink": {
+        "message": "ખરીદી પુનઃસ્થાપિત કરો / ઇમેઇલ ચકાસો"
+    },
+    "statusActive": {
+        "message": "સુરક્ષા સક્રિય"
+    },
+    "statusDisabled": {
+        "message": "સુરક્ષા અક્ષમ"
+    },
+    "statusLabel": {
+        "message": "સ્થિતિ"
+    },
+    "statusSub": {
+        "message": "મર્યાદા વિના વાંચન"
+    },
+    "verifyNotFound": {
+        "message": "મળ્યું નથી"
+    },
+    "verifySuccess": {
+        "message": "સફળતા!"
+    },
+    "articleHeadline": {
+        "message": "તમારી પાસે અમર્યાદિત ઍક્સેસની 3 મિનિટ છે."
+    },
+    "articleSubhead": {
+        "message": "New York Times અનલોકરમાં આપનું સ્વાગત છે. સીમલેસ, અવરોધ-મુક્ત પત્રકારત્વના સંક્ષિપ્ત પૂર્વાવલોકનનો આનંદ માણો."
+    },
+    "bylineAuthor": {
+        "message": "વિકાસ ટીમ દ્વારા"
+    },
+    "demo1Title": {
+        "message": "એક્સેસ કેવી રીતે સક્ષમ કરવું"
+    },
+    "readTime": {
+        "message": "3 મિનિટ વાંચન"
+    },
+    "step1Desc": {
+        "message": "તમારા બ્રાઉઝર ટૂલબારમાં એક્સ્ટેંશન આયકન શોધો."
+    },
+    "step1Title": {
+        "message": "1. આયકન પર ક્લિક કરો"
+    },
+    "step2Desc": {
+        "message": "New York Times અનલોકર મેનૂ ખોલવા માટે ક્લિક કરો."
+    },
+    "step2Title": {
+        "message": "2. મેનૂ ખોલો"
+    },
+    "step3Desc": {
+        "message": "ખાતરી કરો કે સુરક્ષા સ્વિચ સક્રિય પર સેટ છે."
+    },
+    "step3Title": {
+        "message": "3. ચાલુ ટૉગલ કરો"
+    },
+    "welcomeTitle": {
+        "message": "New York Times અનલોકરમાં આપનું સ્વાગત છે"
+    },
+    "demo2Title": {
+        "message": "પ્રીમિયમ કેવી રીતે ચકાસવું"
+    },
+    "mockRestore": {
+        "message": "ખરીદી પુનઃસ્થાપિત કરો"
+    },
+    "mockStatus": {
+        "message": "સુરક્ષા અક્ષમ"
+    },
+    "mockTitle": {
+        "message": "New York Times અનલોકર"
+    },
+    "mockVerify": {
+        "message": "ચકાસો"
+    },
+    "restoreStep1Desc": {
+        "message": "પોપઅપ મેનૂમાં \"ખરીદી પુનઃસ્થાપિત કરો\" પર ક્લિક કરો."
+    },
+    "restoreStep1Title": {
+        "message": "1. પુનઃસ્થાપિત કરો પર ક્લિક કરો"
+    },
+    "restoreStep2Desc": {
+        "message": "તમે સબ્સ્ક્રાઇબ કરવા માટે ઉપયોગમાં લીધેલ ઇમેઇલ સરનામું લખો."
+    },
+    "restoreStep2Title": {
+        "message": "2. ઇમેઇલ દાખલ કરો"
+    },
+    "restoreStep3Desc": {
+        "message": "પ્રીમિયમને તરત જ સક્રિય કરવા માટે ચકાસો પર ક્લિક કરો."
+    },
+    "restoreStep3Title": {
+        "message": "3. ચકાસો"
+    },
+    "bodyP1": {
+        "message": "New York Times અનલોકરની શક્તિનું પરીક્ષણ કરવા માટે અમે તમને <strong>3 મિનિટની મફત, અમર્યાદિત ઍક્સેસ</strong> આપી છે. ન્યૂ યોર્ક ટાઇમ્સ પર ગમે ત્યાં, કોઈપણ વિક્ષેપ વિના કોઈપણ લેખ બ્રાઉઝ કરો."
+    },
+    "bodyP2": {
+        "message": "તમારી અજમાયશ સમાપ્ત થયા પછી, તમારી પાસે 2 મફત લેખોની દૈનિક મર્યાદા હશે. મર્યાદા વિના વાંચવાનું ચાલુ રાખવા માટે, ફક્ત અમારી આજીવન યોજનામાં અપગ્રેડ કરો."
+    },
+    "feat1Desc": {
+        "message": "તમારા દૃશ્યને અવરોધિત કરતી કોઈ વધુ પેવોલ નથી. તમે બ્રાઉઝ કરો તેમ લેખો આપમેળે અનલૉક થાય છે."
+    },
+    "feat1Title": {
+        "message": "સીમલેસ એક્સેસ"
+    },
+    "feat2Desc": {
+        "message": "તમારી વાંચવાની ટેવ તમારી જ રહે છે. અમે તમારા ઇતિહાસને ટ્રૅક કરતા નથી અથવા તમારો ડેટા વેચતા નથી."
+    },
+    "feat2Title": {
+        "message": "ગોપનીયતા પ્રથમ"
+    },
+    "limitBoxHeadline": {
+        "message": "દૈનિક લેખ મર્યાદા ૫હોંચી ગઈ છે"
+    },
+    "limitHeadline": {
+        "message": "મર્યાદા વિના વાંચવાનું ચાલુ રાખો"
+    },
+    "limitSubhead": {
+        "message": "તમે 2 મફત લેખોની તમારી દૈનિક મર્યાદા પર પહોંચી ગયા છો. અમર્યાદિત ઍક્સેસ માટે હમણાં અપગ્રેડ કરો."
+    },
+    "paywallBtn": {
+        "message": "અમર્યાદિત ઍક્સેસ મેળવો"
+    },
+    "paywallFooter": {
+        "message": "એકવાર ચૂકવો, કાયમ આનંદ લો."
+    },
+    "paywallHeadline": {
+        "message": "અમર્યાદિત પત્રકારત્વને અનલૉક કરો"
+    },
+    "paywallSub": {
+        "message": "New York Times અનલોકરની આજીવન ઍક્સેસ મેળવો અને ફરી ક્યારેય પેવોલ દ્વારા અવરોધિત થશો નહીં."
+    }
+}

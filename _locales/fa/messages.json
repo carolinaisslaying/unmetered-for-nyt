@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "بازکننده New York Times"
+    },
+    "badgeSubscriber": {
+        "message": "دسترسی مشترک"
+    },
+    "btnOff": {
+        "message": "خاموش"
+    },
+    "btnOn": {
+        "message": "روشن"
+    },
+    "btnSubscribe": {
+        "message": "همین حالا مشترک شوید"
+    },
+    "btnVerify": {
+        "message": "تایید"
+    },
+    "emailPlaceholder": {
+        "message": "ایمیل..."
+    },
+    "extDesc": {
+        "message": "محتوای پولی را در وب سایت نیویورک تایمز باز می کند"
+    },
+    "extName": {
+        "message": "بازکننده New York Times | حذف دیوار پرداخت"
+    },
+    "footerText": {
+        "message": "© 2025 بازکننده New York Times"
+    },
+    "popupTitle": {
+        "message": "بازکننده New York Times"
+    },
+    "premiumFeatureOnly": {
+        "message": "فقط ویژگی پریمیوم"
+    },
+    "premiumHeadline": {
+        "message": "از کد مستقل حمایت کنید"
+    },
+    "premiumSubhead": {
+        "message": "با یک بار پرداخت، دسترسی مادام‌العمر به مقالات نامحدود دریافت کنید."
+    },
+    "premiumThankYou": {
+        "message": "از اشتراک شما متشکریم"
+    },
+    "premiumUnlimited": {
+        "message": "شما دسترسی نامحدود به تمام مقالات دارید."
+    },
+    "restoreLink": {
+        "message": "بازیابی خرید / تایید ایمیل"
+    },
+    "statusActive": {
+        "message": "محافظت فعال"
+    },
+    "statusDisabled": {
+        "message": "محافظت غیرفعال"
+    },
+    "statusLabel": {
+        "message": "وضعیت"
+    },
+    "statusSub": {
+        "message": "خواندن بدون محدودیت"
+    },
+    "verifyNotFound": {
+        "message": "پیدا نشد"
+    },
+    "verifySuccess": {
+        "message": "موفقیت!"
+    },
+    "articleHeadline": {
+        "message": "شما 3 دقیقه دسترسی نامحدود دارید."
+    },
+    "articleSubhead": {
+        "message": "به بازکننده New York Times خوش آمدید. از پیش‌نمایش کوتاهی از روزنامه‌نگاری بدون درز و بدون مانع لذت ببرید."
+    },
+    "bylineAuthor": {
+        "message": "توسط تیم توسعه"
+    },
+    "demo1Title": {
+        "message": "نحوه فعال کردن دسترسی"
+    },
+    "readTime": {
+        "message": "3 دقیقه مطالعه"
+    },
+    "step1Desc": {
+        "message": "آیکون افزونه را در نوار ابزار مرورگر خود پیدا کنید."
+    },
+    "step1Title": {
+        "message": "1. روی آیکون کلیک کنید"
+    },
+    "step2Desc": {
+        "message": "برای باز کردن منوی بازکننده New York Times کلیک کنید."
+    },
+    "step2Title": {
+        "message": "2. باز کردن منو"
+    },
+    "step3Desc": {
+        "message": "اطمینان حاصل کنید که سوئیچ محافظت روی فعال تنظیم شده است."
+    },
+    "step3Title": {
+        "message": "3. روشن کردن"
+    },
+    "welcomeTitle": {
+        "message": "به بازکننده New York Times خوش آمدید"
+    },
+    "demo2Title": {
+        "message": "نحوه تأیید پریمیوم"
+    },
+    "mockRestore": {
+        "message": "بازیابی خرید"
+    },
+    "mockStatus": {
+        "message": "محافظت غیرفعال"
+    },
+    "mockTitle": {
+        "message": "بازکننده New York Times"
+    },
+    "mockVerify": {
+        "message": "تایید"
+    },
+    "restoreStep1Desc": {
+        "message": "روی \"بازیابی خرید\" در منوی بازشو کلیک کنید."
+    },
+    "restoreStep1Title": {
+        "message": "1. روی بازیابی کلیک کنید"
+    },
+    "restoreStep2Desc": {
+        "message": "آدرس ایمیلی را که برای اشتراک استفاده کرده اید تایپ کنید."
+    },
+    "restoreStep2Title": {
+        "message": "2. ایمیل را وارد کنید"
+    },
+    "restoreStep3Desc": {
+        "message": "برای فعال کردن فوری پریمیوم روی تایید کلیک کنید."
+    },
+    "restoreStep3Title": {
+        "message": "3. تایید"
+    },
+    "bodyP1": {
+        "message": "ما به شما <strong>3 دقیقه دسترسی رایگان و نامحدود</strong> داده ایم تا قدرت بازکننده New York Times را آزمایش کنید. هر مقاله ای را در هر کجای نیویورک تایمز بدون وقفه مرور کنید."
+    },
+    "bodyP2": {
+        "message": "پس از پایان دوره آزمایشی، محدودیت روزانه 2 مقاله رایگان خواهید داشت. برای ادامه خواندن بدون محدودیت، به سادگی به طرح مادام العمر ما ارتقا دهید."
+    },
+    "feat1Desc": {
+        "message": "دیگر هیچ دیوار پرداختی دید شما را مسدود نمی کند. مقالات به طور خودکار هنگام مرور باز می شوند."
+    },
+    "feat1Title": {
+        "message": "دسترسی بدون درز"
+    },
+    "feat2Desc": {
+        "message": "عادات مطالعه شما مال شما باقی می ماند. ما تاریخچه شما را ردیابی نمی کنیم و داده های شما را نمی فروشیم."
+    },
+    "feat2Title": {
+        "message": "حریم خصوصی اول"
+    },
+    "limitBoxHeadline": {
+        "message": "محدودیت روزانه مقاله رسیده است"
+    },
+    "limitHeadline": {
+        "message": "بدون محدودیت به خواندن ادامه دهید"
+    },
+    "limitSubhead": {
+        "message": "شما به محدودیت روزانه 2 مقاله رایگان رسیده اید. برای دسترسی نامحدود اکنون ارتقا دهید."
+    },
+    "paywallBtn": {
+        "message": "دسترسی نامحدود دریافت کنید"
+    },
+    "paywallFooter": {
+        "message": "یک بار پرداخت کنید، برای همیشه لذت ببرید."
+    },
+    "paywallHeadline": {
+        "message": "روزنامه نگاری نامحدود را باز کنید"
+    },
+    "paywallSub": {
+        "message": "دسترسی مادام العمر به بازکننده New York Times دریافت کنید و هرگز دوباره توسط دیوار پرداخت مسدود نشوید."
+    }
+}

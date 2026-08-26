@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times feloldó"
+    },
+    "badgeSubscriber": {
+        "message": "Előfizetői hozzáférés"
+    },
+    "btnOff": {
+        "message": "KI"
+    },
+    "btnOn": {
+        "message": "BE"
+    },
+    "btnSubscribe": {
+        "message": "Iratkozzon fel most"
+    },
+    "btnVerify": {
+        "message": "Ellenőrzés"
+    },
+    "emailPlaceholder": {
+        "message": "E-mail..."
+    },
+    "extDesc": {
+        "message": "Feloldja a fizetős tartalmat a New York Times weboldalán"
+    },
+    "extName": {
+        "message": "New York Times feloldó | Fizetőfal eltávolítása"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times feloldó"
+    },
+    "popupTitle": {
+        "message": "New York Times feloldó"
+    },
+    "premiumFeatureOnly": {
+        "message": "Csak prémium funkció"
+    },
+    "premiumHeadline": {
+        "message": "Támogassa a független kódot"
+    },
+    "premiumSubhead": {
+        "message": "Szerezzen élethosszig tartó hozzáférést korlátlan cikkekhez egyszeri fizetéssel."
+    },
+    "premiumThankYou": {
+        "message": "Köszönjük a feliratkozást"
+    },
+    "premiumUnlimited": {
+        "message": "Korlátlan hozzáférése van minden cikkhez."
+    },
+    "restoreLink": {
+        "message": "Vásárlás visszaállítása / E-mail ellenőrzése"
+    },
+    "statusActive": {
+        "message": "Védelem aktív"
+    },
+    "statusDisabled": {
+        "message": "Védelem kikapcsolva"
+    },
+    "statusLabel": {
+        "message": "Állapot"
+    },
+    "statusSub": {
+        "message": "Olvasás korlátok nélkül"
+    },
+    "verifyNotFound": {
+        "message": "Nem található"
+    },
+    "verifySuccess": {
+        "message": "Siker!"
+    },
+    "articleHeadline": {
+        "message": "3 perc korlátlan hozzáférése van."
+    },
+    "articleSubhead": {
+        "message": "Üdvözli a New York Times feloldó. Élvezze a zökkenőmentes, akadálymentes újságírás rövid előnézetét."
+    },
+    "bylineAuthor": {
+        "message": "A FEJLESZTŐ CSAPATTÓL"
+    },
+    "demo1Title": {
+        "message": "A hozzáférés engedélyezése"
+    },
+    "readTime": {
+        "message": "3 PERC OLVASÁS"
+    },
+    "step1Desc": {
+        "message": "Keresse meg a bővítmény ikonját a böngésző eszköztárában."
+    },
+    "step1Title": {
+        "message": "1. Kattintson az ikonra"
+    },
+    "step2Desc": {
+        "message": "Kattintson a New York Times feloldó menü megnyitásához."
+    },
+    "step2Title": {
+        "message": "2. Menü megnyitása"
+    },
+    "step3Desc": {
+        "message": "Győződjön meg arról, hogy a védelmi kapcsoló Aktív állásban van."
+    },
+    "step3Title": {
+        "message": "3. Kapcsolja BE"
+    },
+    "welcomeTitle": {
+        "message": "Üdvözli a New York Times feloldó"
+    },
+    "demo2Title": {
+        "message": "A Premium ellenőrzése"
+    },
+    "mockRestore": {
+        "message": "Vásárlás visszaállítása"
+    },
+    "mockStatus": {
+        "message": "Védelem kikapcsolva"
+    },
+    "mockTitle": {
+        "message": "New York Times feloldó"
+    },
+    "mockVerify": {
+        "message": "Ellenőrzés"
+    },
+    "restoreStep1Desc": {
+        "message": "Kattintson a \"Vásárlás visszaállítása\" gombra a felugró menüben."
+    },
+    "restoreStep1Title": {
+        "message": "1. Kattintson a Visszaállítás gombra"
+    },
+    "restoreStep2Desc": {
+        "message": "Írja be a feliratkozáshoz használt e-mail címét."
+    },
+    "restoreStep2Title": {
+        "message": "2. Írja be az e-mailt"
+    },
+    "restoreStep3Desc": {
+        "message": "Kattintson az Ellenőrzés gombra a Premium azonnali aktiválásához."
+    },
+    "restoreStep3Title": {
+        "message": "3. Ellenőrzés"
+    },
+    "bodyP1": {
+        "message": "<strong>3 perc ingyenes, korlátlan hozzáférést</strong> biztosítottunk a New York Times feloldó erejének tesztelésére. Böngésszen bármilyen cikket bárhol a New York Times oldalán, megszakítások nélkül."
+    },
+    "bodyP2": {
+        "message": "A próbaidőszak lejárta után napi 2 ingyenes cikkre lesz korlátozva. A korlátlan olvasás folytatásához egyszerűen frissítsen élethosszig tartó csomagunkra."
+    },
+    "feat1Desc": {
+        "message": "Nincs több fizetőfal, amely blokkolja a kilátást. A cikkek automatikusan feloldódnak böngészés közben."
+    },
+    "feat1Title": {
+        "message": "ZÖKKENŐMENTES HOZZÁFÉRÉS"
+    },
+    "feat2Desc": {
+        "message": "Olvasási szokásai az Öné maradnak. Nem követjük nyomon előzményeit, és nem adjuk el adatait."
+    },
+    "feat2Title": {
+        "message": "ADATVÉDELEM ELSŐ"
+    },
+    "limitBoxHeadline": {
+        "message": "Napi cikklimit elérve"
+    },
+    "limitHeadline": {
+        "message": "Olvasson tovább korlátok nélkül"
+    },
+    "limitSubhead": {
+        "message": "Elérte a napi 2 ingyenes cikk limitjét. Frissítsen most a korlátlan hozzáférésért."
+    },
+    "paywallBtn": {
+        "message": "Szerezzen korlátlan hozzáférést"
+    },
+    "paywallFooter": {
+        "message": "Fizessen egyszer, élvezze örökké."
+    },
+    "paywallHeadline": {
+        "message": "Oldja fel a korlátlan újságírást"
+    },
+    "paywallSub": {
+        "message": "Szerezzen élethosszig tartó hozzáférést a New York Times feloldóhoz, és soha többé nem blokkolja fizetőfal."
+    }
+}

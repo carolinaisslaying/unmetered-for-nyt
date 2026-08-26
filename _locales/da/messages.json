@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times Unlocker"
+    },
+    "badgeSubscriber": {
+        "message": "Abonnentadgang"
+    },
+    "btnOff": {
+        "message": "FRA"
+    },
+    "btnOn": {
+        "message": "TIL"
+    },
+    "btnSubscribe": {
+        "message": "Abonner nu"
+    },
+    "btnVerify": {
+        "message": "Bekræft"
+    },
+    "emailPlaceholder": {
+        "message": "E-mail..."
+    },
+    "extDesc": {
+        "message": "Låser op for betalingsindhold på New York Times hjemmeside"
+    },
+    "extName": {
+        "message": "New York Times Unlocker | Fjern betalingsmur"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times Unlocker"
+    },
+    "popupTitle": {
+        "message": "New York Times Unlocker"
+    },
+    "premiumFeatureOnly": {
+        "message": "Kun premium-funktion"
+    },
+    "premiumHeadline": {
+        "message": "Støt uafhængig kode"
+    },
+    "premiumSubhead": {
+        "message": "Få livstidsadgang til ubegrænsede artikler for en engangsbetaling."
+    },
+    "premiumThankYou": {
+        "message": "Tak fordi du abonnerer"
+    },
+    "premiumUnlimited": {
+        "message": "Du har ubegrænset adgang til alle artikler."
+    },
+    "restoreLink": {
+        "message": "Gendan køb / Bekræft e-mail"
+    },
+    "statusActive": {
+        "message": "Beskyttelse aktiv"
+    },
+    "statusDisabled": {
+        "message": "Beskyttelse deaktiveret"
+    },
+    "statusLabel": {
+        "message": "Status"
+    },
+    "statusSub": {
+        "message": "Læsning uden grænser"
+    },
+    "verifyNotFound": {
+        "message": "Ikke fundet"
+    },
+    "verifySuccess": {
+        "message": "Succes!"
+    },
+    "articleHeadline": {
+        "message": "Du har 3 minutters ubegrænset adgang."
+    },
+    "articleSubhead": {
+        "message": "Velkommen til New York Times Unlocker. Nyd en kort forhåndsvisning af problemfri, barrierefri journalistik."
+    },
+    "bylineAuthor": {
+        "message": "Af UDVIKLINGSTEAMET"
+    },
+    "demo1Title": {
+        "message": "Sådan aktiveres adgang"
+    },
+    "readTime": {
+        "message": "3 MIN LÆSNING"
+    },
+    "step1Desc": {
+        "message": "Find udvidelsesikonet i din browser-værktøjslinje."
+    },
+    "step1Title": {
+        "message": "1. Klik på ikonet"
+    },
+    "step2Desc": {
+        "message": "Klik for at åbne menuen New York Times Unlocker."
+    },
+    "step2Title": {
+        "message": "2. Åbn menu"
+    },
+    "step3Desc": {
+        "message": "Sørg for, at beskyttelseskontakten er indstillet til Aktiv."
+    },
+    "step3Title": {
+        "message": "3. Slå TIL"
+    },
+    "welcomeTitle": {
+        "message": "Velkommen til New York Times Unlocker"
+    },
+    "demo2Title": {
+        "message": "Sådan bekræftes Premium"
+    },
+    "mockRestore": {
+        "message": "Gendan køb"
+    },
+    "mockStatus": {
+        "message": "Beskyttelse deaktiveret"
+    },
+    "mockTitle": {
+        "message": "New York Times Unlocker"
+    },
+    "mockVerify": {
+        "message": "Bekræft"
+    },
+    "restoreStep1Desc": {
+        "message": "Klik på \"Gendan køb\" i pop op-menuen."
+    },
+    "restoreStep1Title": {
+        "message": "1. Klik på Gendan"
+    },
+    "restoreStep2Desc": {
+        "message": "Indtast den e-mailadresse, du brugte til at abonnere."
+    },
+    "restoreStep2Title": {
+        "message": "2. Indtast e-mail"
+    },
+    "restoreStep3Desc": {
+        "message": "Klik på Bekræft for at aktivere Premium med det samme."
+    },
+    "restoreStep3Title": {
+        "message": "3. Bekræft"
+    },
+    "bodyP1": {
+        "message": "Vi har givet dig <strong>3 minutters gratis, ubegrænset adgang</strong> til at teste kraften i New York Times Unlocker. Gennemse enhver artikel, hvor som helst på The New York Times, uden afbrydelser."
+    },
+    "bodyP2": {
+        "message": "Når din prøveperiode slutter, vil du have en daglig grænse på 2 gratis artikler. For at fortsætte med at læse uden grænser skal du blot opgradere til vores livstidsplan."
+    },
+    "feat1Desc": {
+        "message": "Ikke flere betalingsmure, der blokerer dit udsyn. Artikler låses op automatisk, mens du browser."
+    },
+    "feat1Title": {
+        "message": "SØMLØS ADGANG"
+    },
+    "feat2Desc": {
+        "message": "Dine læsevaner forbliver dine. Vi sporer ikke din historie eller sælger dine data."
+    },
+    "feat2Title": {
+        "message": "FORTROLIGHED FØRST"
+    },
+    "limitBoxHeadline": {
+        "message": "Daglig artikelgrænse nået"
+    },
+    "limitHeadline": {
+        "message": "Fortsæt med at læse uden grænser"
+    },
+    "limitSubhead": {
+        "message": "Du har nået din daglige grænse på 2 gratis artikler. Opgrader nu for ubegrænset adgang."
+    },
+    "paywallBtn": {
+        "message": "Få ubegrænset adgang"
+    },
+    "paywallFooter": {
+        "message": "Betal én gang, nyd for evigt."
+    },
+    "paywallHeadline": {
+        "message": "Lås op for ubegrænset journalistik"
+    },
+    "paywallSub": {
+        "message": "Få livstidsadgang til New York Times Unlocker og bliv aldrig blokeret af en betalingsmur igen."
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times отключване"
+    },
+    "badgeSubscriber": {
+        "message": "Достъп за абонати"
+    },
+    "btnOff": {
+        "message": "ИЗКЛ"
+    },
+    "btnOn": {
+        "message": "ВКЛ"
+    },
+    "btnSubscribe": {
+        "message": "Абонирай се сега"
+    },
+    "btnVerify": {
+        "message": "Провери"
+    },
+    "emailPlaceholder": {
+        "message": "Имейл..."
+    },
+    "extDesc": {
+        "message": "Отключва платено съдържание на уебсайта на New York Times"
+    },
+    "extName": {
+        "message": "New York Times отключване | Премахване на Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times отключване"
+    },
+    "popupTitle": {
+        "message": "New York Times отключване"
+    },
+    "premiumFeatureOnly": {
+        "message": "Само премиум функция"
+    },
+    "premiumHeadline": {
+        "message": "Подкрепете независимия код"
+    },
+    "premiumSubhead": {
+        "message": "Получете доживотен достъп до неограничени статии срещу еднократно плащане."
+    },
+    "premiumThankYou": {
+        "message": "Благодарим ви, че се абонирахте"
+    },
+    "premiumUnlimited": {
+        "message": "Имате неограничен достъп до всички статии."
+    },
+    "restoreLink": {
+        "message": "Възстановяване на покупка / Проверка на имейл"
+    },
+    "statusActive": {
+        "message": "Защитата е активна"
+    },
+    "statusDisabled": {
+        "message": "Защитата е изключена"
+    },
+    "statusLabel": {
+        "message": "Статус"
+    },
+    "statusSub": {
+        "message": "Четене без ограничения"
+    },
+    "verifyNotFound": {
+        "message": "Не е намерено"
+    },
+    "verifySuccess": {
+        "message": "Успех!"
+    },
+    "articleHeadline": {
+        "message": "Имате 3 минути неограничен достъп."
+    },
+    "articleSubhead": {
+        "message": "Добре дошли в New York Times Unlocker. Насладете се на кратък преглед на безпроблемна журналистика без бариери."
+    },
+    "bylineAuthor": {
+        "message": "От ЕКИПА ЗА РАЗРАБОТКА"
+    },
+    "demo1Title": {
+        "message": "Как да активирате достъпа"
+    },
+    "readTime": {
+        "message": "3 МИН ЧЕТЕНЕ"
+    },
+    "step1Desc": {
+        "message": "Намерете иконата на разширението в лентата с инструменти на браузъра си."
+    },
+    "step1Title": {
+        "message": "1. Кликнете върху иконата"
+    },
+    "step2Desc": {
+        "message": "Кликнете, за да отворите менюто на New York Times Unlocker."
+    },
+    "step2Title": {
+        "message": "2. Отворете менюто"
+    },
+    "step3Desc": {
+        "message": "Уверете се, че превключвателят за защита е настроен на Активен."
+    },
+    "step3Title": {
+        "message": "3. Включете"
+    },
+    "welcomeTitle": {
+        "message": "Добре дошли в New York Times Unlocker"
+    },
+    "demo2Title": {
+        "message": "Как да потвърдите Premium"
+    },
+    "mockRestore": {
+        "message": "Възстановяване на покупка"
+    },
+    "mockStatus": {
+        "message": "Защитата е изключена"
+    },
+    "mockTitle": {
+        "message": "New York Times отключване"
+    },
+    "mockVerify": {
+        "message": "Провери"
+    },
+    "restoreStep1Desc": {
+        "message": "Кликнете върху „Възстановяване на покупка“ в изскачащото меню."
+    },
+    "restoreStep1Title": {
+        "message": "1. Кликнете върху Възстановяване"
+    },
+    "restoreStep2Desc": {
+        "message": "Въведете имейл адреса, който сте използвали за абониране."
+    },
+    "restoreStep2Title": {
+        "message": "2. Въведете имейл"
+    },
+    "restoreStep3Desc": {
+        "message": "Кликнете върху Провери, за да активирате незабавно Premium."
+    },
+    "restoreStep3Title": {
+        "message": "3. Провери"
+    },
+    "bodyP1": {
+        "message": "Предоставихме ви <strong>3 минути безплатен, неограничен достъп</strong>, за да тествате силата на New York Times Unlocker. Разглеждайте всяка статия, навсякъде в The New York Times, без никакви прекъсвания."
+    },
+    "bodyP2": {
+        "message": "След като пробният ви период приключи, ще имате дневен лимит от 2 безплатни статии. За да продължите да четете без ограничения, просто надстройте до нашия доживотен план."
+    },
+    "feat1Desc": {
+        "message": "Няма повече платени стени, които да блокират изгледа ви. Статиите се отключват автоматично, докато разглеждате."
+    },
+    "feat1Title": {
+        "message": "БЕЗПРОБЛЕМЕН ДОСТЪП"
+    },
+    "feat2Desc": {
+        "message": "Вашите навици за четене остават ваши. Ние не проследяваме историята ви и не продаваме данните ви."
+    },
+    "feat2Title": {
+        "message": "ПОВЕРИТЕЛНОСТТА НА ПЪРВО МЯСТО"
+    },
+    "limitBoxHeadline": {
+        "message": "Достигнат е дневният лимит за статии"
+    },
+    "limitHeadline": {
+        "message": "Продължавайте да четете без ограничения"
+    },
+    "limitSubhead": {
+        "message": "Достигнахте дневния си лимит от 2 безплатни статии. Надстройте сега за неограничен достъп."
+    },
+    "paywallBtn": {
+        "message": "Вземете неограничен достъп"
+    },
+    "paywallFooter": {
+        "message": "Платете веднъж, наслаждавайте се завинаги."
+    },
+    "paywallHeadline": {
+        "message": "Отключете неограничена журналистика"
+    },
+    "paywallSub": {
+        "message": "Получете доживотен достъп до New York Times Unlocker и никога повече не бъдете блокирани от платена стена."
+    }
+}

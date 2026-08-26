@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "Kifungua New York Times"
+    },
+    "badgeSubscriber": {
+        "message": "Ufikiaji wa Msajili"
+    },
+    "btnOff": {
+        "message": "ZIMA"
+    },
+    "btnOn": {
+        "message": "WASHA"
+    },
+    "btnSubscribe": {
+        "message": "Jiandikishe Sasa"
+    },
+    "btnVerify": {
+        "message": "Thibitisha"
+    },
+    "emailPlaceholder": {
+        "message": "Barua pepe..."
+    },
+    "extDesc": {
+        "message": "Hufungua maudhui yaliyolipiwa kwenye tovuti ya New York Times"
+    },
+    "extName": {
+        "message": "Kifungua New York Times | Ondoa Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 Kifungua New York Times"
+    },
+    "popupTitle": {
+        "message": "Kifungua New York Times"
+    },
+    "premiumFeatureOnly": {
+        "message": "Kipengele cha Premium pekee"
+    },
+    "premiumHeadline": {
+        "message": "Saidia Msimbo Huru"
+    },
+    "premiumSubhead": {
+        "message": "Pata ufikiaji wa maisha kwa makala yasiyo na kikomo kwa malipo ya mara moja."
+    },
+    "premiumThankYou": {
+        "message": "Asante kwa kujiandikisha"
+    },
+    "premiumUnlimited": {
+        "message": "Una ufikiaji usio na kikomo kwa makala yote."
+    },
+    "restoreLink": {
+        "message": "Rejesha Ununuzi / Thibitisha Barua pepe"
+    },
+    "statusActive": {
+        "message": "Ulinzi Umewashwa"
+    },
+    "statusDisabled": {
+        "message": "Ulinzi Umezimwa"
+    },
+    "statusLabel": {
+        "message": "Hali"
+    },
+    "statusSub": {
+        "message": "Kusoma bila mipaka"
+    },
+    "verifyNotFound": {
+        "message": "Haikupatikana"
+    },
+    "verifySuccess": {
+        "message": "Mafanikio!"
+    },
+    "articleHeadline": {
+        "message": "Una Dakika 3 za Ufikiaji Usio na Kikomo."
+    },
+    "articleSubhead": {
+        "message": "Karibu kwenye Kifungua New York Times. Furahia onyesho la kukagua fupi la uandishi wa habari usio na mshono na usio na vizuizi."
+    },
+    "bylineAuthor": {
+        "message": "Na TIMU YA MAENDELEO"
+    },
+    "demo1Title": {
+        "message": "Jinsi ya Kuwezesha Ufikiaji"
+    },
+    "readTime": {
+        "message": "KUSOMA DAKIKA 3"
+    },
+    "step1Desc": {
+        "message": "Pata ikoni ya kiendelezi kwenye upau wa vidhibiti wa kivinjari chako."
+    },
+    "step1Title": {
+        "message": "1. Bofya Ikoni"
+    },
+    "step2Desc": {
+        "message": "Bofya ili kufungua menyu ya Kifungua New York Times."
+    },
+    "step2Title": {
+        "message": "2. Fungua Menyu"
+    },
+    "step3Desc": {
+        "message": "Hakikisha swichi ya ulinzi imewekwa kuwa Amilifu."
+    },
+    "step3Title": {
+        "message": "3. Washa"
+    },
+    "welcomeTitle": {
+        "message": "Karibu kwenye Kifungua New York Times"
+    },
+    "demo2Title": {
+        "message": "Jinsi ya Kuthibitisha Premium"
+    },
+    "mockRestore": {
+        "message": "Rejesha Ununuzi"
+    },
+    "mockStatus": {
+        "message": "Ulinzi Umezimwa"
+    },
+    "mockTitle": {
+        "message": "Kifungua New York Times"
+    },
+    "mockVerify": {
+        "message": "Thibitisha"
+    },
+    "restoreStep1Desc": {
+        "message": "Bofya \"Rejesha Ununuzi\" katika menyu ibukizi."
+    },
+    "restoreStep1Title": {
+        "message": "1. Bofya Rejesha"
+    },
+    "restoreStep2Desc": {
+        "message": "Andika anwani ya barua pepe uliyotumia kujiandikisha."
+    },
+    "restoreStep2Title": {
+        "message": "2. Ingiza Barua pepe"
+    },
+    "restoreStep3Desc": {
+        "message": "Bofya Thibitisha ili kuamilisha Premium papo hapo."
+    },
+    "restoreStep3Title": {
+        "message": "3. Thibitisha"
+    },
+    "bodyP1": {
+        "message": "Tumekupa <strong>dakika 3 za ufikiaji bila malipo na usio na kikomo</strong> ili kujaribu nguvu ya Kifungua New York Times. Vinjari makala yoyote, popote kwenye The New York Times, bila kukatizwa."
+    },
+    "bodyP2": {
+        "message": "Baada ya jaribio lako kuisha, utakuwa na kikomo cha kila siku cha makala 2 bila malipo. Ili kuendelea kusoma bila mipaka, pata mpango wetu wa maisha."
+    },
+    "feat1Desc": {
+        "message": "Hakuna kuta za malipo zinazozuia mwonekano wako. Makala hufunguka kiotomatiki unapovinjari."
+    },
+    "feat1Title": {
+        "message": "UFIKIAJI USIO NA MSHONO"
+    },
+    "feat2Desc": {
+        "message": "Tabia zako za kusoma zinabaki kuwa zako. Hatufuatilii historia yako au kuuza data yako."
+    },
+    "feat2Title": {
+        "message": "FARAGHA KWANZA"
+    },
+    "limitBoxHeadline": {
+        "message": "Kikomo cha Makala ya Kila Siku Kimefikiwa"
+    },
+    "limitHeadline": {
+        "message": "Endelea Kusoma Bila Mipaka"
+    },
+    "limitSubhead": {
+        "message": "Umefikia kikomo chako cha kila siku cha makala 2 bila malipo. Pata sasa ili ufikie bila kikomo."
+    },
+    "paywallBtn": {
+        "message": "Pata Ufikiaji Usio na Kikomo"
+    },
+    "paywallFooter": {
+        "message": "Lipa mara moja, furahia milele."
+    },
+    "paywallHeadline": {
+        "message": "Fungua Uandishi wa Habari Usio na Kikomo"
+    },
+    "paywallSub": {
+        "message": "Pata ufikiaji wa maisha kwa Kifungua New York Times na usizuiwe tena na ukuta wa malipo."
+    }
+}

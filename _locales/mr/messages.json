@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times अनलॉकर"
+    },
+    "badgeSubscriber": {
+        "message": "सबस्क्राइबर ऍक्सेस"
+    },
+    "btnOff": {
+        "message": "बंद"
+    },
+    "btnOn": {
+        "message": "चालू"
+    },
+    "btnSubscribe": {
+        "message": "आता सबस्क्राईब करा"
+    },
+    "btnVerify": {
+        "message": "पडताळणी करा"
+    },
+    "emailPlaceholder": {
+        "message": "ईमेल..."
+    },
+    "extDesc": {
+        "message": "न्यूयॉर्क टाइम्स वेबसाइटवरील पेवॉल सामग्री अनलॉक करते"
+    },
+    "extName": {
+        "message": "New York Times अनलॉकर | पेवॉल काढा"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times अनलॉकर"
+    },
+    "popupTitle": {
+        "message": "New York Times अनलॉकर"
+    },
+    "premiumFeatureOnly": {
+        "message": "फक्त प्रीमियम वैशिष्ट्य"
+    },
+    "premiumHeadline": {
+        "message": "स्वतंत्र कोडला समर्थन द्या"
+    },
+    "premiumSubhead": {
+        "message": "एकाच वेळी पेमेंटसाठी अमर्यादित लेखांमध्ये आजीवन प्रवेश मिळवा."
+    },
+    "premiumThankYou": {
+        "message": "सबस्क्राईब केल्याबद्दल धन्यवाद"
+    },
+    "premiumUnlimited": {
+        "message": "तुम्हाला सर्व लेखांमध्ये अमर्यादित प्रवेश आहे."
+    },
+    "restoreLink": {
+        "message": "खरेदी पुनर्संचयित करा / ईमेल पडताळणी करा"
+    },
+    "statusActive": {
+        "message": "संरक्षण सक्रिय"
+    },
+    "statusDisabled": {
+        "message": "संरक्षण अक्षम"
+    },
+    "statusLabel": {
+        "message": "स्थिती"
+    },
+    "statusSub": {
+        "message": "मर्यादेशिवाय वाचन"
+    },
+    "verifyNotFound": {
+        "message": "सापडले नाही"
+    },
+    "verifySuccess": {
+        "message": "यश!"
+    },
+    "articleHeadline": {
+        "message": "तुमच्याकडे 3 मिनिटे अमर्यादित प्रवेश आहे."
+    },
+    "articleSubhead": {
+        "message": "New York Times अनलॉकर मध्ये आपले स्वागत आहे. अखंड, अडथळा-मुक्त पत्रकारितेच्या संक्षिप्त पूर्वावलोकनाचा आनंद घ्या."
+    },
+    "bylineAuthor": {
+        "message": "विकास टीमद्वारे"
+    },
+    "demo1Title": {
+        "message": "प्रवेश कसा सक्षम करावा"
+    },
+    "readTime": {
+        "message": "3 मिनिट वाचन"
+    },
+    "step1Desc": {
+        "message": "तुमच्या ब्राउझर टूलबारमध्ये विस्तार चिन्ह शोधा."
+    },
+    "step1Title": {
+        "message": "1. चिन्हावर क्लिक करा"
+    },
+    "step2Desc": {
+        "message": "New York Times अनलॉकर मेनू उघडण्यासाठी क्लिक करा."
+    },
+    "step2Title": {
+        "message": "2. मेनू उघडा"
+    },
+    "step3Desc": {
+        "message": "संरक्षण स्विच सक्रिय वर सेट केल्याची खात्री करा."
+    },
+    "step3Title": {
+        "message": "3. चालू करा"
+    },
+    "welcomeTitle": {
+        "message": "New York Times अनलॉकर मध्ये आपले स्वागत आहे"
+    },
+    "demo2Title": {
+        "message": "प्रीमियमची पडताळणी कशी करावी"
+    },
+    "mockRestore": {
+        "message": "खरेदी पुनर्संचयित करा"
+    },
+    "mockStatus": {
+        "message": "संरक्षण अक्षम"
+    },
+    "mockTitle": {
+        "message": "New York Times अनलॉकर"
+    },
+    "mockVerify": {
+        "message": "पडताळणी करा"
+    },
+    "restoreStep1Desc": {
+        "message": "पॉपअप मेनूमध्ये \"खरेदी पुनर्संचयित करा\" वर क्लिक करा."
+    },
+    "restoreStep1Title": {
+        "message": "1. पुनर्संचयित करा वर क्लिक करा"
+    },
+    "restoreStep2Desc": {
+        "message": "तुम्ही सबस्क्राईब करण्यासाठी वापरलेला ईमेल पत्ता टाइप करा."
+    },
+    "restoreStep2Title": {
+        "message": "2. ईमेल प्रविष्ट करा"
+    },
+    "restoreStep3Desc": {
+        "message": "प्रीमियम त्वरित सक्रिय करण्यासाठी पडताळणी करा वर क्लिक करा."
+    },
+    "restoreStep3Title": {
+        "message": "3. पडताळणी करा"
+    },
+    "bodyP1": {
+        "message": "New York Times अनलॉकरची शक्ती तपासण्यासाठी आम्ही तुम्हाला <strong>3 मिनिटे विनामूल्य, अमर्यादित प्रवेश</strong> दिला आहे. न्यूयॉर्क टाइम्सवर कोठेही, कोणत्याही व्यत्ययाशिवाय कोणताही लेख ब्राउझ करा."
+    },
+    "bodyP2": {
+        "message": "तुमची चाचणी संपल्यानंतर, तुमच्याकडे दररोज 2 विनामूल्य लेखांची मर्यादा असेल. मर्यादेशिवाय वाचन सुरू ठेवण्यासाठी, फक्त आमच्या आजीवन योजनेवर अपग्रेड करा."
+    },
+    "feat1Desc": {
+        "message": "तुमचे दृश्य अवरोधित करणारे आणखी पेवॉल नाहीत. तुम्ही ब्राउझ करताच लेख आपोआप अनलॉक होतात."
+    },
+    "feat1Title": {
+        "message": "अखंड प्रवेश"
+    },
+    "feat2Desc": {
+        "message": "तुमच्या वाचनाच्या सवयी तुमच्याच राहतात. आम्ही तुमचा इतिहास ट्रॅक करत नाही किंवा तुमचा डेटा विकत नाही."
+    },
+    "feat2Title": {
+        "message": "गोपनीयता प्रथम"
+    },
+    "limitBoxHeadline": {
+        "message": "दैनिक लेख मर्यादा गाठली"
+    },
+    "limitHeadline": {
+        "message": "मर्यादेशिवाय वाचन सुरू ठेवा"
+    },
+    "limitSubhead": {
+        "message": "तुम्ही तुमच्या 2 मोफत लेखांच्या दैनंदिन मर्यादेपर्यंत पोहोचला आहात. अमर्यादित प्रवेशासाठी आता अपग्रेड करा."
+    },
+    "paywallBtn": {
+        "message": "अमर्यादित प्रवेश मिळवा"
+    },
+    "paywallFooter": {
+        "message": "एकदा पैसे द्या, कायमचा आनंद घ्या."
+    },
+    "paywallHeadline": {
+        "message": "अमर्यादित पत्रकारिता अनलॉक करा"
+    },
+    "paywallSub": {
+        "message": "New York Times अनलॉकरमध्ये आजीवन प्रवेश मिळवा आणि पुन्हा कधीही पेवॉलद्वारे अवरोधित होऊ नका."
+    }
+}

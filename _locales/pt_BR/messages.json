@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "Desbloqueador New York Times"
+    },
+    "badgeSubscriber": {
+        "message": "Acesso de assinante"
+    },
+    "btnOff": {
+        "message": "DESL"
+    },
+    "btnOn": {
+        "message": "LIG"
+    },
+    "btnSubscribe": {
+        "message": "Assinar agora"
+    },
+    "btnVerify": {
+        "message": "Verificar"
+    },
+    "emailPlaceholder": {
+        "message": "E-mail..."
+    },
+    "extDesc": {
+        "message": "Desbloqueia conteúdo pago no site do New York Times"
+    },
+    "extName": {
+        "message": "Desbloqueador New York Times | Remover Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 Desbloqueador New York Times"
+    },
+    "popupTitle": {
+        "message": "Desbloqueador New York Times"
+    },
+    "premiumFeatureOnly": {
+        "message": "Apenas recurso Premium"
+    },
+    "premiumHeadline": {
+        "message": "Apoie o código independente"
+    },
+    "premiumSubhead": {
+        "message": "Obtenha acesso vitalício a artigos ilimitados por um pagamento único."
+    },
+    "premiumThankYou": {
+        "message": "Obrigado por assinar"
+    },
+    "premiumUnlimited": {
+        "message": "Você tem acesso ilimitado a todos os artigos."
+    },
+    "restoreLink": {
+        "message": "Restaurar compra / Verificar e-mail"
+    },
+    "statusActive": {
+        "message": "Proteção ativa"
+    },
+    "statusDisabled": {
+        "message": "Proteção desativada"
+    },
+    "statusLabel": {
+        "message": "Status"
+    },
+    "statusSub": {
+        "message": "Leitura sem limites"
+    },
+    "verifyNotFound": {
+        "message": "Não encontrado."
+    },
+    "verifySuccess": {
+        "message": "Sucesso!"
+    },
+    "articleHeadline": {
+        "message": "Você tem 3 minutos de acesso ilimitado."
+    },
+    "articleSubhead": {
+        "message": "Bem-vindo ao Desbloqueador New York Times. Desfrute de uma breve prévia de um jornalismo perfeito e sem barreiras."
+    },
+    "bylineAuthor": {
+        "message": "Pela EQUIPE DE DESENVOLVIMENTO"
+    },
+    "demo1Title": {
+        "message": "Como ativar o acesso"
+    },
+    "readTime": {
+        "message": "LEITURA DE 3 MIN"
+    },
+    "step1Desc": {
+        "message": "Encontre o ícone da extensão na barra de ferramentas do seu navegador."
+    },
+    "step1Title": {
+        "message": "1. Clique no ícone"
+    },
+    "step2Desc": {
+        "message": "Clique para abrir o menu do Desbloqueador New York Times."
+    },
+    "step2Title": {
+        "message": "2. Abrir menu"
+    },
+    "step3Desc": {
+        "message": "Certifique-se de que o interruptor de proteção esteja definido como Ativo."
+    },
+    "step3Title": {
+        "message": "3. Ligue"
+    },
+    "welcomeTitle": {
+        "message": "Bem-vindo ao Desbloqueador New York Times"
+    },
+    "demo2Title": {
+        "message": "Como verificar Premium"
+    },
+    "mockRestore": {
+        "message": "Restaurar compra"
+    },
+    "mockStatus": {
+        "message": "Proteção desativada"
+    },
+    "mockTitle": {
+        "message": "Desbloqueador New York Times"
+    },
+    "mockVerify": {
+        "message": "Verificar"
+    },
+    "restoreStep1Desc": {
+        "message": "Clique em \"Restaurar compra\" no menu pop-up."
+    },
+    "restoreStep1Title": {
+        "message": "1. Clique em Restaurar"
+    },
+    "restoreStep2Desc": {
+        "message": "Digite o endereço de e-mail que você usou para assinar."
+    },
+    "restoreStep2Title": {
+        "message": "2. Digite o e-mail"
+    },
+    "restoreStep3Desc": {
+        "message": "Clique em Verificar para ativar o Premium instantaneamente."
+    },
+    "restoreStep3Title": {
+        "message": "3. Verificar"
+    },
+    "bodyP1": {
+        "message": "Concedemos a você <strong>3 minutos de acesso gratuito e ilimitado</strong> para testar o poder do Desbloqueador New York Times. Navegue por qualquer artigo, em qualquer lugar no The New York Times, sem interrupções."
+    },
+    "bodyP2": {
+        "message": "Após o término do teste, você terá um limite diário de 2 artigos gratuitos. Para continuar lendo sem limites, basta atualizar para nosso plano vitalício."
+    },
+    "feat1Desc": {
+        "message": "Não há mais paywalls bloqueando sua visão. Os artigos são desbloqueados automaticamente enquanto você navega."
+    },
+    "feat1Title": {
+        "message": "ACESSO PERFEITO"
+    },
+    "feat2Desc": {
+        "message": "Seus hábitos de leitura permanecem seus. Não rastreamos seu histórico nem vendemos seus dados."
+    },
+    "feat2Title": {
+        "message": "PRIVACIDADE EM PRIMEIRO LUGAR"
+    },
+    "limitBoxHeadline": {
+        "message": "Limite diário de artigos atingido"
+    },
+    "limitHeadline": {
+        "message": "Continue lendo sem limites"
+    },
+    "limitSubhead": {
+        "message": "Você atingiu seu limite diário de 2 artigos gratuitos. Atualize agora para acesso ilimitado."
+    },
+    "paywallBtn": {
+        "message": "Obtenha acesso ilimitado"
+    },
+    "paywallFooter": {
+        "message": "Pague uma vez, aproveite para sempre."
+    },
+    "paywallHeadline": {
+        "message": "Desbloqueie jornalismo ilimitado"
+    },
+    "paywallSub": {
+        "message": "Obtenha acesso vitalício ao Desbloqueador New York Times e nunca mais seja bloqueado por um paywall."
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "Mở khóa New York Times"
+    },
+    "badgeSubscriber": {
+        "message": "Quyền truy cập thuê bao"
+    },
+    "btnOff": {
+        "message": "TẮT"
+    },
+    "btnOn": {
+        "message": "BẬT"
+    },
+    "btnSubscribe": {
+        "message": "Đăng ký ngay"
+    },
+    "btnVerify": {
+        "message": "Xác minh"
+    },
+    "emailPlaceholder": {
+        "message": "Email..."
+    },
+    "extDesc": {
+        "message": "Mở khóa nội dung trả phí trên trang web New York Times"
+    },
+    "extName": {
+        "message": "Mở khóa New York Times | Xóa Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 Mở khóa New York Times"
+    },
+    "popupTitle": {
+        "message": "Mở khóa New York Times"
+    },
+    "premiumFeatureOnly": {
+        "message": "Chỉ tính năng Premium"
+    },
+    "premiumHeadline": {
+        "message": "Ủng hộ mã nguồn độc lập"
+    },
+    "premiumSubhead": {
+        "message": "Nhận quyền truy cập trọn đời vào các bài viết không giới hạn chỉ với một lần thanh toán."
+    },
+    "premiumThankYou": {
+        "message": "Cảm ơn bạn đã đăng ký"
+    },
+    "premiumUnlimited": {
+        "message": "Bạn có quyền truy cập không giới hạn vào tất cả các bài viết."
+    },
+    "restoreLink": {
+        "message": "Khôi phục mua hàng / Xác minh Email"
+    },
+    "statusActive": {
+        "message": "Bảo vệ đang bật"
+    },
+    "statusDisabled": {
+        "message": "Bảo vệ đã tắt"
+    },
+    "statusLabel": {
+        "message": "Trạng thái"
+    },
+    "statusSub": {
+        "message": "Đọc không giới hạn"
+    },
+    "verifyNotFound": {
+        "message": "Không tìm thấy."
+    },
+    "verifySuccess": {
+        "message": "Thành công!"
+    },
+    "articleHeadline": {
+        "message": "Bạn có 3 phút truy cập không giới hạn."
+    },
+    "articleSubhead": {
+        "message": "Chào mừng đến với Mở khóa New York Times. Tận hưởng bản xem trước ngắn gọn về báo chí liền mạch, không rào cản."
+    },
+    "bylineAuthor": {
+        "message": "Bởi ĐỘI NGŨ PHÁT TRIỂN"
+    },
+    "demo1Title": {
+        "message": "Cách bật quyền truy cập"
+    },
+    "readTime": {
+        "message": "ĐỌC 3 PHÚT"
+    },
+    "step1Desc": {
+        "message": "Tìm biểu tượng tiện ích mở rộng trên thanh công cụ trình duyệt của bạn."
+    },
+    "step1Title": {
+        "message": "1. Nhấp vào biểu tượng"
+    },
+    "step2Desc": {
+        "message": "Nhấp để mở menu Mở khóa New York Times."
+    },
+    "step2Title": {
+        "message": "2. Mở Menu"
+    },
+    "step3Desc": {
+        "message": "Đảm bảo công tắc bảo vệ được đặt thành Đang hoạt động."
+    },
+    "step3Title": {
+        "message": "3. Bật"
+    },
+    "welcomeTitle": {
+        "message": "Chào mừng đến với Mở khóa New York Times"
+    },
+    "demo2Title": {
+        "message": "Cách xác minh Premium"
+    },
+    "mockRestore": {
+        "message": "Khôi phục mua hàng"
+    },
+    "mockStatus": {
+        "message": "Bảo vệ đã tắt"
+    },
+    "mockTitle": {
+        "message": "Mở khóa New York Times"
+    },
+    "mockVerify": {
+        "message": "Xác minh"
+    },
+    "restoreStep1Desc": {
+        "message": "Nhấp vào \"Khôi phục mua hàng\" trong menu bật lên."
+    },
+    "restoreStep1Title": {
+        "message": "1. Nhấp vào Khôi phục"
+    },
+    "restoreStep2Desc": {
+        "message": "Nhập địa chỉ email bạn đã sử dụng để đăng ký."
+    },
+    "restoreStep2Title": {
+        "message": "2. Nhập Email"
+    },
+    "restoreStep3Desc": {
+        "message": "Nhấp vào Xác minh để kích hoạt Premium ngay lập tức."
+    },
+    "restoreStep3Title": {
+        "message": "3. Xác minh"
+    },
+    "bodyP1": {
+        "message": "Chúng tôi đã cấp cho bạn <strong>3 phút truy cập miễn phí, không giới hạn</strong> để kiểm tra sức mạnh của Mở khóa New York Times. Duyệt bất kỳ bài viết nào, ở bất kỳ đâu trên The New York Times mà không bị gián đoạn."
+    },
+    "bodyP2": {
+        "message": "Sau khi hết hạn dùng thử, bạn sẽ có giới hạn hàng ngày là 2 bài viết miễn phí. Để tiếp tục đọc không giới hạn, chỉ cần nâng cấp lên gói trọn đời của chúng tôi."
+    },
+    "feat1Desc": {
+        "message": "Không còn paywall chặn tầm nhìn của bạn. Các bài viết tự động mở khóa khi bạn duyệt."
+    },
+    "feat1Title": {
+        "message": "TRUY CẬP LIỀN MẠCH"
+    },
+    "feat2Desc": {
+        "message": "Thói quen đọc của bạn vẫn là của bạn. Chúng tôi không theo dõi lịch sử của bạn hoặc bán dữ liệu của bạn."
+    },
+    "feat2Title": {
+        "message": "QUYỀN RIÊNG TƯ LÀ TRÊN HẾT"
+    },
+    "limitBoxHeadline": {
+        "message": "Đã đạt giới hạn bài viết hàng ngày"
+    },
+    "limitHeadline": {
+        "message": "Tiếp tục đọc không giới hạn"
+    },
+    "limitSubhead": {
+        "message": "Bạn đã đạt đến giới hạn hàng ngày là 2 bài viết miễn phí. Nâng cấp ngay để truy cập không giới hạn."
+    },
+    "paywallBtn": {
+        "message": "Nhận quyền truy cập không giới hạn"
+    },
+    "paywallFooter": {
+        "message": "Thanh toán một lần, tận hưởng mãi mãi."
+    },
+    "paywallHeadline": {
+        "message": "Mở khóa báo chí không giới hạn"
+    },
+    "paywallSub": {
+        "message": "Nhận quyền truy cập trọn đời vào Mở khóa New York Times và không bao giờ bị chặn bởi paywall nữa."
+    }
+}

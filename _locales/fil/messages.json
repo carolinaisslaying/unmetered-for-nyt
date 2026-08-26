@@ -1,0 +1,179 @@
+{
+    "actionTitle": {
+        "message": "New York Times Unlocker"
+    },
+    "badgeSubscriber": {
+        "message": "Access ng Subscriber"
+    },
+    "btnOff": {
+        "message": "OFF"
+    },
+    "btnOn": {
+        "message": "ON"
+    },
+    "btnSubscribe": {
+        "message": "Mag-subscribe Ngayon"
+    },
+    "btnVerify": {
+        "message": "I-verify"
+    },
+    "emailPlaceholder": {
+        "message": "Email..."
+    },
+    "extDesc": {
+        "message": "Ina-unlock ang paywalled na nilalaman sa website ng New York Times"
+    },
+    "extName": {
+        "message": "New York Times Unlocker | Alisin ang Paywall"
+    },
+    "footerText": {
+        "message": "© 2025 New York Times Unlocker"
+    },
+    "popupTitle": {
+        "message": "New York Times Unlocker"
+    },
+    "premiumFeatureOnly": {
+        "message": "Premium feature only"
+    },
+    "premiumHeadline": {
+        "message": "Suportahan ang Independent Code"
+    },
+    "premiumSubhead": {
+        "message": "Kumuha ng panghabambuhay na access sa walang limitasyong mga artikulo para sa isang beses na pagbabayad."
+    },
+    "premiumThankYou": {
+        "message": "Salamat sa pag-subscribe"
+    },
+    "premiumUnlimited": {
+        "message": "Mayroon kang walang limitasyong access sa lahat ng mga artikulo."
+    },
+    "restoreLink": {
+        "message": "I-restore ang Pagbili / I-verify ang Email"
+    },
+    "statusActive": {
+        "message": "Aktibo ang Proteksyon"
+    },
+    "statusDisabled": {
+        "message": "Naka-disable ang Proteksyon"
+    },
+    "statusLabel": {
+        "message": "Katayuan"
+    },
+    "statusSub": {
+        "message": "Pagbabasa nang walang limitasyon"
+    },
+    "verifyNotFound": {
+        "message": "Hindi natagpuan"
+    },
+    "verifySuccess": {
+        "message": "Tagumpay!"
+    },
+    "articleHeadline": {
+        "message": "Mayroon Kang 3 Minuto ng Walang Limitasyong Access."
+    },
+    "articleSubhead": {
+        "message": "Maligayang pagdating sa New York Times Unlocker. Mag-enjoy sa maikling preview ng tuluy-tuloy, walang hadlang na pamamahayag."
+    },
+    "bylineAuthor": {
+        "message": "Ni THE DEVELOPMENT TEAM"
+    },
+    "demo1Title": {
+        "message": "Paano Paganahin ang Access"
+    },
+    "readTime": {
+        "message": "3 MIN BASAHIN"
+    },
+    "step1Desc": {
+        "message": "Hanapin ang icon ng extension sa toolbar ng iyong browser."
+    },
+    "step1Title": {
+        "message": "1. I-click ang Icon"
+    },
+    "step2Desc": {
+        "message": "I-click upang buksan ang menu ng New York Times Unlocker."
+    },
+    "step2Title": {
+        "message": "2. Buksan ang Menu"
+    },
+    "step3Desc": {
+        "message": "Tiyaking nakatakda ang switch ng proteksyon sa Aktibo."
+    },
+    "step3Title": {
+        "message": "3. I-toggle ang ON"
+    },
+    "welcomeTitle": {
+        "message": "Maligayang pagdating sa New York Times Unlocker"
+    },
+    "demo2Title": {
+        "message": "Paano I-verify ang Premium"
+    },
+    "mockRestore": {
+        "message": "I-restore ang Pagbili"
+    },
+    "mockStatus": {
+        "message": "Naka-disable ang Proteksyon"
+    },
+    "mockTitle": {
+        "message": "New York Times Unlocker"
+    },
+    "mockVerify": {
+        "message": "I-verify"
+    },
+    "restoreStep1Desc": {
+        "message": "I-click ang \"I-restore ang Pagbili\" sa popup menu."
+    },
+    "restoreStep1Title": {
+        "message": "1. I-click ang I-restore"
+    },
+    "restoreStep2Desc": {
+        "message": "I-type ang email address na ginamit mo sa pag-subscribe."
+    },
+    "restoreStep2Title": {
+        "message": "2. Ipasok ang Email"
+    },
+    "restoreStep3Desc": {
+        "message": "I-click ang I-verify upang agad na i-activate ang Premium."
+    },
+    "restoreStep3Title": {
+        "message": "3. I-verify"
+    },
+    "bodyP1": {
+        "message": "Binigyan ka namin ng <strong>3 minutong libre, walang limitasyong access</strong> upang subukan ang kapangyarihan ng New York Times Unlocker. Mag-browse ng anumang artikulo, saanman sa The New York Times, nang walang anumang pagkaantala."
+    },
+    "bodyP2": {
+        "message": "Pagkatapos ng iyong pagsubok, magkakaroon ka ng pang-araw-araw na limitasyon na 2 libreng artikulo. Upang magpatuloy sa pagbabasa nang walang limitasyon, mag-upgrade lang sa aming panghabambuhay na plano."
+    },
+    "feat1Desc": {
+        "message": "Wala nang mga paywall na humaharang sa iyong view. Awtomatikong nag-a-unlock ang mga artikulo habang nagba-browse ka."
+    },
+    "feat1Title": {
+        "message": "WALANG HUMPAY NA ACCESS"
+    },
+    "feat2Desc": {
+        "message": "Ang iyong mga gawi sa pagbabasa ay nananatiling iyo. Hindi namin sinusubaybayan ang iyong kasaysayan o ibinebenta ang iyong data."
+    },
+    "feat2Title": {
+        "message": "PRIVACY UNA"
+    },
+    "limitBoxHeadline": {
+        "message": "Naabot na ang Pang-araw-araw na Limitasyon sa Artikulo"
+    },
+    "limitHeadline": {
+        "message": "Magpatuloy sa Pagbabasa Nang Walang Limitasyon"
+    },
+    "limitSubhead": {
+        "message": "Naabot mo na ang iyong pang-araw-araw na limitasyon na 2 libreng artikulo. Mag-upgrade ngayon para sa walang limitasyong access."
+    },
+    "paywallBtn": {
+        "message": "Kumuha ng Walang Limitasyong Access"
+    },
+    "paywallFooter": {
+        "message": "Magbayad ng isang beses, mag-enjoy magpakailanman."
+    },
+    "paywallHeadline": {
+        "message": "I-unlock ang Walang Limitasyong Pamamahayag"
+    },
+    "paywallSub": {
+        "message": "Kumuha ng panghabambuhay na access sa New York Times Unlocker at hindi na muling ma-block ng paywall."
+    }
+}
