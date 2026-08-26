@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Deblocare New York Times"
-    },
     "btnOff": {
         "message": "OPRIT"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Dă clic pe pictogramă"
-    },
-    "step2Desc": {
-        "message": "Dă clic pentru a deschide meniul Deblocare New York Times."
     },
     "step2Title": {
         "message": "2. Deschide meniul"

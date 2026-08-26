@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times Kilidini Açıcı"
-    },
     "btnOff": {
         "message": "KAPALI"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Simgeye Tıklayın"
-    },
-    "step2Desc": {
-        "message": "New York Times Kilidini Açıcı menüsünü açmak için tıklayın."
     },
     "step2Title": {
         "message": "2. Menüyü Aç"

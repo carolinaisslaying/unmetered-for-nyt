@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "פותח New York Times"
-    },
     "btnOff": {
         "message": "כבוי"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. לחץ על הסמל"
-    },
-    "step2Desc": {
-        "message": "לחץ לפתיחת תפריט פותח New York Times."
     },
     "step2Title": {
         "message": "2. פתח תפריט"

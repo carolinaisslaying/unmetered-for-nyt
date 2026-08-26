@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times Unlocker"
-    },
     "btnOff": {
         "message": "AUS"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Klicken Sie auf das Symbol"
-    },
-    "step2Desc": {
-        "message": "Klicken Sie, um das New York Times Unlocker-Menü zu öffnen."
     },
     "step2Title": {
         "message": "2. Menü öffnen"

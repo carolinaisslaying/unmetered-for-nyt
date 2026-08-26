@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "ตัวปลดล็อก New York Times"
-    },
     "btnOff": {
         "message": "ปิด"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. คลิกไอคอน"
-    },
-    "step2Desc": {
-        "message": "คลิกเพื่อเปิดเมนูตัวปลดล็อก New York Times"
     },
     "step2Title": {
         "message": "2. เปิดเมนู"

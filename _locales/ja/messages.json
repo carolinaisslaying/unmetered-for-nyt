@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Timesアンロッカー"
-    },
     "btnOff": {
         "message": "オフ"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. アイコンをクリック"
-    },
-    "step2Desc": {
-        "message": "クリックしてNew York Timesアンロッカーメニューを開きます。"
     },
     "step2Title": {
         "message": "2. メニューを開く"

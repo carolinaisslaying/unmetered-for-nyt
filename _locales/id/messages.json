@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Pembuka New York Times"
-    },
     "btnOff": {
         "message": "MATI"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Klik Ikon"
-    },
-    "step2Desc": {
-        "message": "Klik untuk membuka menu Pembuka New York Times."
     },
     "step2Title": {
         "message": "2. Buka Menu"

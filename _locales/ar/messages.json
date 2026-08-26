@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times Unlocker"
-    },
     "btnOff": {
         "message": "إيقاف"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. انقر فوق الرمز"
-    },
-    "step2Desc": {
-        "message": "انقر لفتح قائمة New York Times Unlocker."
     },
     "step2Title": {
         "message": "2. فتح القائمة"

@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times अनलॉकर"
-    },
     "btnOff": {
         "message": "बंद"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. चिन्हावर क्लिक करा"
-    },
-    "step2Desc": {
-        "message": "New York Times अनलॉकर मेनू उघडण्यासाठी क्लिक करा."
     },
     "step2Title": {
         "message": "2. मेनू उघडा"

@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times 언락커"
-    },
     "btnOff": {
         "message": "끄기"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. 아이콘 클릭"
-    },
-    "step2Desc": {
-        "message": "클릭하여 New York Times 언락커 메뉴를 엽니다."
     },
     "step2Title": {
         "message": "2. 메뉴 열기"

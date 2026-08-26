@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times avaja"
-    },
     "btnOff": {
         "message": "VÄLJAS"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Klõpsake ikoonil"
-    },
-    "step2Desc": {
-        "message": "Klõpsake New York Times avaja menüü avamiseks."
     },
     "step2Title": {
         "message": "2. Ava menüü"

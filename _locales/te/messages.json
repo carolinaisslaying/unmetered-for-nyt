@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times అన్‌లాకర్"
-    },
     "btnOff": {
         "message": "ఆఫ్"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. చిహ్నంపై క్లిక్ చేయండి"
-    },
-    "step2Desc": {
-        "message": "New York Times అన్‌లాకర్ మెనుని తెరవడానికి క్లిక్ చేయండి."
     },
     "step2Title": {
         "message": "2. మెను తెరవండి"

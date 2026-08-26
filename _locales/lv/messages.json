@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times atbloķētājs"
-    },
     "btnOff": {
         "message": "IZSLĒGTS"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Noklikšķiniet uz ikonas"
-    },
-    "step2Desc": {
-        "message": "Noklikšķiniet, lai atvērtu New York Times atbloķētāja izvēlni."
     },
     "step2Title": {
         "message": "2. Atvērt izvēlni"

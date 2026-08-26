@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times feloldó"
-    },
     "btnOff": {
         "message": "KI"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Kattintson az ikonra"
-    },
-    "step2Desc": {
-        "message": "Kattintson a New York Times feloldó menü megnyitásához."
     },
     "step2Title": {
         "message": "2. Menü megnyitása"

@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times திறப்பான்"
-    },
     "btnOff": {
         "message": "ஆஃப்"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. ஐகானைக் கிளிக் செய்யவும்"
-    },
-    "step2Desc": {
-        "message": "New York Times திறப்பான் மெனுவைத் திறக்க கிளிக் செய்யவும்."
     },
     "step2Title": {
         "message": "2. மெனுவைத் திற"

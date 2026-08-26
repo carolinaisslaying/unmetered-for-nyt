@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Kifungua New York Times"
-    },
     "btnOff": {
         "message": "ZIMA"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Bofya Ikoni"
-    },
-    "step2Desc": {
-        "message": "Bofya ili kufungua menyu ya Kifungua New York Times."
     },
     "step2Title": {
         "message": "2. Fungua Menyu"

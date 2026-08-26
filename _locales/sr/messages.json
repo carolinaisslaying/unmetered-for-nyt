@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times otključavač"
-    },
     "btnOff": {
         "message": "ISKLJ"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Kliknite na ikonu"
-    },
-    "step2Desc": {
-        "message": "Kliknite da biste otvorili meni New York Times otključavača."
     },
     "step2Title": {
         "message": "2. Otvori meni"

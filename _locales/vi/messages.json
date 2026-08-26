@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Mở khóa New York Times"
-    },
     "btnOff": {
         "message": "TẮT"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Nhấp vào biểu tượng"
-    },
-    "step2Desc": {
-        "message": "Nhấp để mở menu Mở khóa New York Times."
     },
     "step2Title": {
         "message": "2. Mở Menu"

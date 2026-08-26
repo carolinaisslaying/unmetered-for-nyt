@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times Unlocker"
-    },
     "btnOff": {
         "message": "POIS"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Napsauta kuvaketta"
-    },
-    "step2Desc": {
-        "message": "Napsauta avataksesi New York Times Unlocker -valikon."
     },
     "step2Title": {
         "message": "2. Avaa valikko"

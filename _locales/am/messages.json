@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times መክፈቻ"
-    },
     "btnOff": {
         "message": "ጠፍቷል"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. አዶን ጠቅ ያድርጉ"
-    },
-    "step2Desc": {
-        "message": "የ New York Times መክፈቻ ምናሌን ለመክፈት ጠቅ ያድርጉ።"
     },
     "step2Title": {
         "message": "2. ምናሌ ክፈት"

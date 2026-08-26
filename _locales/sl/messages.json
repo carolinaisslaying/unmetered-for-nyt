@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times odklepalnik"
-    },
     "btnOff": {
         "message": "IZKLOP"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Kliknite ikono"
-    },
-    "step2Desc": {
-        "message": "Kliknite, da odprete meni New York Times odklepalnika."
     },
     "step2Title": {
         "message": "2. Odpri meni"

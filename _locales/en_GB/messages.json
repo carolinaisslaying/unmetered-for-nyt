@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times Unlocker"
-    },
     "btnOff": {
         "message": "OFF"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Click Icon"
-    },
-    "step2Desc": {
-        "message": "Click to open the New York Times Unlocker menu."
     },
     "step2Title": {
         "message": "2. Open Menu"

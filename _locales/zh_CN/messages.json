@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times 解锁器"
-    },
     "btnOff": {
         "message": "关"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. 点击图标"
-    },
-    "step2Desc": {
-        "message": "点击打开 New York Times 解锁器菜单。"
     },
     "step2Title": {
         "message": "2. 打开菜单"

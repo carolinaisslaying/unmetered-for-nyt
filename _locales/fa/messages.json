@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "بازکننده New York Times"
-    },
     "btnOff": {
         "message": "خاموش"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. روی آیکون کلیک کنید"
-    },
-    "step2Desc": {
-        "message": "برای باز کردن منوی بازکننده New York Times کلیک کنید."
     },
     "step2Title": {
         "message": "2. باز کردن منو"

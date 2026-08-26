@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Odblokowywacz New York Times"
-    },
     "btnOff": {
         "message": "WYŁ"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Kliknij ikonę"
-    },
-    "step2Desc": {
-        "message": "Kliknij, aby otworzyć menu Odblokowywacza New York Times."
     },
     "step2Title": {
         "message": "2. Otwórz menu"

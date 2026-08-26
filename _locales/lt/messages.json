@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times atrakintojas"
-    },
     "btnOff": {
         "message": "IŠJUNGTA"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Spustelėkite piktogramą"
-    },
-    "step2Desc": {
-        "message": "Spustelėkite, kad atidarytumėte New York Times atrakintojo meniu."
     },
     "step2Title": {
         "message": "2. Atidaryti meniu"

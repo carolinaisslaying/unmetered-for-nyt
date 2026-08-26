@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Ξεκλείδωμα New York Times"
-    },
     "btnOff": {
         "message": "ΟΧΙ"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Κάντε κλικ στο εικονίδιο"
-    },
-    "step2Desc": {
-        "message": "Κάντε κλικ για να ανοίξετε το μενού Ξεκλείδωμα New York Times."
     },
     "step2Title": {
         "message": "2. Άνοιγμα μενού"

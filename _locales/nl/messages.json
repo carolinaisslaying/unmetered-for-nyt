@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times Ontgrendelaar"
-    },
     "btnOff": {
         "message": "UIT"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Klik op pictogram"
-    },
-    "step2Desc": {
-        "message": "Klik om het New York Times Ontgrendelaar-menu te openen."
     },
     "step2Title": {
         "message": "2. Menu openen"

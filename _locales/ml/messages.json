@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times അൺലോക്കർ"
-    },
     "btnOff": {
         "message": "ഓഫ്"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. ഐക്കണിൽ ക്ലിക്ക് ചെയ്യുക"
-    },
-    "step2Desc": {
-        "message": "New York Times അൺലോക്കർ മെനു തുറക്കാൻ ക്ലിക്ക് ചെയ്യുക."
     },
     "step2Title": {
         "message": "2. മെനു തുറക്കുക"

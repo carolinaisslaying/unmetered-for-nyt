@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Desbloqueador New York Times"
-    },
     "btnOff": {
         "message": "DESL"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Clique no ícone"
-    },
-    "step2Desc": {
-        "message": "Clique para abrir o menu do Desbloqueador New York Times."
     },
     "step2Title": {
         "message": "2. Abrir menu"

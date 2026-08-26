@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Розблокувальник New York Times"
-    },
     "btnOff": {
         "message": "ВИМК"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Натисніть значок"
-    },
-    "step2Desc": {
-        "message": "Натисніть, щоб відкрити меню Розблокувальника New York Times."
     },
     "step2Title": {
         "message": "2. Відкрити меню"

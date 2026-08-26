@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times Unlocker"
-    },
     "btnOff": {
         "message": "AV"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Klikk på ikonet"
-    },
-    "step2Desc": {
-        "message": "Klikk for å åpne New York Times Unlocker-menyen."
     },
     "step2Title": {
         "message": "2. Åpne meny"

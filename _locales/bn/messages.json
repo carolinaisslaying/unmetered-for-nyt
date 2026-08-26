@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "New York Times আনলকার"
-    },
     "btnOff": {
         "message": "বন্ধ"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. আইকনে ক্লিক করুন"
-    },
-    "step2Desc": {
-        "message": "New York Times আনলকার মেনু খুলতে ক্লিক করুন।"
     },
     "step2Title": {
         "message": "2. মেনু খুলুন"

@@ -1,7 +1,4 @@
 {
-    "actionTitle": {
-        "message": "Разблокировщик New York Times"
-    },
     "btnOff": {
         "message": "ВЫКЛ"
     },
@@ -34,9 +31,6 @@
     },
     "step1Title": {
         "message": "1. Нажмите на значок"
-    },
-    "step2Desc": {
-        "message": "Нажмите, чтобы открыть меню Разблокировщика New York Times."
     },
     "step2Title": {
         "message": "2. Открыть меню"
