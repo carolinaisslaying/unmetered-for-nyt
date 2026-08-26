@@ -180,6 +180,15 @@
       margin: 0;
     }
 
+    .cols p.struck { margin-bottom: 10px; }
+
+    .cols p.now-small {
+      color: var(--ink);
+      font-size: 14px;
+      border-left: 3px solid var(--ink);
+      padding-left: 11px;
+    }
+
     footer {
       margin-top: 48px;
       padding-top: 16px;
@@ -278,8 +287,11 @@
         </div>
         <div>
           <h3 data-i18n="feat2Title">PRIVACY FIRST</h3>
-          <p data-i18n="feat2Desc">Your reading habits remain yours. We do not track your history or sell your
-            data.</p>
+          <p class="struck" data-i18n="feat2Desc">Your reading habits remain yours. We do not track your history
+            or sell your data.</p>
+          <p class="now-small" data-i18n="feat2Now">It said this while sending a generated device ID, your
+            platform and your full user agent to a remote server on every install, and calling Google for fonts
+            every time you opened the popup. In this version it is true.</p>
         </div>
       </div>
     </section>

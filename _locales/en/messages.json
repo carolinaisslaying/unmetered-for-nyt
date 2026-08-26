@@ -142,5 +142,8 @@
     },
     "ev4Detail": {
         "message": "In 49 of its 54 languages the extension promised two free articles a day. Its code allowed ten. The translations had not been re-read in a long time."
+    },
+    "feat2Now": {
+        "message": "It said this while sending a generated device ID, your platform and your full user agent to a remote server on every install, and calling Google for fonts every time you opened the popup. In this version it is true."
     }
 }
