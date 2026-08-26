@@ -1,37 +1,43 @@
 {
-  "manifest_version": 2,
-  "name": "__MSG_extName__",
-  "version": "4.0.0",
-  "default_locale": "en",
-  "description": "__MSG_extDesc__",
-  "permissions": [
-    "webRequest",
-    "webRequestBlocking",
-    "storage",
-    "cookies",
-    "*://*.nytimes.com/*"
-  ],
-  "background": {
-    "scripts": [
-      "background.js"
+    "manifest_version": 2,
+    "name": "__MSG_extName__",
+    "version": "4.0.0",
+    "default_locale": "en",
+    "description": "__MSG_extDesc__",
+    "author": "carolinaisslaying",
+    "developer": {
+        "name": "carolinaisslaying",
+        "url": "https://github.com/carolinaisslaying"
+    },
+    "homepage_url": "https://github.com/carolinaisslaying/unmetered-for-nyt",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "unmetered-for-nyt@carolinainthe.icu",
+            "data_collection_permissions": {
+                "required": [
+                    "none"
+                ]
+            }
+        }
+    },
+    "icons": {
+        "128": "icon.png"
+    },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "storage",
+        "cookies",
+        "*://*.nytimes.com/*"
     ],
-    "persistent": false
-  },
-  "icons": {
-    "128": "icon.png"
-  },
-  "browser_action": {
-    "default_popup": "popup.html",
-    "default_title": "__MSG_actionTitle__"
-  },
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "{88e615ba-63d1-4010-882f-be7d26fee8e0}",
-      "data_collection_permissions": {
-        "required": [
-          "none"
-        ]
-      }
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "__MSG_actionTitle__"
     }
-  }
 }

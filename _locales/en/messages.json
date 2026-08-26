@@ -9,7 +9,7 @@
         "message": "ON"
     },
     "extDesc": {
-        "message": "Removes the paywall and article limit on the New York Times website. Free and open source."
+        "message": "Removes the paywall and article meter on the New York Times website. No limits, no accounts, no telemetry. Free and open source."
     },
     "extName": {
         "message": "Unmetered for NYT"

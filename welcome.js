@@ -8,7 +8,7 @@
 // than its slug, so it keeps resolving if the listing is renamed.
 const ORIGINAL_LISTING =
   'https://addons.mozilla.org/en-US/firefox/addon/%7B49f6d1c7-8149-47dd-bc30-c79c2c2c6b86%7D/';
-const SOURCE_REPOSITORY = 'https://github.com/REPLACE-ME/unmetered-for-nyt';
+const SOURCE_REPOSITORY = 'https://github.com/carolinaisslaying/unmetered-for-nyt';
 
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('current-date').textContent =
