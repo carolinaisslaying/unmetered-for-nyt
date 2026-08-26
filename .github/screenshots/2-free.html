@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Screenshot 2 — price</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  .cols { display: grid; grid-template-columns: 1.02fr 1fr; gap: 30px; margin-top: 30px; align-items: stretch; }
+  .price { padding: 28px 30px 30px; }
+  .price .amount { font-size: 74px; font-weight: 700; letter-spacing: -3px; line-height: 1; margin: 0; }
+  .price .amount span {
+    font-family: var(--sans); font-size: 15px; font-weight: 700; letter-spacing: 1.8px;
+    text-transform: uppercase; color: var(--muted); margin-left: 12px;
+  }
+  .price .say { font-family: var(--sans); font-size: 14px; color: var(--muted); margin: 12px 0 20px; }
+  .ticks { list-style: none; margin: 0; padding: 0; font-family: var(--sans); font-size: 15px; }
+  .ticks li { display: flex; gap: 12px; padding: 9px 0; border-top: 1px solid var(--rule); }
+  .ticks li:first-child { border-top: 0; }
+  .ticks b { color: var(--ink); font-weight: 700; }
+
+  /* Struck out, the way welcome.html marks what this fork removed. */
+  .removed { padding: 24px 28px 26px; }
+  .removed .head {
+    font-family: var(--sans); font-size: 11px; font-weight: 700; letter-spacing: 1.6px;
+    text-transform: uppercase; color: var(--ink);
+    border-bottom: 1px solid var(--ink); padding-bottom: 9px; margin: 0 0 4px;
+  }
+  .removed ul { margin: 0; padding: 0; }
+  .removed li { list-style: none; padding: 12px 0; border-bottom: 1px solid var(--rule); }
+  .removed li:last-child { border-bottom: 0; }
+  .struck {
+    font-size: 19px; color: var(--muted); margin: 0;
+    text-decoration: line-through; text-decoration-color: var(--red); text-decoration-thickness: 2px;
+  }
+  .removed .why { font-family: var(--sans); font-size: 13px; color: var(--faint); margin: 4px 0 0; }
+</style>
+</head>
+<body>
+<div class="slide">
+  <div class="masthead">
+    <img src="../../icons/icon-32.png" alt="">
+    <span class="name">Unmetered for NYT</span>
+    <span class="frame">Price</span>
+  </div>
+  <div class="strike"></div>
+
+  <div class="body">
+    <p class="kicker">What it costs</p>
+    <h1>Nothing here costs money</h1>
+    <p class="sub">The extension counts nothing and charges nothing. This is the whole pricing page.</p>
+
+    <div class="cols">
+      <div class="panel price">
+        <p class="amount">$0<span>Forever</span></p>
+        <p class="say">Free software under the Mozilla Public License 2.0.</p>
+        <ul class="ticks">
+          <li><b>&#10003;</b><span>Unlimited articles, every day</span></li>
+          <li><b>&#10003;</b><span>No account, no email, no sign-up</span></li>
+          <li><b>&#10003;</b><span>No trial that expires</span></li>
+          <li><b>&#10003;</b><span>No referral scheme and no upsell in the popup</span></li>
+          <li><b>&#10003;</b><span>Source published, so you can check all of this</span></li>
+        </ul>
+      </div>
+
+      <div class="panel tint removed">
+        <p class="head">Removed in this version</p>
+        <ul>
+          <li>
+            <p class="struck">3 minutes of unlimited access, then a limit</p>
+            <p class="why">The install-time trial is gone.</p>
+          </li>
+          <li>
+            <p class="struck">A daily limit of 10 free articles</p>
+            <p class="why">Nothing counts your reading any more.</p>
+          </li>
+          <li>
+            <p class="struck">Upgrade to our lifetime plan</p>
+            <p class="why">There is no plan and no payment.</p>
+          </li>
+          <li>
+            <p class="struck">A call home on every install</p>
+            <p class="why">It sent a device ID, your platform and your user agent.</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="foot">If you read the Times often, please support their journalism with a subscription.</p>
+  </div>
+</div>
+</body>
+</html>

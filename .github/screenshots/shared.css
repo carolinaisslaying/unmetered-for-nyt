@@ -1,0 +1,132 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
+
+/* Styling for the AMO listing screenshots.
+   Ink, paper and one red accent, taken from the icon: a black badge, white
+   article lines, a red strike. Rules instead of shadows, square corners
+   instead of round, so the frames sit next to welcome.html and popup.html as
+   the same object. Fonts are system fonts and every mark is CSS or SVG, so
+   rendering makes no network request. */
+
+:root {
+  --serif: Georgia, 'Times New Roman', Times, serif;
+  --sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --ink: #121212;
+  --muted: #6b6b6b;
+  --faint: #9a9a9a;
+  --rule: #dcdcdc;
+  --red: #a11;
+  --paper: #fff;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  width: 1280px;
+  height: 800px;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.slide { width: 1280px; height: 800px; display: flex; flex-direction: column; }
+
+/* Masthead: the icon, the name, and which frame this is. */
+.masthead {
+  height: 62px;
+  background: var(--ink);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 0 40px;
+  flex: none;
+}
+
+.masthead img { width: 26px; height: 26px; display: block; }
+
+.masthead .name {
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+}
+
+.masthead .frame {
+  margin-left: auto;
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2.2px;
+  text-transform: uppercase;
+  color: #b9b9b9;
+}
+
+/* Red hairline under the masthead, echoing the strike in the icon. */
+.masthead + .strike { height: 3px; background: var(--red); flex: none; }
+
+.body { flex: 1; padding: 52px 60px 34px; display: flex; flex-direction: column; }
+
+.kicker {
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  color: var(--red);
+  border-top: 2px solid var(--ink);
+  padding-top: 8px;
+  margin: 0 0 16px;
+  align-self: flex-start;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 1.1;
+  margin: 0 0 14px;
+  max-width: 1050px;
+}
+
+.sub { font-size: 20px; color: #3d3d3d; margin: 0; max-width: 900px; }
+
+.label {
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 10px;
+}
+
+.label.bad { color: var(--red); }
+
+/* Panels are ruled, not floated: 1px of ink, square corners, no shadow. */
+.panel { border: 1px solid var(--ink); background: var(--paper); }
+.panel.tint { background: #fafaf8; }
+
+.sans { font-family: var(--sans); }
+.muted { color: var(--muted); }
+
+.lines { display: flex; flex-direction: column; gap: 9px; }
+.lines i { display: block; height: 9px; background: #e6e6e6; }
+
+.foot {
+  margin-top: auto;
+  padding-top: 20px;
+  border-top: 1px solid var(--ink);
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--muted);
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Screenshot 4 — privacy</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin-top: 30px; border: 1px solid var(--ink); }
+  .cards > div { padding: 26px 26px 28px; border-left: 1px solid var(--rule); }
+  .cards > div:first-child { border-left: 0; }
+  .cards h3 { font-family: var(--sans); font-size: 18px; font-weight: 700; margin: 16px 0 8px; }
+  .cards p { font-family: var(--sans); font-size: 15px; color: var(--muted); margin: 0; }
+
+  /* Drawn marks: emoji render as flat colour blobs at this size. */
+  .mark { width: 32px; height: 32px; }
+  .mark rect, .mark path, .mark circle, .mark line { stroke: var(--ink); stroke-width: 1.7; fill: none; }
+  .mark .hot { stroke: var(--red); stroke-width: 2; }
+
+  .strip {
+    margin-top: 26px; display: flex; align-items: center; gap: 20px;
+    border: 1px solid var(--ink); border-left-width: 5px; background: #fafaf8;
+    padding: 20px 24px;
+  }
+  .strip .tag {
+    font-family: var(--sans); font-size: 11px; font-weight: 700; letter-spacing: 1.2px;
+    background: var(--ink); color: #fff; padding: 5px 10px; flex: none;
+  }
+  .strip h3 { font-family: var(--sans); font-size: 17px; font-weight: 700; margin: 0 0 3px; }
+  .strip p { font-family: var(--sans); font-size: 14px; color: var(--muted); margin: 0; }
+
+  .perms { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin-top: 22px; border-top: 1px solid var(--ink); }
+  .perms > div { padding: 16px 22px 20px; border-left: 1px solid var(--rule); }
+  .perms > div:first-child { padding-left: 0; border-left: 0; }
+  .perms code {
+    font-family: var(--sans); font-size: 12px; font-weight: 700; letter-spacing: 1.4px;
+    text-transform: uppercase; color: var(--red);
+  }
+  .perms p { font-family: var(--sans); font-size: 14px; color: var(--muted); margin: 7px 0 0; }
+</style>
+</head>
+<body>
+<div class="slide">
+  <div class="masthead">
+    <img src="../../icons/icon-32.png" alt="">
+    <span class="name">Unmetered for NYT</span>
+    <span class="frame">Privacy</span>
+  </div>
+  <div class="strike"></div>
+
+  <div class="body">
+    <p class="kicker">What it stores</p>
+    <h1>Your reading stays in your browser</h1>
+    <p class="sub">The extension holds no code that could send it anywhere.</p>
+
+    <div class="cards">
+      <div>
+        <svg class="mark" viewBox="0 0 32 32"><rect x="6" y="14" width="20" height="14"></rect><path d="M11 14v-4a5 5 0 0 1 10 0v4"></path></svg>
+        <h3>No account</h3>
+        <p>No email, no password, no sign-in. The extension does not know who you are.</p>
+      </div>
+      <div>
+        <svg class="mark" viewBox="0 0 32 32"><circle cx="16" cy="16" r="10"></circle><line class="hot" x1="9" y1="23" x2="23" y2="9"></line></svg>
+        <h3>It calls nothing</h3>
+        <p>No server, no device ID, no analytics, no remote fonts or scripts.</p>
+      </div>
+      <div>
+        <svg class="mark" viewBox="0 0 32 32"><rect x="5" y="7" width="22" height="18"></rect><line x1="5" y1="13" x2="27" y2="13"></line><circle cx="9" cy="10" r="1.2"></circle></svg>
+        <h3>One stored value</h3>
+        <p>It keeps one value on your computer: whether the switch is on.</p>
+      </div>
+    </div>
+
+    <div class="strip">
+      <span class="tag">NYT</span>
+      <div>
+        <h3>It stands down for subscribers</h3>
+        <p>When it finds a New York Times session it stops blocking, so it leaves a subscription you pay for alone.</p>
+      </div>
+    </div>
+
+    <div class="perms">
+      <div>
+        <code>nytimes.com</code>
+        <p>The one site it can see. Every other tab is invisible to it.</p>
+      </div>
+      <div>
+        <code>cookies</code>
+        <p>Reads one cookie name to spot a Times session, then forgets it.</p>
+      </div>
+      <div>
+        <code>storage</code>
+        <p>Holds the on/off setting, and has room for nothing else.</p>
+      </div>
+    </div>
+
+    <p class="foot">Host access covers nytimes.com and no other site. Source published under the Mozilla Public License 2.0.</p>
+  </div>
+</div>
+</body>
+</html>

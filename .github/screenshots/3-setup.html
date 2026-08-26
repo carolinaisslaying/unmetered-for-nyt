@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Screenshot 3 — the button</title>
+<link rel="stylesheet" href="shared.css">
+<style>
+  .cols { display: grid; grid-template-columns: 400px 1fr; gap: 54px; margin-top: 30px; align-items: start; }
+
+  /* A replica of popup.html at 1.25x, down to the button rather than a switch. */
+  .popup { padding: 20px; font-family: var(--sans); }
+  .popup .top { text-align: center; border-bottom: 1px solid var(--rule); padding-bottom: 15px; margin-bottom: 20px; }
+  .popup .top h2 { font-family: var(--serif); font-size: 25px; font-weight: 700; letter-spacing: -.3px; margin: 0; }
+  .popup .date {
+    font-size: 12px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .6px; color: var(--muted); margin-top: 5px;
+  }
+  .popup .tag {
+    font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px;
+    border-top: 1px solid var(--ink); display: inline-block; padding-top: 5px; margin-bottom: 10px;
+  }
+  .popup .row { display: flex; justify-content: space-between; align-items: center; gap: 14px; }
+  .popup .state { font-family: var(--serif); font-size: 21px; font-weight: 700; }
+  .popup .statesub { font-size: 14px; color: var(--muted); margin-top: 3px; }
+  .popup .btn {
+    font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: .6px;
+    padding: 8px 20px; background: var(--ink); color: #fff; border: 1px solid var(--ink);
+  }
+  .popup .end {
+    margin: 20px 0 0; padding-top: 12px; border-top: 1px solid var(--rule);
+    text-align: center; font-size: 12px; line-height: 1.5; color: var(--muted);
+  }
+
+  ol.steps { list-style: none; margin: 0; padding: 0; }
+  ol.steps li { display: flex; gap: 16px; margin-bottom: 22px; }
+  ol.steps .n {
+    width: 30px; height: 30px; background: var(--ink); color: #fff;
+    font-family: var(--sans); font-size: 14px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; flex: none;
+  }
+  ol.steps h3 { font-family: var(--sans); font-size: 17px; font-weight: 700; margin: 3px 0 4px; }
+  ol.steps p { font-family: var(--sans); font-size: 15px; color: var(--muted); margin: 0; }
+
+  .states { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin-top: 26px; border: 1px solid var(--ink); }
+  .states > div { display: flex; gap: 14px; align-items: flex-start; padding: 18px 20px; border-left: 1px solid var(--rule); }
+  .states > div:first-child { border-left: 0; }
+  .states .pill {
+    font-family: var(--sans); font-size: 11px; font-weight: 700; letter-spacing: 1.1px;
+    color: #fff; padding: 4px 8px; flex: none; margin-top: 2px;
+  }
+  .b-on { background: #2196F3; } .b-off { background: #888; } .b-nyt { background: #121212; }
+  .states h3 { font-family: var(--sans); font-size: 15px; font-weight: 700; margin: 0 0 3px; }
+  .states p { font-family: var(--sans); font-size: 14px; color: var(--muted); margin: 0; }
+</style>
+</head>
+<body>
+<div class="slide">
+  <div class="masthead">
+    <img src="../../icons/icon-32.png" alt="">
+    <span class="name">Unmetered for NYT</span>
+    <span class="frame">The button</span>
+  </div>
+  <div class="strike"></div>
+
+  <div class="body">
+    <p class="kicker">Setup</p>
+    <h1>The whole interface is one button</h1>
+    <p class="sub">It works the moment you install it. There is no account and no options page.</p>
+
+    <div class="cols">
+      <div class="panel popup">
+        <div class="top">
+          <h2>Unmetered for NYT</h2>
+          <div class="date">Wednesday, 27 August</div>
+        </div>
+        <div class="tag">Status</div>
+        <div class="row">
+          <div>
+            <div class="state">Protection Active</div>
+            <div class="statesub">Reading without limits</div>
+          </div>
+          <span class="btn">On</span>
+        </div>
+        <p class="end">Free, unmetered, and open source.<br>Why this fork exists</p>
+      </div>
+
+      <ol class="steps">
+        <li>
+          <div class="n">1</div>
+          <div><h3>Install it</h3><p>No email, no password, no trial to start.</p></div>
+        </li>
+        <li>
+          <div class="n">2</div>
+          <div><h3>Open an article</h3><p>Works on nytimes.com article pages, in 52 languages.</p></div>
+        </li>
+        <li>
+          <div class="n">3</div>
+          <div><h3>Read it</h3><p>The button on the left is the only setting.</p></div>
+        </li>
+      </ol>
+    </div>
+
+    <div class="states">
+      <div>
+        <span class="pill b-on">ON</span>
+        <div><h3>Active</h3><p>Blocking the meter and the gate.</p></div>
+      </div>
+      <div>
+        <span class="pill b-off">OFF</span>
+        <div><h3>Switched off</h3><p>You get the site back as it ships.</p></div>
+      </div>
+      <div>
+        <span class="pill b-nyt">NYT</span>
+        <div><h3>Standing down</h3><p>It found a Times session and stopped.</p></div>
+      </div>
+    </div>
+
+    <p class="foot">Check the toolbar badge to see which of the three states you are in.</p>
+  </div>
+</div>
+</body>
+</html>
