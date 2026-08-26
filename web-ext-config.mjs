@@ -6,6 +6,7 @@ export default {
     'web-ext-config.mjs',
     'web-ext-artifacts',
     'dist',
+    'tools',
     'README.md',
     '.github',
     '.idea',
