@@ -1,70 +1,47 @@
-// Popup script
-$(() => {
-  const $toggle = $('#toggle-button'), $status = $('#status-text');
-  const $upgrade = $('#upgrade-container'), $badge = $('#premium-badge-container');
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-  // Init
-  browser.runtime.sendMessage({ action: 'getStatus' }).then(r => updateUI(r));
-  browser.storage.local.get(['premium']).then(r => updatePremium(r.premium));
+document.addEventListener('DOMContentLoaded', () => {
+  const toggle = document.getElementById('toggle-button');
+  const statusText = document.getElementById('status-text');
+  const statusSub = document.getElementById('status-sub');
 
-  // Events
-  $toggle.click(() => {
-    // Check if disabled prop is set (visual) or check premium storage (secure)
-    if ($toggle.prop('disabled')) return;
-    browser.runtime.sendMessage({ action: 'toggle' }).then(r => updateUI(r));
-  });
-  $('#upgrade-button').click(() => browser.storage.local.get(['subscriptionUrl']).then(r =>
-    browser.tabs.create({ url: r.subscriptionUrl || 'https://www.buymeacoffee.com/trinhnv1205/membership' })));
-
-  $('#restore-link').click(e => { e.preventDefault(); $('#restore-form').toggleClass('d-none'); });
-  $('#verify-btn').click(function () {
-    const email = $('#email-input').val();
-    if (!email) return;
-    const $btn = $(this).prop('disabled', true).text('...');
-    $('#verify-msg').text('').removeClass('text-success text-danger');
-
-    browser.runtime.sendMessage({ action: 'verifyEmail', email }).then(r => {
-      $btn.prop('disabled', false).text(browser.i18n.getMessage('btnVerify'));
-      if (r && r.success && r.premium) {
-        $('#verify-msg').text(browser.i18n.getMessage('verifySuccess')).addClass('text-success');
-        setTimeout(() => updatePremium(true), 1000);
-      } else {
-        $('#verify-msg').text(browser.i18n.getMessage('verifyNotFound')).addClass('text-danger');
-      }
+  document.getElementById('current-date').textContent =
+    new Date().toLocaleDateString(undefined, {
+      weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
     });
-  });
 
-  function updateUI(response) {
+  const msg = key => browser.i18n.getMessage(key);
+
+  function render(response) {
     if (!response) return;
     const on = response.isEnabled !== false;
-    $toggle.text(on ? browser.i18n.getMessage('btnOn') : browser.i18n.getMessage('btnOff')).toggleClass('active', on);
+
+    toggle.textContent = on ? msg('btnOn') : msg('btnOff');
+    toggle.classList.toggle('active', on);
+    toggle.setAttribute('aria-pressed', String(on));
 
     if (response.hasCookie) {
-      $status.text('Logged In');
-      $('#status-sub').text('Native access granted');
-    } else if (response.isLimitReached && !response.isPremium) {
-      $status.text('Limit Reached');
-      $('#status-sub').text('Protection paused');
-      $('#limit-warning').removeClass('d-none');
+      statusText.textContent = msg('statusSignedIn');
+      statusSub.textContent = msg('statusSignedInSub');
     } else {
-      $status.text(on ? browser.i18n.getMessage('statusActive') : browser.i18n.getMessage('statusDisabled'));
-      $('#status-sub').text(browser.i18n.getMessage('statusSub'));
-      $('#limit-warning').addClass('d-none');
+      statusText.textContent = on ? msg('statusActive') : msg('statusDisabled');
+      statusSub.textContent = on ? msg('statusSub') : msg('statusDisabledSub');
     }
   }
 
-  function updatePremium(isPremium) {
-    $upgrade.toggle(!isPremium);
-    $badge.toggleClass('d-none', !isPremium);
+  toggle.addEventListener('click', () => {
+    browser.runtime.sendMessage({ action: 'toggle' }).then(render);
+  });
 
-    // Lock toggle for free users
-    $toggle.prop('disabled', !isPremium);
-    if (!isPremium) {
-      $toggle.attr('title', browser.i18n.getMessage('premiumFeatureOnly'));
-    } else {
-      $toggle.removeAttr('title');
-      $('.premium-headline').text(browser.i18n.getMessage('premiumThankYou'));
-      $('.premium-subhead').text(browser.i18n.getMessage('premiumUnlimited'));
-    }
-  }
+  // The welcome page is an extension page; open it as a real tab rather than
+  // navigating the popup, which would just close it.
+  document.getElementById('note-link').addEventListener('click', event => {
+    event.preventDefault();
+    browser.tabs.create({ url: browser.runtime.getURL('welcome.html') });
+    window.close();
+  });
+
+  browser.runtime.sendMessage({ action: 'getStatus' }).then(render);
 });

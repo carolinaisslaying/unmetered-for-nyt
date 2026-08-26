@@ -1,5 +1,15 @@
 {
-  "dependencies": {
+  "name": "unmetered-for-nyt",
+  "version": "4.0.0",
+  "description": "Removes the paywall and article limit on the New York Times website. Free and open source.",
+  "license": "MPL-2.0",
+  "private": true,
+  "scripts": {
+    "lint": "web-ext lint",
+    "start": "web-ext run",
+    "build": "web-ext build"
+  },
+  "devDependencies": {
     "web-ext": "^9.2.0"
   }
 }
